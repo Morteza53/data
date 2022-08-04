@@ -1,0 +1,151 @@
+Store,Sales Turnover,Store Size,Staff Size,Profit Margin
+New York,5.1,3.5,1.4,0.2
+Los Angeles,4.9,3,1.4,0.2
+Chicago,4.7,3.2,1.3,0.2
+Houston,4.6,3.1,1.5,0.2
+Philadelphia,5,3.6,1.4,0.2
+Phoenix,5.4,3.9,1.7,0.4
+San Antonio,4.6,3.4,1.4,0.3
+San Diego,5,3.4,1.5,0.2
+Dallas,4.4,2.9,1.4,0.2
+San Jose,4.9,3.1,1.5,0.1
+Jacksonville,5.4,3.7,1.5,0.2
+Indianapolis,4.8,3.4,1.6,0.2
+San Francisco,4.8,3,1.4,0.1
+Austin,4.3,3,1.1,0.1
+Columbus,5.8,4,1.2,0.2
+Fort Worth,5.7,4.4,1.5,0.4
+Charlotte,5.4,3.9,1.3,0.4
+Detroit,5.1,3.5,1.4,0.3
+El Paso,5.7,3.8,1.7,0.3
+Memphis,5.1,3.8,1.5,0.3
+Baltimore,5.4,3.4,1.7,0.2
+Boston,5.1,3.7,1.5,0.4
+Seattle,4.6,3.6,1,0.2
+Washington,5.1,3.3,1.7,0.5
+Nashville ,4.8,3.4,1.9,0.2
+Denver,5,3,1.6,0.2
+Louisville,5,3.4,1.6,0.4
+Milwaukee,5.2,3.5,1.5,0.2
+Portland,5.2,3.4,1.4,0.2
+Las Vegas,4.7,3.2,1.6,0.2
+Oklahoma City,4.8,3.1,1.6,0.2
+Albuquerque,5.4,3.4,1.5,0.4
+Tucson,5.2,4.1,1.5,0.1
+Fresno,5.5,4.2,1.4,0.2
+Sacramento,4.9,3.1,1.5,0.1
+Long Beach,5,3.2,1.2,0.2
+Kansas City,5.5,3.5,1.3,0.2
+Mesa,4.9,3.1,1.5,0.1
+Virginia Beach ,4.4,3,1.3,0.2
+Atlanta,5.1,3.4,1.5,0.2
+Colorado Springs,5,3.5,1.3,0.3
+Omaha,4.5,2.3,1.3,0.3
+Raleigh,4.4,3.2,1.3,0.2
+Miami,5,3.5,1.6,0.6
+Cleveland,5.1,3.8,1.9,0.4
+Tulsa,4.8,3,1.4,0.3
+Oakland,5.1,3.8,1.6,0.2
+Minneapolis,4.6,3.2,1.4,0.2
+Wichita,5.3,3.7,1.5,0.2
+Arlington,5,3.3,1.4,0.2
+Bakersfield,7,3.2,4.7,1.4
+New Orleans,6.4,3.2,4.5,1.5
+Honolulu ,6.9,3.1,4.9,1.5
+Anaheim,5.5,2.3,4,1.3
+Tampa,6.5,2.8,4.6,1.5
+Aurora,5.7,2.8,4.5,1.3
+Santa Ana,6.3,3.3,4.7,1.6
+Saint Louis,4.9,2.4,3.3,1
+Pittsburgh,6.6,2.9,4.6,1.3
+Corpus Christi,5.2,2.7,3.9,1.4
+Riverside,5,2,3.5,1
+Cincinnati,5.9,3,4.2,1.5
+Lexington,6,2.2,4,1
+Anchorage,6.1,2.9,4.7,1.4
+Stockton,5.6,2.9,3.6,1.3
+Toledo,6.7,3.1,4.4,1.4
+Saint Paul,5.6,3,4.5,1.5
+Newark,5.8,2.7,4.1,1
+Greensboro,6.2,2.2,4.5,1.5
+Buffalo,5.6,2.5,3.9,1.1
+Plano,5.9,3.2,4.8,1.8
+Lincoln,6.1,2.8,4,1.3
+Henderson,6.3,2.5,4.9,1.5
+Fort Wayne,6.1,2.8,4.7,1.2
+Jersey City,6.4,2.9,4.3,1.3
+Saint Petersburg,6.6,3,4.4,1.4
+Chula Vista,6.8,2.8,4.8,1.4
+Norfolk ,6.7,3,5,1.7
+Orlando,6,2.9,4.5,1.5
+Chandler,5.7,2.6,3.5,1
+Laredo,5.5,2.4,3.8,1.1
+Madison,5.5,2.4,3.7,1
+Winston-Salem,5.8,2.7,3.9,1.2
+Lubbock,6,2.7,5.1,1.6
+Baton Rouge,5.4,3,4.5,1.5
+Durham,6,3.4,4.5,1.6
+Garland,6.7,3.1,4.7,1.5
+Glendale,6.3,2.3,4.4,1.3
+Reno,5.6,3,4.1,1.3
+Hialeah,5.5,2.5,4,1.3
+Chesapeake ,5.5,2.6,4.4,1.2
+Scottsdale,6.1,3,4.6,1.4
+North Las Vegas,5.8,2.6,4,1.2
+Irving,5,2.3,3.3,1
+Fremont,5.6,2.7,4.2,1.3
+Irvine,5.7,3,4.2,1.2
+Birmingham,5.7,2.9,4.2,1.3
+Rochester,6.2,2.9,4.3,1.3
+San Bernardino,5.1,2.5,3,1.1
+Spokane,5.7,2.8,4.1,1.3
+Gilbert,6.3,3.3,6,2.5
+Arlington,5.8,2.7,5.1,1.9
+Montgomery,7.1,3,5.9,2.1
+Boise,6.3,2.9,5.6,1.8
+Richmond,6.5,3,5.8,2.2
+Des Moines,7.6,3,6.6,2.1
+Modesto,4.9,2.5,4.5,1.7
+Fayetteville,7.3,2.9,6.3,1.8
+Shreveport,6.7,2.5,5.8,1.8
+Akron,7.2,3.6,6.1,2.5
+Tacoma,6.5,3.2,5.1,2
+Oxnard,6.4,2.7,5.3,1.9
+Aurora,6.8,3,5.5,2.1
+Fontana,5.7,2.5,5,2
+Yonkers,5.8,2.8,5.1,2.4
+Augusta,6.4,3.2,5.3,2.3
+Mobile,6.5,3,5.5,1.8
+Little Rock,7.7,3.8,6.7,2.2
+Moreno Valley,7.7,2.6,6.9,2.3
+Glendale,6,2.2,5,1.5
+Amarillo,6.9,3.2,5.7,2.3
+Huntington Beach,5.6,2.8,4.9,2
+Columbus,7.7,2.8,6.7,2
+Grand Rapids,6.3,2.7,4.9,1.8
+Salt Lake City,6.7,3.3,5.7,2.1
+Tallahassee,7.2,3.2,6,1.8
+Worcester,6.2,2.8,4.8,1.8
+Newport News,6.1,3,4.9,1.8
+Huntsville,6.4,2.8,5.6,2.1
+Knoxville,7.2,3,5.8,1.6
+Providence,7.4,2.8,6.1,1.9
+Santa Clarita,7.9,3.8,6.4,2
+Grand Prairie,6.4,2.8,5.6,2.2
+Brownsville,6.3,2.8,5.1,1.5
+Jackson,6.1,2.6,5.6,1.4
+Overland Park,7.7,3,6.1,2.3
+Garden Grove,6.3,3.4,5.6,2.4
+Santa Rosa,6.4,3.1,5.5,1.8
+Chattanooga,6,3,4.8,1.8
+Oceanside,6.9,3.1,5.4,2.1
+Fort Lauderdale,6.7,3.1,5.6,2.4
+Rancho Cucamonga,6.9,3.1,5.1,2.3
+Port Saint Lucie,5.8,2.7,5.1,1.9
+Ontario,6.8,3.2,5.9,2.3
+Vancouver,6.7,3.3,5.7,2.5
+Tempe,6.7,3,5.2,2.3
+Springfield,6.3,2.5,5,1.9
+Lancaster,6.5,3,5.2,2
+Eugene,6.2,3.4,5.4,2.3
+Pembroke Pines,5.9,3,5.1,1.8
