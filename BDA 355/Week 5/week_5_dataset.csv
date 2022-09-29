@@ -1,0 +1,16 @@
+﻿ID,age,gender,product,cost,selling_price,quantity
+1,52,Male,E,425,485,5
+2,32,Female,S,342,350,4
+3,35,Female,S,222,233,2
+4,50,Male,P,929,936,7
+5,43,Female,E,343,359,NA
+6,49,Female,P,240,249,3
+7,38,Male,P,1000,1089,7
+8,29,Female,E,405,423,4
+9,22,Male,S,660,689,7
+10,46,Female,P,307,325,3
+11,43,Female,E,414,431,4
+12,36,Male,E,544,596,7
+13,42,Female,S,500,519,5
+14,34,Female,NA, , , 
+15,69,NA,P,811,845,8
