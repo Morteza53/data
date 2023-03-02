@@ -1,0 +1,9 @@
+Age,KM,Fuel_Type,HP,Automatic
+30,50000,Petrol,90,0
+40,100000,Diesel,120,0
+18,40000,Petrol,90,1
+15,38000,Diesel,150,0
+2,10000,Diesel,100,1
+10,13000,Petrol,130,0
+12,15000,Diesel,90,1
+13,30000,CNG,100,0
