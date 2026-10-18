@@ -1,0 +1,166 @@
+ Transaction No , Product Code,Retailer Name ,Store City, REGION,Sale Date ,Units Sold,Unit Price ,Discount Percent,Customer Rating,Sales Channel ,Payment Method,Returned ,Notes
+T0001,P014,CITY MARKET,Atlanta,South,3/23/2026,6,$20.33 ,10%,3.7,Store,cash ,NO,promotion
+T0002,P007,City Market,Newark,Northeast,4/2/2026,5,$12.25 ,0%,4.2, STORE ,cash ,YES,
+T0003,P008,CITY MARKET,Miami,South,7/19/2026,3,$12.31 ,15%,3.2,online,Mobile,NO,promotion
+T0004,P018,Shop Way,Chicago,Midwest,6/24/2026,23,$18.90 ,10%,4.8,Online,DEBIT CARD,yes ,
+T0005,P008,City Market,Seattle,West,3/22/2026,15,,0%,3.7,store,Mobile,NO,loyalty customer
+T0006,P005,ShopWay,Chicago,Midwest,7/20/2026,16,$19.18 ,5%,3.3,store,DEBIT CARD,yes ,weekday sale
+T0007,P017,ValueGrocer,Newark,Northeast,4/23/2026,12,$15.18 ,5%,,ONLINE ,Mobile,NO,
+T0008,P009,Green Basket,Miami,South,6/27/2026,24,$13.73 ,0%,4,Store,Credit Card,YES,promotion
+T0009,P018,City Market,Seattle,West,4/3/2026,12,$16.58 ,0%,4.9,Online,Credit Card,Yes,
+T0010,P005,City Market,Chicago,Midwest,4/10/2026,14,$13.41 ,10%,4.2,online,credit card ,NO,weekday sale
+T0011,P019,ValueGrocer,Seattle,West,8/12/2026,9,$13.54 ,0%,3.5,online,Mobile Payment,yes ,weekday sale
+T0012, p009 ,CITY MARKET,Atlanta,South,7/23/2026,22,$9.77 ,0%,3.2,ONLINE ,Debit Card,No,loyalty customer
+T0013,P010,Shop Way,Chicago,Midwest,5/4/2026,8,$18.65 ,15%,3.7, STORE ,DEBIT CARD,YES,loyalty customer
+T0014,P007,CITY MARKET,Phoenix,West,4/9/2026,2,$22.88 ,20%,4.4,store,Debit Card,NO,weekday sale
+T0015,P018,GreenBasket,Columbus,Midwest,5/6/2026,-3,$15.96 ,0%,4.4, STORE ,DEBIT CARD,Yes,
+T0016,P005,FreshMart,Newark,Northeast,4/15/2026,19,$10.61 ,15%,2.9,ONLINE ,Mobile Payment,YES,loyalty customer
+T0017,P008,FreshMart,Seattle,West,6/22/2026,15,$14.77 ,0%,4.4,store,Mobile Payment,yes ,loyalty customer
+T0018,P999,FreshMart,Columbus,Midwest,1/14/2026,22,$12.98 ,0%,3.3,ONLINE ,Cash,Yes,promotion
+T0019,P014,GreenBasket,Boston,Northeast,3/17/2026,7,$22.11 ,0%,3.6,online,Cash,Yes,
+T0020,P013,Shop Way,Atlanta,South,1/22/2026,19,$24.87 ,0%,, STORE ,Mobile,YES,weekday sale
+T0021,P001,FreshMart,Seattle,West,3/9/2026,19,$10.02 ,5%,2.9,online,Debit Card,yes ,
+T0022,P007,freshmart ,Columbus,Midwest,7/25/2026,1,$17.67 ,20%,2.9,Store,Cash,Yes,loyalty customer
+T0023,P011,CITY MARKET,Atlanta,South,1/19/2026,13,,5%,4.7,Online,Mobile,yes ,weekday sale
+T0024,P001,GreenBasket,Chicago,Midwest,7/14/2026,10,$20.67 ,0%,4.5,store,Mobile,Yes,promotion
+T0025,P002,Value Grocer,Seattle,West,7/30/2026,12,$24.94 ,0%,4.5,store,Credit Card,YES,promotion
+T0026,P009,ShopWay,Boston,,2/9/2026,21,$14.63 ,0%,3.6,Online,Mobile Payment,No,promotion
+T0027,P013,Shop Way,Atlanta,South,5/26/2026,2,$13.43 ,5%,3.2,store,Debit Card,YES,weekday sale
+T0028,P001,freshmart ,Miami,South,8/23/2026,22,$13.36 ,15%,3.7,Store,Credit Card, no ,loyalty customer
+T0029,P017,Fresh Mart,Phoenix,West,8/17/2026,2,$13.98 ,20%,5,online,credit card ,YES,weekday sale
+T0030,P011,Shop Way,Atlanta,South,9/5/2026,13,$16.39 ,20%,4.8,Online,DEBIT CARD,YES,promotion
+T0031,P003,FreshMart,Newark,Northeast,5/1/2026,17,$20.67 ,15%,3.4,ONLINE ,Debit Card,Yes,promotion
+T0032,P003,City Market,Boston,Northeast,8/16/2026,17,$15.67 ,5%,6,store,Cash,yes ,loyalty customer
+T0033,P005,Fresh Mart,Newark,Northeast,5/2/2026,5,$17.85 ,15%,3.2, STORE ,Mobile,yes ,weekday sale
+T0034,P019,Green Basket,Boston,Northeast,8/13/2026,1,$12.68 ,20%,4.3,online,, no ,weekday sale
+T0035,P015,ValueGrocer,Phoenix,West,1/27/2026,12,$20.27 ,15%,3,ONLINE ,Mobile Payment,NO,weekday sale
+T0036,P011,Value Grocer,Phoenix,West,2/23/2026,8,$15.32 ,10%,3.2, STORE ,DEBIT CARD,No,weekday sale
+T0037,P013,freshmart ,Boston,Northeast,3/29/2026,5,$13.48 ,0%,4,ONLINE ,Debit Card, no ,loyalty customer
+T0038,P012,Value Grocer,Phoenix,West,9/3/2026,20,$9.31 ,0%,, STORE ,Credit Card,NO,loyalty customer
+T0039,P015,ShopWay,Phoenix,West,3/2/2026,3,$20.74 ,0%,3,online,Debit Card,NO,weekday sale
+T0040,P006,GreenBasket,Seattle,West,7/23/2026,24,$16.78 ,15%,3,store,Mobile Payment,NO,promotion
+T0041,P011,City Market,Columbus,Midwest,4/1/2026,1,$17.62 ,0%,2.9,store,Cash,YES,promotion
+T0042,P019,GreenBasket,Miami,South,3/20/2026,21,$18.50 ,15%,3.1, STORE ,Debit Card, no ,weekday sale
+T0043,P003,freshmart ,Seattle,West,5/6/2026,4,$14.15 ,0%,4.4,ONLINE ,cash ,Yes,
+T0044,P005,ShopWay,Newark,Northeast,4/5/2026,11,$13.16 ,0%,4.1,ONLINE ,Mobile Payment,YES,weekday sale
+T0045,P015,freshmart ,Chicago,Midwest,8/11/2026,5,$14.95 ,5%,4.1,Online,credit card ,YES,loyalty customer
+T0046,P018,ShopWay,Newark,Northeast,8/31/2026,20,$11.82 ,15%,4,store,Debit Card,yes ,weekday sale
+T0047,P019,ValueGrocer,Boston,Northeast,3/23/2026,1,$14.53 ,0%,3.4,Online,Mobile,YES,promotion
+T0048,P017,Shop Way,Chicago,Midwest,7/13/2026,17,$10.19 ,5%,3.8,store,DEBIT CARD,No,loyalty customer
+T0049,P010,Fresh Mart,Columbus,Midwest,7/25/2026,7,,0%,3.6,Online,cash , no ,
+T0050,P002,ValueGrocer,Newark,Northeast,2/10/2026,14,$9.85 ,0%,3.2,Store,cash ,Yes,weekday sale
+T0051,P007,freshmart ,Seattle,West,4/30/2026,9,$15.59 ,0%,4.7,store,Mobile,NO,weekday sale
+T0052,P018,FreshMart,Boston,Northeast,4/28/2026,4,$22.20 ,0%,3.7,online,Mobile,yes ,loyalty customer
+T0053,P017,ValueGrocer,Newark,Northeast,4/23/2026,20,$22.16 ,20%,3.6,store,credit card ,Yes,loyalty customer
+T0054,P010,freshmart ,Seattle,West,1/7/2026,10,$23.56 ,0%,4.6,Store,Debit Card,yes ,loyalty customer
+T0055,P013,ValueGrocer,Miami,South,9/3/2026,13,$11.30 ,0%,4.7,ONLINE ,DEBIT CARD,NO,promotion
+T0056,P019,ValueGrocer,Atlanta,South,2/22/2026,23,$17.43 ,5%,4.9,ONLINE ,credit card , no ,weekday sale
+T0057,P015,Green Basket,Miami,South,8/25/2026,13,$24.64 ,20%,4.9,store,Mobile Payment,No,
+T0058,P014,ValueGrocer,Miami,South,7/29/2026,0,$9.20 ,5%,3.3, STORE ,Credit Card, no ,loyalty customer
+T0059,P015,Green Basket,Columbus,Midwest,6/1/2026,21,$19.81 ,0%,4.3, STORE ,Mobile Payment,Yes,promotion
+T0060,P009,Green Basket,Atlanta,South,4/26/2026,24,$15.62 ,20%,4.3,online,Cash,Yes,promotion
+T0061,P003,freshmart ,Boston,Northeast,3/15/2026,8,$12.90 ,0%,4.3,ONLINE ,credit card ,NO,
+T0062,P009,ValueGrocer,Chicago,Midwest,4/10/2026,1,$14.06 ,5%,4.2,store,Credit Card, no ,loyalty customer
+T0063,P007,Shop Way,Phoenix,West,3/8/2026,22,$20.69 ,15%,,ONLINE ,Credit Card,Yes,promotion
+T0064,P018,CITY MARKET,Seattle,West,5/28/2026,17,$10.37 ,0%,3.6,online,DEBIT CARD, no ,
+T0065,P016,FreshMart,Seattle,West,8/3/2026,16,$11.69 ,15%,4.4,Store,Cash,Yes,loyalty customer
+T0066,P001,FreshMart,Boston,Northeast,7/28/2026,5,$13.40 ,0%,4.4,Store,DEBIT CARD,No,promotion
+T0067,P012,CITY MARKET,Phoenix,West,5/4/2026,23,$9.03 ,15%,3.5,store,DEBIT CARD,yes ,promotion
+T0068,P017,FreshMart,Columbus,Midwest,7/21/2026,10,$10.87 ,0%,4.4,Online,Debit Card,NO,weekday sale
+T0069,P016,CITY MARKET,Chicago,Midwest,3/10/2026,18,$20.25 ,10%,3.7,Store,Debit Card,YES,loyalty customer
+T0070,P005,Shop Way,Chicago,Midwest,2/12/2026,19,$9.08 ,0%,3.5,online,Debit Card,Yes,loyalty customer
+T0071,P018,Green Basket,Columbus,Midwest,8/30/2026,17,$9.51 ,0%,4.2,Online,Credit Card,YES,loyalty customer
+T0072,P013,ShopWay,Chicago,,7/25/2026,4,$10.44 ,0%,5, STORE ,Credit Card,No,
+T0073,P003,ShopWay,Newark,Northeast,6/24/2026,3,$15.60 ,0%,4.8,store,Mobile Payment,Yes,promotion
+T0074, p013 ,ValueGrocer,Seattle,West,4/22/2026,12,$19.29 ,20%,3.8,store,DEBIT CARD,No,promotion
+T0075,P007,FreshMart,Chicago,Midwest,8/8/2026,20,$20.47 ,10%,3.8,store,Cash,Yes,loyalty customer
+T0076,P010,GreenBasket,Newark,Northeast,6/8/2026,1,$14.01 ,0%,4.1, STORE ,Mobile Payment,YES,
+T0077,P005,Value Grocer,Phoenix,West,1/5/2026,17,$15.60 ,0%,4.3,store,Cash,Yes,weekday sale
+T0078,P008,Value Grocer,Chicago,Midwest,1/5/2026,5,,20%,3.1,Online,Mobile,NO,promotion
+T0079,P003,Green Basket,Columbus,Midwest,7/4/2026,2,$21.82 ,0%,3.2,online,cash , no ,loyalty customer
+T0080,P012,GreenBasket,Boston,Northeast,5/11/2026,9,$10.01 ,0%,3.6,ONLINE ,DEBIT CARD,YES,
+T0081,P010,City Market,Newark,Northeast,6/24/2026,24,$19.83 ,15%,2.9,store,Credit Card,NO,promotion
+T0082,P010,GreenBasket,Newark,Northeast,5/14/2026,21,$14.66 ,0%,3.3,Store,cash , no ,loyalty customer
+T0083,P002,ValueGrocer,Columbus,Midwest,3/6/2026,13,$22.32 ,0%,4.4,online,Mobile Payment,YES,
+T0084,P012,ShopWay,Boston,Northeast,8/3/2026,-1,$19.11 ,10%,4.2,Online,Mobile,NO,loyalty customer
+T0085,P009,ValueGrocer,Atlanta,South,6/28/2026,13,$15.57 ,20%,3.5,online,DEBIT CARD, no ,
+T0086,P005,freshmart ,Chicago,Midwest,6/18/2026,17,$20.48 ,15%,3.3,Store,cash ,Yes,promotion
+T0087,P004,Value Grocer,Columbus,Midwest,8/17/2026,18,$24.22 ,10%,4.8, STORE ,DEBIT CARD, no ,
+T0088,P018,freshmart ,Miami,South,2/11/2026,23,$20.28 ,0%,3.4,online,Debit Card, no ,loyalty customer
+T0089,P007,ValueGrocer,Boston,Northeast,3/7/2026,6,$15.21 ,0%,3.6, STORE ,credit card ,YES,
+T0090,P001,City Market,Columbus,Midwest,8/27/2026,24,$10.66 ,0%,,Store,DEBIT CARD,YES,weekday sale
+T0091,P001,freshmart ,Newark,Northeast,6/14/2026,13,$11.95 ,15%,2.9, STORE ,Credit Card,yes ,
+T0092,P019,freshmart ,Atlanta,South,8/25/2026,20,$23.37 ,0%,3.9,online,Debit Card,No,loyalty customer
+T0093,P006,ValueGrocer,Phoenix,West,5/15/2026,7,$21.34 ,10%,5,ONLINE ,Cash,yes ,promotion
+T0094,P019,FreshMart,Seattle,West,7/28/2026,17,$14.39 ,10%,4.3, STORE ,cash ,No,promotion
+T0095,P999,Value Grocer,Columbus,Midwest,4/15/2026,5,$16.74 ,20%,3,Online,Mobile,NO,promotion
+T0096,P017,ValueGrocer,Seattle,West,5/28/2026,5,$16.10 ,0%,3.9,Store,Mobile Payment,yes ,weekday sale
+T0097,P014,Green Basket,Chicago,Midwest,4/6/2026,8,$20.12 ,0%,4.6,online,cash ,Yes,loyalty customer
+T0098,P004,GreenBasket,Boston,Northeast,2/25/2026,16,$10.58 ,0%,3.8,Store,, no ,weekday sale
+T0099,P001,ValueGrocer,Boston,Northeast,4/17/2026,3,$14.38 ,10%,3.1, STORE ,credit card ,yes ,weekday sale
+T0100,P011,freshmart ,Chicago,Midwest,9/3/2026,8,$14.32 ,20%,4.8,ONLINE ,cash ,Yes,promotion
+T0101,P008,City Market,Newark,Northeast,5/11/2026,20,$12.12 ,0%,3.4,Online,Debit Card,NO,loyalty customer
+T0102,P006,freshmart ,Seattle,West,7/17/2026,8,,5%,3.1,Online,cash ,No,loyalty customer
+T0103,P011,freshmart ,Phoenix,West,7/18/2026,17,$9.68 ,0%,2.9,store,cash , no ,loyalty customer
+T0104,P010,CITY MARKET,Seattle,West,8/6/2026,7,$19.77 ,0%,4.7, STORE ,Mobile,NO,loyalty customer
+T0105,P005,Value Grocer,Boston,Northeast,2/7/2026,13,$10.12 ,0%,5,Online,cash ,yes ,
+T0106,P013,Value Grocer,Chicago,Midwest,2/10/2026,15,$14.79 ,0%,3.4, STORE ,credit card , no ,weekday sale
+T0107,P014,freshmart ,Boston,Northeast,9/6/2026,5,$17.17 ,20%,3.5, STORE ,Cash,yes ,loyalty customer
+T0108,P016,CITY MARKET,Boston,Northeast,6/10/2026,8,$10.40 ,0%,3.8, STORE ,cash , no ,promotion
+T0109,P008,Fresh Mart,Miami,South,4/21/2026,18,$24.04 ,15%,3.8,store,Debit Card, no ,weekday sale
+T0110,P001,Shop Way,Boston,Northeast,4/22/2026,five,$10.20 ,10%,3.3,Store,Credit Card,YES,loyalty customer
+T0111,P005,ShopWay,Miami,South,6/11/2026,11,$13.74 ,0%,3.5,ONLINE ,credit card ,No,weekday sale
+T0112,P007,ShopWay,Newark,Northeast,3/19/2026,5,$14.74 ,0%,,Online,DEBIT CARD,NO,
+T0113,P004,Value Grocer,Boston,Northeast,7/19/2026,5,$9.61 ,5%,5,store,credit card ,NO,loyalty customer
+T0114,P005,freshmart ,Columbus,Midwest,8/1/2026,16,$11.54 ,0%,3.7,online,cash ,YES,promotion
+T0115,P018,GreenBasket,Atlanta,South,3/19/2026,23,$21.12 ,20%,4.5,Online,Credit Card,NO,
+T0116,P018,ShopWay,Columbus,Midwest,7/12/2026,11,$17.25 ,10%,5,Online,Credit Card,No,promotion
+T0117,P006,City Market,Phoenix,West,1/28/2026,3,$24.52 ,0%,4.6,Online,credit card , no ,loyalty customer
+T0118,P006,GreenBasket,Atlanta,South,1/22/2026,5,$15.73 ,0%,3.3,ONLINE ,Mobile Payment,Yes,promotion
+T0119,P004,Value Grocer,Phoenix,West,4/29/2026,16,$20.34 ,15%,6,Online,Cash,NO,
+T0120,P005,FreshMart,Miami,South,7/31/2026,19,$22.86 ,0%,3.8,online,cash ,Yes,loyalty customer
+T0121,P018,GreenBasket,Chicago,Midwest,5/26/2026,2,$20.32 ,5%,3.9,ONLINE ,credit card ,yes ,loyalty customer
+T0122,P019,freshmart ,Boston,Northeast,7/8/2026,8,$19.70 ,5%,4.2,Online,Cash,No,loyalty customer
+T0123,P014,FreshMart,Seattle,West,5/2/2026,11,$12.37 ,5%,3.3,online,Debit Card,yes ,weekday sale
+T0124,P006,ValueGrocer,Boston,Northeast,6/24/2026,22,$17.78 ,5%,4.7,online,Mobile,No,weekday sale
+T0125,P019,Shop Way,Atlanta,South,4/15/2026,11,$9.02 ,0%,3.4,Store,Cash,yes ,weekday sale
+T0126,P017,City Market,Phoenix,West,4/22/2026,10,$16.85 ,5%,4,Store,DEBIT CARD, no ,
+T0127,P007,GreenBasket,Boston,Northeast,4/30/2026,3,$12.29 ,5%,3.8,ONLINE ,Cash,yes ,
+T0128,P019,Fresh Mart,Chicago,Midwest,2/27/2026,17,$21.65 ,5%,3.3,online,DEBIT CARD,YES,weekday sale
+T0129,P019,ValueGrocer,Chicago,Midwest,7/6/2026,10,$22.90 ,10%,4.6,online,cash , no ,promotion
+T0130,P005,Green Basket,Columbus,Midwest,5/23/2026,2,$24.99 ,0%,4.1,Store,cash ,NO,promotion
+T0131,P015,ShopWay,Atlanta,South,7/20/2026,7,$23.94 ,0%,3.2,store,DEBIT CARD,No,loyalty customer
+T0132,P001,Shop Way,Columbus,Midwest,1/24/2026,1,$20.10 ,5%,4.1,online,cash ,NO,loyalty customer
+T0133,P002,City Market,Miami,South,6/7/2026,-4,$23.71 ,0%,4.8,Store,Cash,No,
+T0134,P014,City Market,Seattle,West,8/16/2026,23,$17.31 ,20%,3.8, STORE ,cash ,NO,weekday sale
+T0135,P004,City Market,Newark,Northeast,7/25/2026,2,$13.52 ,10%,4.1,online,DEBIT CARD,NO,
+T0136,P016,ShopWay,Newark,Northeast,2/6/2026,2,$20.76 ,0%,4.2,Online,Mobile,YES,promotion
+T0137,P014,Fresh Mart,Columbus,Midwest,1/29/2026,18,$22.60 ,15%,3.9,Online,Credit Card,NO,weekday sale
+T0138,P019,Green Basket,Chicago,Midwest,5/26/2026,16,$22.64 ,10%,4.1,online,cash ,yes ,
+T0139,P008,City Market,Boston,Northeast,3/25/2026,20,,15%,4.8,Store,Credit Card,yes ,promotion
+T0140,P005,freshmart ,Newark,Northeast,4/29/2026,4,$19.96 ,0%,3.2,Store,Credit Card, no ,loyalty customer
+T0141,P014,freshmart ,Chicago,,8/2/2026,21,$10.28 ,0%,3.8,ONLINE ,Mobile,NO,
+T0142,P016,Shop Way,Atlanta,South,5/18/2026,12,$16.73 ,0%,4.3,online,Mobile, no ,promotion
+T0143,P014,freshmart ,Chicago,Midwest,5/4/2026,13,$18.38 ,5%,,Online,Debit Card, no ,loyalty customer
+T0144,P002,ValueGrocer,Newark,Northeast,2/14/2026,22,$18.68 ,0%,2.9,store,credit card ,Yes,
+T0145,P010,ValueGrocer,Miami,South,5/31/2026,5,$9.73 ,0%,5,ONLINE ,Mobile Payment, no ,promotion
+T0146,P002,FreshMart,Newark,Northeast,5/30/2026,15,$24.34 ,0%,4.6, STORE ,Debit Card,Yes,weekday sale
+T0147,P003,GreenBasket,Atlanta,South,8/11/2026,16,$14.76 ,0%,3.4,online,Credit Card,NO,
+T0148,P009,City Market,Boston,Northeast,6/14/2026,23,$12.56 ,15%,4.3,Store,Mobile,Yes,loyalty customer
+T0149,P002,Fresh Mart,Miami,South,3/27/2026,1,$16.48 ,10%,3.2,Store,DEBIT CARD,NO,promotion
+T0150,P012,freshmart ,Boston,Northeast,3/25/2026,10,$13.56 ,0%,0,online,Debit Card,NO,
+T0151,P013,City Market,Phoenix,West,6/14/2026,2,$15.54 ,0%,4,store,Credit Card,YES,
+T0152,P019,ValueGrocer,Miami,South,7/18/2026,4,$18.33 ,10%,3.6,ONLINE ,credit card , no ,loyalty customer
+T0153,P014,ShopWay,Boston,Northeast,9/6/2026,18,$11.41 ,10%,3.5,ONLINE ,Mobile,YES,loyalty customer
+T0154,P011,Fresh Mart,Phoenix,West,1/14/2026,17,$14.80 ,0%,2.9,store,cash ,YES,weekday sale
+T0155,P019,GreenBasket,Atlanta,South,7/18/2026,11,$10.93 ,5%,3.6,store,credit card ,NO,promotion
+T0156,P016,ValueGrocer,Seattle,West,1/2/2026,15,$15.32 ,20%,,Online,Credit Card,NO,weekday sale
+T0157,P010,Shop Way,Miami,South,5/5/2026,16,$12.16 ,0%,4.7,online,cash ,NO,promotion
+T0158,P006,Green Basket,Boston,Northeast,8/29/2026,13,$11.23 ,0%,3.3,online,credit card ,YES,promotion
+T0159,P019,ValueGrocer,Miami,South,8/30/2026,13,$22.08 ,20%,3.2,store,Credit Card, no ,
+T0160,P006,ValueGrocer,Columbus,Midwest,7/20/2026,14,$17.98 ,0%,4.4,Online,Credit Card,yes ,weekday sale
+T0013,P010,Shop Way,Chicago,Midwest,5/4/2026,8,$18.65 ,15%,3.7, STORE ,DEBIT CARD,YES,loyalty customer
+T0045,P015,freshmart ,Chicago,Midwest,8/11/2026,5,$14.95 ,5%,4.1,Online,credit card ,YES,loyalty customer
+T0045,P015,freshmart ,Chicago,Midwest,8/11/2026,5,$14.95 ,5%,4.1,Online,credit card ,YES,loyalty customer
+T0088,P018,freshmart ,Miami,South,2/11/2026,23,$20.28 ,0%,3.4,online,Debit Card, no ,loyalty customer
+T0122,P019,freshmart ,Boston,Northeast,7/8/2026,8,$19.70 ,5%,4.2,Online,Cash,No,loyalty customer
