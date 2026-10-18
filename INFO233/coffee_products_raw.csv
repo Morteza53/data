@@ -1,0 +1,22 @@
+Product Code , BRAND,Coffee Type ,Roast Level,Origin Country,Package Size Oz,Caffeine Level,Cost Per Unit,Organic ,Supplier Name
+P001,Summit Roast,Ground,Medium,Colombia,12,Regular,$7.10 ,Yes,Peak Supply
+P002,Summit roast ,Whole Bean,Dark,Brazil,16,Regular,$8.40 ,Yes,Peak Supply
+P003,Harbor Bean,Pods,Medium,Costa Rica,10,Regular,$6.25 ,No,Coastal Imports
+P004,HarborBean,Ground,Light,Ethiopia,12,Regular,$7.50 ,Yes,Coastal Imports
+P005,Morning Trail,Instant,Medium,Vietnam,8,Regular,$4.10 ,No,Trail Foods
+P006,Morning Trail ,Ground,Dark,Indonesia,12,Regular,$6.80 ,No,Trail Foods
+P007,Urban Mug,Pods,Espresso,Italy,10,Regular,$7.90 ,No,Metro Beverage
+P008,urban mug,Whole Bean,Medium,Guatemala,16,Regular,$9.20 ,Yes,Metro Beverage
+P009,Golden Peak Coffee,Ground,Light,Kenya,12,Regular,$8.15 ,Yes,Global Coffee Co.
+P010,Golden Peak,Pods,Medium,Colombia,10,Half-Caf,$7.30 ,No,Global Coffee Co.
+P011,Cedar House,Ground,Dark,Brazil,12,Decaf,$7.00 ,No,Cedar Distribution
+P012,Cedar House,Whole Bean,Espresso,Peru,16,Regular,$8.85 ,Yes,Cedar Distribution
+P013,Blue River Roasters,Ground,Medium,Honduras,12,Regular,$6.95 ,No,Blue River Supply
+P014,Blue River,Pods,Dark,Nicaragua,10,Decaf,$6.60 ,No,Blue River Supply
+P015,Daily Grind,Instant,Medium,Vietnam,8,Regular,$3.85 ,No,Everyday Imports
+P016,Daily Grind ,Ground,Dark,Mexico,12,Regular,$6.20 ,No,Everyday Imports
+P017,Summit Roast,Pods,Light,Ethiopia,10,Regular,$8.25 ,Yes,Peak Supply
+P018,Harbor Bean,Whole Bean,Medium,,16,Regular,$9.00 ,Yes,
+P019,Morning Trail,Ground,Medium,Colombia,12,Half-Caf,$6.70 ,No,Trail Foods
+P020,Urban Mug,Whole Bean,Dark,Brazil,16,Decaf,$8.95 ,No,Metro Beverage
+P007,Urban Mug,Pods,Espresso,Italy,10,Regular,$7.90 ,No,Metro Beverage
