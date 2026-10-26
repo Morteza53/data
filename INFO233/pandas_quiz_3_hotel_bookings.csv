@@ -1,0 +1,1001 @@
+booking_id,hotel_name,hotel_type,country,region,booking_channel,room_type,nights,rooms_booked,nightly_rate,discount_rate,gross_revenue,discount_amount,net_revenue,cost_per_room_night,total_cost,guest_rating,loyalty_member
+B00001,Metro Stay,City,US,West,Travel App,Executive,2,4,317.14,0.0,2537.12,0.0,2537.12,116.47,931.76,3.3,False
+B00002,Lakeside Inn,Resort,DE,South,Hotel Website,Suite,2,4,342.79,0.05,2742.32,137.12,2605.2,136.94,1095.52,3.8,False
+B00003,Skyline Suites,City,UK,North,Walk-in,Executive,6,4,313.44,0.15,7522.56,1128.38,6394.18,116.29,2790.96,4.6,True
+B00004,Ocean Breeze Resort,Resort,UK,South,Travel App,Executive,3,2,296.8,0.2,1780.8,356.16,1424.64,119.55,717.3,4.2,False
+B00005,Mountain Lodge,Resort,DE,East,Hotel Website,Executive,1,4,302.91,0.2,1211.64,242.33,969.31,124.9,499.6,4.9,False
+B00006,Royal Garden Hotel,City,DE,East,Travel App,Executive,2,4,294.17,0.0,2353.36,0.0,2353.36,121.72,973.76,4.6,True
+B00007,Sunset Resort,Resort,UK,East,Walk-in,Family,1,1,273.56,0.2,273.56,54.71,218.85,113.09,113.09,3.7,False
+B00008,Royal Garden Hotel,City,DE,East,Hotel Website,Standard,6,4,138.82,0.0,3331.68,0.0,3331.68,63.94,1534.56,4.7,True
+B00009,Sunset Resort,Resort,UK,West,Corporate Agent,Deluxe,1,3,201.32,0.0,603.96,0.0,603.96,87.37,262.11,4.5,False
+B00010,Sunset Resort,Resort,DE,North,Hotel Website,Deluxe,1,2,202.73,0.1,405.46,40.55,364.91,88.93,177.86,4.5,False
+B00011,Harbor View Hotel,City,DE,East,Hotel Website,Deluxe,2,2,202.55,0.1,810.2,81.02,729.18,90.59,362.36,4.9,False
+B00012,Metro Stay,City,DE,East,Hotel Website,Family,4,3,261.87,0.2,3142.44,628.49,2513.95,113.97,1367.64,4.7,False
+B00013,Skyline Suites,City,US,North,Walk-in,Suite,4,3,321.07,0.15,3852.84,577.93,3274.91,138.57,1662.84,3.8,False
+B00014,Mountain Lodge,Resort,DE,South,Travel App,Deluxe,5,2,222.61,0.05,2226.1,111.31,2114.79,86.55,865.5,5.0,False
+B00015,Royal Garden Hotel,City,DE,East,Hotel Website,Deluxe,7,1,226.74,0.2,1587.18,317.44,1269.74,85.46,598.22,4.7,False
+B00016,Ocean Breeze Resort,Resort,DE,East,Travel App,Family,3,1,269.1,0.2,807.3,161.46,645.84,115.67,347.01,4.7,False
+B00017,Mountain Lodge,Resort,CA,South,Walk-in,Standard,7,3,139.77,0.05,2935.17,146.76,2788.41,60.29,1266.09,3.8,True
+B00018,Grand Central Hotel,City,DE,North,Walk-in,Executive,2,1,305.5,0.15,611.0,91.65,519.35,118.91,237.82,4.9,True
+B00019,Ocean Breeze Resort,Resort,US,West,Walk-in,Family,6,3,249.26,0.1,4486.68,448.67,4038.01,109.78,1976.04,4.6,False
+B00020,Ocean Breeze Resort,Resort,UK,South,Hotel Website,Standard,2,2,152.06,0.2,608.24,121.65,486.59,62.63,250.52,4.5,False
+B00021,Sunset Resort,Resort,UK,East,Walk-in,Executive,6,2,305.51,0.15,3666.12,549.92,3116.2,116.8,1401.6,4.6,True
+B00022,Ocean Breeze Resort,Resort,CA,North,Travel App,Executive,5,1,278.58,0.05,1392.9,69.65,1323.25,121.1,605.5,4.9,True
+B00023,Harbor View Hotel,City,US,South,Hotel Website,Executive,1,4,290.12,0.05,1160.48,58.02,1102.46,122.23,488.92,3.6,False
+B00024,Metro Stay,City,UK,South,Hotel Website,Family,7,1,275.89,0.05,1931.23,96.56,1834.67,110.39,772.73,4.2,False
+B00025,Airport Plaza,Airport,UK,East,Travel App,Suite,6,2,362.65,0.15,4351.8,652.77,3699.03,136.15,1633.8,4.8,True
+B00026,Metro Stay,City,UK,South,Corporate Agent,Executive,4,4,291.53,0.05,4664.48,233.22,4431.26,118.65,1898.4,4.4,True
+B00027,Metro Stay,City,UK,West,Walk-in,Family,1,2,256.86,0.15,513.72,77.06,436.66,111.87,223.74,3.9,False
+B00028,Airport Plaza,Airport,US,South,Travel App,Standard,7,4,148.04,0.05,4145.12,207.26,3937.86,64.02,1792.56,3.3,True
+B00029,Metro Stay,City,UK,South,Hotel Website,Executive,4,2,290.42,0.0,2323.36,0.0,2323.36,119.98,959.84,4.2,True
+B00030,Mountain Lodge,Resort,US,East,Hotel Website,Deluxe,4,4,199.46,0.05,3191.36,159.57,3031.79,87.11,1393.76,4.4,False
+B00031,Airport Plaza,Airport,US,West,Walk-in,Suite,6,3,324.72,0.15,5844.96,876.74,4968.22,132.86,2391.48,4.8,False
+B00032,Sunset Resort,Resort,US,South,Walk-in,Standard,7,1,136.74,0.15,957.18,143.58,813.6,64.31,450.17,4.9,False
+B00033,Ocean Breeze Resort,Resort,US,West,Travel App,Executive,4,4,297.48,0.05,4759.68,237.98,4521.7,118.79,1900.64,4.3,False
+B00034,Harbor View Hotel,City,CA,West,Corporate Agent,Deluxe,2,1,214.95,0.1,429.9,42.99,386.91,87.71,175.42,4.6,True
+B00035,Royal Garden Hotel,City,CA,North,Walk-in,Suite,7,2,341.71,0.0,4783.94,0.0,4783.94,139.67,1955.38,4.9,True
+B00036,Royal Garden Hotel,City,CA,East,Hotel Website,Deluxe,4,1,201.46,0.0,805.84,0.0,805.84,90.91,363.64,4.0,False
+B00037,Ocean Breeze Resort,Resort,CA,North,Hotel Website,Standard,1,1,136.38,0.2,136.38,27.28,109.1,63.23,63.23,4.1,True
+B00038,Lakeside Inn,Resort,US,West,Walk-in,Family,3,1,256.31,0.0,768.93,0.0,768.93,107.98,323.94,4.0,True
+B00039,Mountain Lodge,Resort,US,North,Hotel Website,Deluxe,3,1,218.8,0.1,656.4,65.64,590.76,85.02,255.06,3.5,False
+B00040,Ocean Breeze Resort,Resort,DE,South,Travel App,Executive,1,1,292.33,0.1,292.33,29.23,263.1,118.14,118.14,4.5,False
+B00041,Ocean Breeze Resort,Resort,CA,North,Walk-in,Standard,7,4,144.57,0.15,4047.96,607.19,3440.77,62.33,1745.24,3.9,True
+B00042,Sunset Resort,Resort,CA,North,Walk-in,Standard,4,1,155.56,0.15,622.24,93.34,528.9,63.57,254.28,3.8,True
+B00043,Airport Plaza,Airport,CA,North,Corporate Agent,Family,7,4,259.22,0.2,7258.16,1451.63,5806.53,112.88,3160.64,4.3,False
+B00044,Airport Plaza,Airport,DE,East,Travel App,Executive,7,2,294.68,0.1,4125.52,412.55,3712.97,121.1,1695.4,3.7,True
+B00045,Airport Plaza,Airport,US,North,Corporate Agent,Family,3,3,254.25,0.1,2288.25,228.83,2059.42,112.95,1016.55,4.9,False
+B00046,Ocean Breeze Resort,Resort,CA,East,Walk-in,Deluxe,7,4,218.03,0.05,6104.84,305.24,5799.6,89.61,2509.08,4.4,True
+B00047,Mountain Lodge,Resort,UK,North,Walk-in,Executive,7,4,291.28,0.1,8155.84,815.58,7340.26,118.46,3316.88,4.0,True
+B00048,Skyline Suites,City,DE,West,Corporate Agent,Family,1,1,258.53,0.2,258.53,51.71,206.82,115.69,115.69,3.9,True
+B00049,Metro Stay,City,DE,South,Walk-in,Family,6,4,266.59,0.15,6398.16,959.72,5438.44,108.22,2597.28,4.1,True
+B00050,Harbor View Hotel,City,CA,East,Travel App,Executive,2,2,318.05,0.15,1272.2,190.83,1081.37,118.75,475.0,4.5,False
+B00051,Royal Garden Hotel,City,UK,North,Travel App,Standard,2,3,155.9,0.2,935.4,187.08,748.32,64.18,385.08,3.9,False
+B00052,Lakeside Inn,Resort,CA,North,Corporate Agent,Standard,4,1,156.0,0.2,624.0,124.8,499.2,59.92,239.68,4.2,False
+B00053,Grand Central Hotel,City,UK,East,Corporate Agent,Standard,6,3,145.4,0.0,2617.2,0.0,2617.2,63.04,1134.72,4.3,False
+B00054,Mountain Lodge,Resort,DE,West,Walk-in,Family,5,4,285.0,0.05,5700.0,285.0,5415.0,112.9,2258.0,3.3,True
+B00055,Airport Plaza,Airport,CA,North,Corporate Agent,Executive,1,2,315.88,0.2,631.76,126.35,505.41,123.54,247.08,5.0,True
+B00056,Ocean Breeze Resort,Resort,DE,South,Hotel Website,Deluxe,2,1,220.18,0.15,440.36,66.05,374.31,87.84,175.68,3.2,False
+B00057,Royal Garden Hotel,City,US,West,Hotel Website,Suite,1,4,358.68,0.05,1434.72,71.74,1362.98,142.79,571.16,4.2,True
+B00058,Metro Stay,City,DE,North,Corporate Agent,Suite,2,3,337.48,0.15,2024.88,303.73,1721.15,140.99,845.94,3.7,True
+B00059,Skyline Suites,City,US,North,Walk-in,Deluxe,1,4,218.02,0.1,872.08,87.21,784.87,84.89,339.56,3.7,True
+B00060,Harbor View Hotel,City,CA,South,Travel App,Standard,6,4,154.75,0.2,3714.0,742.8,2971.2,62.12,1490.88,3.3,False
+B00061,Ocean Breeze Resort,Resort,CA,West,Walk-in,Executive,7,4,318.02,0.05,8904.56,445.23,8459.33,116.85,3271.8,4.3,False
+B00062,Royal Garden Hotel,City,UK,North,Travel App,Deluxe,6,3,210.53,0.2,3789.54,757.91,3031.63,90.71,1632.78,3.9,True
+B00063,Skyline Suites,City,US,East,Hotel Website,Deluxe,6,2,207.34,0.05,2488.08,124.4,2363.68,89.17,1070.04,3.2,True
+B00064,Metro Stay,City,US,North,Corporate Agent,Executive,6,1,301.55,0.05,1809.3,90.47,1718.83,123.96,743.76,4.0,True
+B00065,Harbor View Hotel,City,US,South,Travel App,Deluxe,5,2,224.54,0.1,2245.4,224.54,2020.86,88.17,881.7,4.5,False
+B00066,Mountain Lodge,Resort,US,South,Walk-in,Deluxe,5,3,222.65,0.1,3339.75,333.98,3005.77,86.58,1298.7,4.8,False
+B00067,Royal Garden Hotel,City,UK,North,Corporate Agent,Standard,7,3,145.79,0.05,3061.59,153.08,2908.51,60.01,1260.21,3.6,True
+B00068,Royal Garden Hotel,City,CA,West,Travel App,Deluxe,3,1,224.93,0.0,674.79,0.0,674.79,86.25,258.75,3.4,False
+B00069,Ocean Breeze Resort,Resort,DE,West,Walk-in,Family,5,1,254.04,0.0,1270.2,0.0,1270.2,116.15,580.75,4.4,False
+B00070,Harbor View Hotel,City,UK,West,Hotel Website,Standard,5,2,149.91,0.2,1499.1,299.82,1199.28,63.53,635.3,4.5,False
+B00071,Skyline Suites,City,CA,West,Corporate Agent,Suite,6,3,329.2,0.05,5925.6,296.28,5629.32,140.5,2529.0,4.4,True
+B00072,Grand Central Hotel,City,CA,North,Walk-in,Executive,6,4,315.73,0.0,7577.52,0.0,7577.52,119.25,2862.0,3.7,True
+B00073,Grand Central Hotel,City,DE,West,Travel App,Family,2,3,270.39,0.15,1622.34,243.35,1378.99,112.07,672.42,4.4,False
+B00074,Ocean Breeze Resort,Resort,DE,West,Walk-in,Deluxe,7,2,204.96,0.0,2869.44,0.0,2869.44,90.37,1265.18,3.8,False
+B00075,Ocean Breeze Resort,Resort,CA,East,Walk-in,Standard,2,4,137.91,0.1,1103.28,110.33,992.95,64.34,514.72,3.6,True
+B00076,Harbor View Hotel,City,DE,West,Travel App,Family,5,4,261.37,0.0,5227.4,0.0,5227.4,109.24,2184.8,5.0,False
+B00077,Skyline Suites,City,DE,North,Corporate Agent,Standard,4,3,148.47,0.0,1781.64,0.0,1781.64,64.11,769.32,4.7,False
+B00078,Ocean Breeze Resort,Resort,UK,North,Hotel Website,Executive,7,3,287.61,0.0,6039.81,0.0,6039.81,122.15,2565.15,3.7,True
+B00079,Airport Plaza,Airport,CA,East,Corporate Agent,Executive,1,3,277.47,0.1,832.41,83.24,749.17,120.89,362.67,3.5,True
+B00080,Lakeside Inn,Resort,DE,West,Travel App,Deluxe,6,4,215.68,0.05,5176.32,258.82,4917.5,91.2,2188.8,4.4,True
+B00081,Ocean Breeze Resort,Resort,UK,South,Corporate Agent,Standard,1,2,154.51,0.05,309.02,15.45,293.57,63.53,127.06,4.0,True
+B00082,Ocean Breeze Resort,Resort,UK,West,Travel App,Standard,7,4,145.85,0.2,4083.8,816.76,3267.04,61.46,1720.88,4.5,False
+B00083,Grand Central Hotel,City,CA,West,Corporate Agent,Suite,1,4,328.19,0.15,1312.76,196.91,1115.85,136.4,545.6,3.3,False
+B00084,Royal Garden Hotel,City,UK,South,Travel App,Suite,6,4,364.77,0.1,8754.48,875.45,7879.03,141.22,3389.28,4.0,False
+B00085,Sunset Resort,Resort,US,East,Hotel Website,Deluxe,1,3,209.86,0.0,629.58,0.0,629.58,89.87,269.61,4.3,False
+B00086,Mountain Lodge,Resort,US,East,Hotel Website,Family,1,1,281.46,0.2,281.46,56.29,225.17,112.69,112.69,4.3,True
+B00087,Mountain Lodge,Resort,DE,South,Travel App,Executive,2,2,279.48,0.1,1117.92,111.79,1006.13,118.68,474.72,4.2,True
+B00088,Ocean Breeze Resort,Resort,UK,North,Corporate Agent,Standard,3,3,137.45,0.0,1237.05,0.0,1237.05,60.34,543.06,4.3,False
+B00089,Royal Garden Hotel,City,CA,East,Travel App,Deluxe,6,4,207.54,0.2,4980.96,996.19,3984.77,88.8,2131.2,4.2,False
+B00090,Sunset Resort,Resort,UK,West,Hotel Website,Standard,4,2,145.95,0.15,1167.6,175.14,992.46,64.37,514.96,3.9,True
+B00091,Grand Central Hotel,City,UK,North,Corporate Agent,Deluxe,1,4,204.52,0.05,818.08,40.9,777.18,89.35,357.4,4.2,True
+B00092,Airport Plaza,Airport,US,West,Travel App,Suite,4,1,330.31,0.1,1321.24,132.12,1189.12,132.59,530.36,3.3,True
+B00093,Metro Stay,City,US,South,Hotel Website,Deluxe,2,4,225.97,0.15,1807.76,271.16,1536.6,88.39,707.12,3.3,False
+B00094,Harbor View Hotel,City,UK,East,Corporate Agent,Family,6,2,260.4,0.0,3124.8,0.0,3124.8,116.11,1393.32,3.8,False
+B00095,Grand Central Hotel,City,US,North,Walk-in,Executive,4,2,297.27,0.15,2378.16,356.72,2021.44,117.32,938.56,4.8,False
+B00096,Metro Stay,City,CA,North,Corporate Agent,Executive,6,1,285.9,0.1,1715.4,171.54,1543.86,125.04,750.24,4.5,False
+B00097,Airport Plaza,Airport,CA,South,Walk-in,Deluxe,5,3,217.91,0.0,3268.65,0.0,3268.65,87.14,1307.1,4.9,False
+B00098,Metro Stay,City,UK,East,Travel App,Deluxe,6,3,207.04,0.1,3726.72,372.67,3354.05,88.94,1600.92,4.8,True
+B00099,Skyline Suites,City,UK,East,Hotel Website,Suite,3,3,346.45,0.1,3118.05,311.81,2806.24,134.58,1211.22,4.1,True
+B00100,Grand Central Hotel,City,US,North,Corporate Agent,Deluxe,5,4,202.44,0.05,4048.8,202.44,3846.36,86.76,1735.2,3.3,False
+B00101,Grand Central Hotel,City,CA,South,Travel App,Executive,4,1,316.01,0.15,1264.04,189.61,1074.43,122.27,489.08,4.3,True
+B00102,Metro Stay,City,UK,North,Hotel Website,Executive,7,2,293.48,0.2,4108.72,821.74,3286.98,116.7,1633.8,3.7,False
+B00103,Skyline Suites,City,UK,East,Travel App,Executive,4,2,288.04,0.2,2304.32,460.86,1843.46,124.94,999.52,3.5,False
+B00104,Royal Garden Hotel,City,CA,North,Corporate Agent,Deluxe,7,3,215.88,0.1,4533.48,453.35,4080.13,89.38,1876.98,3.9,True
+B00105,Airport Plaza,Airport,US,South,Corporate Agent,Family,2,3,251.44,0.15,1508.64,226.3,1282.34,114.89,689.34,3.4,True
+B00106,Grand Central Hotel,City,CA,North,Walk-in,Deluxe,5,1,202.15,0.0,1010.75,0.0,1010.75,87.34,436.7,4.8,True
+B00107,Airport Plaza,Airport,US,East,Travel App,Deluxe,5,1,205.46,0.2,1027.3,205.46,821.84,90.28,451.4,4.3,False
+B00108,Sunset Resort,Resort,DE,East,Corporate Agent,Deluxe,2,2,208.55,0.2,834.2,166.84,667.36,89.57,358.28,4.0,False
+B00109,Lakeside Inn,Resort,US,East,Corporate Agent,Deluxe,5,4,207.48,0.15,4149.6,622.44,3527.16,88.68,1773.6,3.4,True
+B00110,Skyline Suites,City,US,South,Corporate Agent,Family,4,4,251.19,0.15,4019.04,602.86,3416.18,109.12,1745.92,4.2,True
+B00111,Airport Plaza,Airport,CA,South,Travel App,Deluxe,2,4,202.52,0.05,1620.16,81.01,1539.15,86.09,688.72,3.8,False
+B00112,Metro Stay,City,DE,South,Hotel Website,Family,6,2,265.68,0.2,3188.16,637.63,2550.53,112.0,1344.0,4.4,False
+B00113,Mountain Lodge,Resort,US,South,Hotel Website,Suite,6,2,361.38,0.15,4336.56,650.48,3686.08,142.77,1713.24,4.8,True
+B00114,Metro Stay,City,US,East,Travel App,Suite,4,1,328.56,0.05,1314.24,65.71,1248.53,136.51,546.04,3.7,False
+B00115,Mountain Lodge,Resort,US,West,Travel App,Family,1,1,261.29,0.2,261.29,52.26,209.03,110.5,110.5,4.2,True
+B00116,Lakeside Inn,Resort,UK,East,Walk-in,Executive,6,2,277.99,0.15,3335.88,500.38,2835.5,123.1,1477.2,4.7,True
+B00117,Sunset Resort,Resort,US,North,Travel App,Deluxe,4,4,213.25,0.05,3412.0,170.6,3241.4,86.73,1387.68,4.9,True
+B00118,Ocean Breeze Resort,Resort,US,South,Hotel Website,Standard,1,2,142.37,0.1,284.74,28.47,256.27,62.74,125.48,3.9,True
+B00119,Harbor View Hotel,City,CA,North,Hotel Website,Executive,5,1,312.24,0.1,1561.2,156.12,1405.08,120.58,602.9,3.8,True
+B00120,Lakeside Inn,Resort,CA,South,Walk-in,Deluxe,5,2,208.33,0.0,2083.3,0.0,2083.3,90.43,904.3,3.8,False
+B00121,Lakeside Inn,Resort,US,West,Hotel Website,Standard,3,3,154.7,0.05,1392.3,69.61,1322.69,64.27,578.43,4.2,False
+B00122,Sunset Resort,Resort,DE,North,Walk-in,Executive,5,1,306.12,0.15,1530.6,229.59,1301.01,121.85,609.25,3.6,True
+B00123,Mountain Lodge,Resort,UK,West,Travel App,Deluxe,3,1,212.42,0.0,637.26,0.0,637.26,86.04,258.12,3.3,True
+B00124,Lakeside Inn,Resort,CA,East,Walk-in,Executive,7,2,311.64,0.05,4362.96,218.15,4144.81,119.32,1670.48,4.3,True
+B00125,Metro Stay,City,CA,East,Corporate Agent,Deluxe,6,4,203.42,0.0,4882.08,0.0,4882.08,91.06,2185.44,4.9,False
+B00126,Lakeside Inn,Resort,UK,West,Hotel Website,Deluxe,2,2,203.24,0.1,812.96,81.3,731.66,90.15,360.6,3.8,False
+B00127,Royal Garden Hotel,City,US,West,Travel App,Family,6,1,275.94,0.0,1655.64,0.0,1655.64,114.07,684.42,4.9,True
+B00128,Airport Plaza,Airport,CA,South,Hotel Website,Standard,1,3,150.28,0.0,450.84,0.0,450.84,63.29,189.87,4.5,True
+B00129,Mountain Lodge,Resort,US,West,Walk-in,Executive,6,3,287.28,0.15,5171.04,775.66,4395.38,120.2,2163.6,4.9,True
+B00130,Mountain Lodge,Resort,UK,West,Hotel Website,Executive,2,3,279.71,0.2,1678.26,335.65,1342.61,117.85,707.1,3.3,True
+B00131,Airport Plaza,Airport,CA,East,Walk-in,Suite,5,3,340.25,0.1,5103.75,510.38,4593.37,140.89,2113.35,4.2,False
+B00132,Airport Plaza,Airport,CA,East,Corporate Agent,Executive,5,2,283.42,0.1,2834.2,283.42,2550.78,117.05,1170.5,4.6,False
+B00133,Harbor View Hotel,City,US,West,Travel App,Deluxe,2,1,207.57,0.2,415.14,83.03,332.11,90.4,180.8,3.9,False
+B00134,Ocean Breeze Resort,Resort,DE,South,Corporate Agent,Suite,1,4,363.05,0.15,1452.2,217.83,1234.37,132.54,530.16,4.9,False
+B00135,Metro Stay,City,UK,West,Hotel Website,Family,2,4,252.17,0.1,2017.36,201.74,1815.62,116.06,928.48,3.3,False
+B00136,Grand Central Hotel,City,US,South,Hotel Website,Executive,6,1,288.13,0.05,1728.78,86.44,1642.34,123.85,743.1,3.5,True
+B00137,Metro Stay,City,UK,South,Travel App,Suite,1,3,334.08,0.05,1002.24,50.11,952.13,133.51,400.53,3.8,True
+B00138,Mountain Lodge,Resort,UK,North,Hotel Website,Standard,7,3,150.84,0.0,3167.64,0.0,3167.64,60.69,1274.49,3.7,True
+B00139,Royal Garden Hotel,City,DE,West,Walk-in,Family,5,4,269.03,0.05,5380.6,269.03,5111.57,116.39,2327.8,4.4,True
+B00140,Skyline Suites,City,US,East,Walk-in,Standard,1,4,153.96,0.0,615.84,0.0,615.84,59.85,239.4,3.5,True
+B00141,Sunset Resort,Resort,DE,West,Travel App,Executive,5,3,289.62,0.15,4344.3,651.65,3692.65,122.98,1844.7,4.8,True
+B00142,Airport Plaza,Airport,US,West,Corporate Agent,Family,4,4,274.2,0.1,4387.2,438.72,3948.48,113.05,1808.8,3.6,False
+B00143,Royal Garden Hotel,City,CA,North,Travel App,Suite,4,4,320.96,0.1,5135.36,513.54,4621.82,141.25,2260.0,3.8,False
+B00144,Lakeside Inn,Resort,CA,South,Walk-in,Family,7,4,268.93,0.2,7530.04,1506.01,6024.03,107.59,3012.52,4.0,True
+B00145,Harbor View Hotel,City,UK,North,Hotel Website,Suite,3,2,359.73,0.15,2158.38,323.76,1834.62,132.86,797.16,3.8,True
+B00146,Royal Garden Hotel,City,US,North,Travel App,Deluxe,4,3,203.14,0.15,2437.68,365.65,2072.03,90.82,1089.84,4.3,False
+B00147,Mountain Lodge,Resort,CA,South,Hotel Website,Deluxe,5,4,200.04,0.0,4000.8,0.0,4000.8,89.47,1789.4,4.8,True
+B00148,Airport Plaza,Airport,CA,West,Hotel Website,Deluxe,6,2,211.47,0.1,2537.64,253.76,2283.88,90.24,1082.88,3.6,False
+B00149,Lakeside Inn,Resort,US,North,Walk-in,Deluxe,6,1,218.69,0.15,1312.14,196.82,1115.32,87.7,526.2,4.5,True
+B00150,Harbor View Hotel,City,CA,South,Travel App,Executive,3,2,310.46,0.05,1862.76,93.14,1769.62,116.43,698.58,3.5,True
+B00151,Metro Stay,City,UK,South,Travel App,Family,1,2,267.4,0.05,534.8,26.74,508.06,113.68,227.36,4.3,True
+B00152,Grand Central Hotel,City,CA,East,Travel App,Family,1,3,268.59,0.05,805.77,40.29,765.48,116.28,348.84,3.4,True
+B00153,Skyline Suites,City,US,West,Walk-in,Suite,6,4,364.1,0.05,8738.4,436.92,8301.48,138.58,3325.92,3.5,False
+B00154,Sunset Resort,Resort,US,East,Walk-in,Standard,2,3,138.29,0.15,829.74,124.46,705.28,61.07,366.42,5.0,False
+B00155,Ocean Breeze Resort,Resort,UK,East,Walk-in,Deluxe,3,4,202.92,0.15,2435.04,365.26,2069.78,87.89,1054.68,4.4,False
+B00156,Metro Stay,City,UK,North,Walk-in,Executive,4,1,278.67,0.05,1114.68,55.73,1058.95,120.38,481.52,3.4,True
+B00157,Airport Plaza,Airport,CA,East,Corporate Agent,Executive,5,1,302.69,0.2,1513.45,302.69,1210.76,119.0,595.0,4.0,False
+B00158,Harbor View Hotel,City,DE,North,Hotel Website,Family,1,3,274.46,0.0,823.38,0.0,823.38,113.24,339.72,3.3,True
+B00159,Harbor View Hotel,City,CA,East,Travel App,Standard,3,4,141.12,0.2,1693.44,338.69,1354.75,63.66,763.92,4.1,False
+B00160,Grand Central Hotel,City,UK,South,Hotel Website,Deluxe,4,3,221.92,0.15,2663.04,399.46,2263.58,90.1,1081.2,4.1,False
+B00161,Mountain Lodge,Resort,US,South,Walk-in,Deluxe,2,3,226.37,0.05,1358.22,67.91,1290.31,86.09,516.54,3.8,False
+B00162,Metro Stay,City,US,East,Walk-in,Executive,1,1,281.65,0.1,281.65,28.17,253.48,122.29,122.29,4.2,False
+B00163,Lakeside Inn,Resort,US,North,Hotel Website,Standard,1,1,151.65,0.05,151.65,7.58,144.07,62.75,62.75,3.8,False
+B00164,Ocean Breeze Resort,Resort,DE,South,Hotel Website,Deluxe,1,4,202.44,0.2,809.76,161.95,647.81,88.12,352.48,4.6,True
+B00165,Sunset Resort,Resort,UK,East,Corporate Agent,Deluxe,6,2,205.91,0.2,2470.92,494.18,1976.74,89.25,1071.0,3.4,False
+B00166,Mountain Lodge,Resort,DE,West,Corporate Agent,Family,6,3,278.35,0.0,5010.3,0.0,5010.3,115.29,2075.22,4.0,True
+B00167,Sunset Resort,Resort,DE,South,Travel App,Standard,2,3,153.55,0.1,921.3,92.13,829.17,60.52,363.12,4.3,False
+B00168,Airport Plaza,Airport,UK,South,Travel App,Family,2,1,272.73,0.2,545.46,109.09,436.37,108.21,216.42,4.1,True
+B00169,Lakeside Inn,Resort,UK,East,Travel App,Family,7,2,276.08,0.05,3865.12,193.26,3671.86,115.66,1619.24,4.9,False
+B00170,Royal Garden Hotel,City,DE,South,Walk-in,Executive,2,3,317.59,0.2,1905.54,381.11,1524.43,116.5,699.0,4.5,True
+B00171,Harbor View Hotel,City,UK,East,Corporate Agent,Suite,5,4,345.68,0.05,6913.6,345.68,6567.92,135.88,2717.6,3.7,False
+B00172,Skyline Suites,City,DE,North,Walk-in,Suite,7,2,324.78,0.05,4546.92,227.35,4319.57,134.48,1882.72,4.4,False
+B00173,Ocean Breeze Resort,Resort,UK,North,Corporate Agent,Deluxe,1,1,209.02,0.0,209.02,0.0,209.02,86.85,86.85,3.8,True
+B00174,Metro Stay,City,US,West,Walk-in,Deluxe,6,1,216.94,0.2,1301.64,260.33,1041.31,85.51,513.06,5.0,True
+B00175,Mountain Lodge,Resort,US,West,Travel App,Executive,5,2,308.15,0.05,3081.5,154.08,2927.42,121.2,1212.0,4.1,True
+B00176,Mountain Lodge,Resort,US,North,Corporate Agent,Standard,4,2,150.28,0.05,1202.24,60.11,1142.13,64.18,513.44,4.8,False
+B00177,Airport Plaza,Airport,UK,East,Corporate Agent,Family,7,1,257.35,0.1,1801.45,180.15,1621.3,113.81,796.67,4.1,False
+B00178,Sunset Resort,Resort,UK,West,Walk-in,Executive,1,3,299.84,0.15,899.52,134.93,764.59,123.03,369.09,4.9,False
+B00179,Grand Central Hotel,City,DE,West,Hotel Website,Deluxe,2,4,201.62,0.15,1612.96,241.94,1371.02,86.73,693.84,4.7,True
+B00180,Lakeside Inn,Resort,CA,East,Travel App,Suite,5,1,350.03,0.2,1750.15,350.03,1400.12,133.12,665.6,3.4,True
+B00181,Ocean Breeze Resort,Resort,UK,South,Travel App,Deluxe,5,4,224.1,0.05,4482.0,224.1,4257.9,86.34,1726.8,3.2,True
+B00182,Mountain Lodge,Resort,UK,South,Hotel Website,Family,5,2,283.92,0.1,2839.2,283.92,2555.28,115.8,1158.0,4.2,True
+B00183,Mountain Lodge,Resort,DE,South,Corporate Agent,Deluxe,5,3,202.53,0.0,3037.95,0.0,3037.95,86.51,1297.65,4.6,True
+B00184,Skyline Suites,City,CA,North,Walk-in,Standard,5,3,142.84,0.0,2142.6,0.0,2142.6,59.64,894.6,5.0,True
+B00185,Royal Garden Hotel,City,UK,West,Walk-in,Standard,3,4,153.76,0.05,1845.12,92.26,1752.86,64.4,772.8,4.9,False
+B00186,Skyline Suites,City,DE,West,Corporate Agent,Executive,2,1,307.48,0.1,614.96,61.5,553.46,124.52,249.04,4.9,False
+B00187,Ocean Breeze Resort,Resort,DE,East,Travel App,Executive,5,1,316.63,0.0,1583.15,0.0,1583.15,119.21,596.05,3.6,True
+B00188,Airport Plaza,Airport,DE,South,Corporate Agent,Family,6,2,254.1,0.1,3049.2,304.92,2744.28,110.18,1322.16,3.5,True
+B00189,Lakeside Inn,Resort,UK,West,Travel App,Deluxe,2,3,201.26,0.0,1207.56,0.0,1207.56,89.54,537.24,4.3,True
+B00190,Metro Stay,City,DE,South,Hotel Website,Family,1,3,260.75,0.1,782.25,78.23,704.02,113.49,340.47,3.8,False
+B00191,Lakeside Inn,Resort,UK,East,Walk-in,Standard,5,2,140.46,0.1,1404.6,140.46,1264.14,63.33,633.3,4.8,True
+B00192,Mountain Lodge,Resort,DE,North,Corporate Agent,Suite,3,1,340.95,0.15,1022.85,153.43,869.42,137.88,413.64,4.9,False
+B00193,Lakeside Inn,Resort,US,South,Walk-in,Standard,3,1,143.57,0.0,430.71,0.0,430.71,61.5,184.5,4.5,True
+B00194,Airport Plaza,Airport,DE,East,Walk-in,Family,6,1,268.52,0.05,1611.12,80.56,1530.56,113.97,683.82,4.6,False
+B00195,Mountain Lodge,Resort,CA,South,Travel App,Family,3,3,256.95,0.1,2312.55,231.26,2081.29,113.72,1023.48,4.4,True
+B00196,Ocean Breeze Resort,Resort,UK,North,Travel App,Deluxe,5,4,213.44,0.05,4268.8,213.44,4055.36,88.43,1768.6,4.0,False
+B00197,Skyline Suites,City,US,South,Walk-in,Executive,5,2,306.07,0.15,3060.7,459.1,2601.6,118.35,1183.5,5.0,False
+B00198,Skyline Suites,City,UK,North,Walk-in,Deluxe,2,4,214.25,0.1,1714.0,171.4,1542.6,90.47,723.76,4.1,True
+B00199,Airport Plaza,Airport,CA,East,Corporate Agent,Family,2,4,276.56,0.05,2212.48,110.62,2101.86,116.38,931.04,3.6,False
+B00200,Mountain Lodge,Resort,UK,West,Travel App,Family,4,4,269.76,0.0,4316.16,0.0,4316.16,107.56,1720.96,4.0,False
+B00201,Harbor View Hotel,City,UK,North,Walk-in,Executive,1,2,308.77,0.0,617.54,0.0,617.54,124.42,248.84,4.3,False
+B00202,Grand Central Hotel,City,UK,East,Corporate Agent,Family,6,1,286.01,0.05,1716.06,85.8,1630.26,112.13,672.78,4.1,True
+B00203,Mountain Lodge,Resort,CA,West,Travel App,Deluxe,1,2,226.39,0.0,452.78,0.0,452.78,88.78,177.56,3.8,False
+B00204,Lakeside Inn,Resort,US,North,Hotel Website,Standard,3,2,144.41,0.2,866.46,173.29,693.17,59.67,358.02,3.9,False
+B00205,Sunset Resort,Resort,CA,West,Travel App,Suite,6,4,346.44,0.0,8314.56,0.0,8314.56,138.84,3332.16,4.1,True
+B00206,Harbor View Hotel,City,DE,North,Corporate Agent,Deluxe,2,2,214.33,0.0,857.32,0.0,857.32,91.35,365.4,4.4,False
+B00207,Ocean Breeze Resort,Resort,US,East,Corporate Agent,Executive,6,3,298.32,0.05,5369.76,268.49,5101.27,123.37,2220.66,3.6,False
+B00208,Sunset Resort,Resort,DE,West,Corporate Agent,Executive,3,4,306.8,0.0,3681.6,0.0,3681.6,123.48,1481.76,3.3,True
+B00209,Sunset Resort,Resort,DE,East,Hotel Website,Family,5,2,265.64,0.05,2656.4,132.82,2523.58,112.18,1121.8,5.0,False
+B00210,Skyline Suites,City,UK,East,Travel App,Deluxe,5,3,206.07,0.0,3091.05,0.0,3091.05,88.02,1320.3,4.1,True
+B00211,Ocean Breeze Resort,Resort,DE,West,Walk-in,Suite,2,1,327.69,0.0,655.38,0.0,655.38,143.52,287.04,3.7,True
+B00212,Royal Garden Hotel,City,UK,West,Travel App,Family,5,2,278.9,0.0,2789.0,0.0,2789.0,111.07,1110.7,3.3,False
+B00213,Royal Garden Hotel,City,DE,West,Walk-in,Suite,6,2,320.6,0.05,3847.2,192.36,3654.84,141.6,1699.2,4.9,False
+B00214,Skyline Suites,City,US,South,Travel App,Standard,7,1,141.6,0.05,991.2,49.56,941.64,62.25,435.75,4.0,False
+B00215,Lakeside Inn,Resort,US,North,Travel App,Executive,3,1,280.16,0.1,840.48,84.05,756.43,121.93,365.79,3.6,False
+B00216,Harbor View Hotel,City,US,North,Hotel Website,Family,4,2,270.12,0.0,2160.96,0.0,2160.96,111.53,892.24,5.0,True
+B00217,Skyline Suites,City,DE,North,Corporate Agent,Family,3,4,253.24,0.0,3038.88,0.0,3038.88,115.03,1380.36,4.3,True
+B00218,Sunset Resort,Resort,DE,West,Corporate Agent,Suite,2,4,350.56,0.2,2804.48,560.9,2243.58,142.98,1143.84,3.8,False
+B00219,Sunset Resort,Resort,DE,East,Walk-in,Executive,5,3,297.3,0.0,4459.5,0.0,4459.5,121.49,1822.35,4.4,False
+B00220,Metro Stay,City,CA,North,Hotel Website,Executive,4,2,295.51,0.0,2364.08,0.0,2364.08,124.61,996.88,3.6,True
+B00221,Metro Stay,City,US,West,Corporate Agent,Suite,3,4,352.17,0.0,4226.04,0.0,4226.04,135.74,1628.88,4.2,False
+B00222,Royal Garden Hotel,City,CA,South,Walk-in,Executive,1,2,303.92,0.15,607.84,91.18,516.66,117.14,234.28,4.7,True
+B00223,Grand Central Hotel,City,US,West,Hotel Website,Suite,2,1,357.98,0.1,715.96,71.6,644.36,142.05,284.1,4.1,False
+B00224,Airport Plaza,Airport,US,North,Hotel Website,Suite,5,2,335.63,0.1,3356.3,335.63,3020.67,135.75,1357.5,3.3,True
+B00225,Metro Stay,City,US,North,Corporate Agent,Standard,3,1,152.33,0.2,456.99,91.4,365.59,62.06,186.18,4.4,False
+B00226,Mountain Lodge,Resort,US,North,Corporate Agent,Suite,5,1,337.07,0.2,1685.35,337.07,1348.28,134.09,670.45,4.6,True
+B00227,Skyline Suites,City,DE,South,Corporate Agent,Suite,6,3,342.39,0.05,6163.02,308.15,5854.87,140.45,2528.1,4.0,False
+B00228,Mountain Lodge,Resort,DE,South,Travel App,Executive,6,3,301.06,0.2,5419.08,1083.82,4335.26,117.94,2122.92,3.9,False
+B00229,Airport Plaza,Airport,US,North,Walk-in,Deluxe,5,1,212.03,0.1,1060.15,106.02,954.13,88.52,442.6,3.3,False
+B00230,Harbor View Hotel,City,US,East,Travel App,Executive,6,1,311.23,0.05,1867.38,93.37,1774.01,117.81,706.86,4.8,False
+B00231,Grand Central Hotel,City,CA,North,Travel App,Deluxe,2,2,224.86,0.05,899.44,44.97,854.47,89.06,356.24,3.8,True
+B00232,Royal Garden Hotel,City,UK,East,Travel App,Suite,5,2,358.96,0.0,3589.6,0.0,3589.6,132.88,1328.8,4.9,False
+B00233,Skyline Suites,City,UK,West,Walk-in,Family,5,3,280.18,0.1,4202.7,420.27,3782.43,112.12,1681.8,4.8,False
+B00234,Sunset Resort,Resort,US,North,Corporate Agent,Standard,6,3,153.12,0.0,2756.16,0.0,2756.16,61.44,1105.92,4.7,False
+B00235,Mountain Lodge,Resort,US,North,Corporate Agent,Standard,4,1,147.09,0.1,588.36,58.84,529.52,63.18,252.72,4.3,False
+B00236,Ocean Breeze Resort,Resort,CA,East,Travel App,Standard,7,3,137.26,0.15,2882.46,432.37,2450.09,62.36,1309.56,4.7,True
+B00237,Royal Garden Hotel,City,DE,South,Walk-in,Deluxe,3,4,218.97,0.15,2627.64,394.15,2233.49,88.08,1056.96,4.2,True
+B00238,Mountain Lodge,Resort,UK,North,Hotel Website,Deluxe,4,1,225.75,0.05,903.0,45.15,857.85,86.72,346.88,4.9,True
+B00239,Mountain Lodge,Resort,DE,South,Walk-in,Suite,6,3,343.13,0.15,6176.34,926.45,5249.89,141.34,2544.12,4.8,False
+B00240,Ocean Breeze Resort,Resort,US,West,Hotel Website,Standard,6,4,144.75,0.05,3474.0,173.7,3300.3,64.07,1537.68,4.9,False
+B00241,Grand Central Hotel,City,UK,North,Travel App,Executive,6,4,316.24,0.05,7589.76,379.49,7210.27,116.89,2805.36,3.8,False
+B00242,Airport Plaza,Airport,DE,South,Travel App,Family,5,3,267.54,0.15,4013.1,601.96,3411.14,116.39,1745.85,4.2,False
+B00243,Royal Garden Hotel,City,CA,East,Travel App,Family,2,3,280.57,0.1,1683.42,168.34,1515.08,112.78,676.68,3.4,False
+B00244,Airport Plaza,Airport,CA,West,Walk-in,Suite,6,4,332.7,0.15,7984.8,1197.72,6787.08,141.25,3390.0,3.9,False
+B00245,Harbor View Hotel,City,US,South,Hotel Website,Executive,6,3,318.3,0.0,5729.4,0.0,5729.4,118.38,2130.84,4.4,True
+B00246,Ocean Breeze Resort,Resort,CA,South,Corporate Agent,Family,7,2,261.13,0.0,3655.82,0.0,3655.82,108.56,1519.84,4.1,True
+B00247,Airport Plaza,Airport,CA,West,Hotel Website,Standard,7,3,143.55,0.2,3014.55,602.91,2411.64,64.21,1348.41,3.8,False
+B00248,Skyline Suites,City,CA,East,Corporate Agent,Standard,6,1,137.58,0.2,825.48,165.1,660.38,63.02,378.12,3.2,True
+B00249,Ocean Breeze Resort,Resort,US,North,Walk-in,Deluxe,7,1,200.9,0.05,1406.3,70.32,1335.98,89.42,625.94,4.4,True
+B00250,Metro Stay,City,US,East,Travel App,Standard,4,2,154.81,0.1,1238.48,123.85,1114.63,60.94,487.52,3.9,True
+B00251,Ocean Breeze Resort,Resort,CA,West,Hotel Website,Deluxe,6,2,211.01,0.1,2532.12,253.21,2278.91,84.67,1016.04,4.7,False
+B00252,Metro Stay,City,CA,West,Walk-in,Executive,1,3,287.89,0.2,863.67,172.73,690.94,117.35,352.05,4.5,False
+B00253,Metro Stay,City,CA,West,Corporate Agent,Suite,6,1,329.28,0.15,1975.68,296.35,1679.33,133.7,802.2,4.1,True
+B00254,Airport Plaza,Airport,CA,South,Walk-in,Executive,7,4,286.79,0.0,8030.12,0.0,8030.12,117.64,3293.92,3.8,False
+B00255,Mountain Lodge,Resort,US,West,Hotel Website,Standard,2,2,140.78,0.0,563.12,0.0,563.12,61.84,247.36,4.6,True
+B00256,Ocean Breeze Resort,Resort,DE,East,Corporate Agent,Deluxe,3,2,206.33,0.15,1237.98,185.7,1052.28,89.26,535.56,4.9,False
+B00257,Mountain Lodge,Resort,UK,East,Walk-in,Family,2,2,275.42,0.1,1101.68,110.17,991.51,108.92,435.68,4.8,False
+B00258,Grand Central Hotel,City,UK,East,Travel App,Suite,7,3,352.5,0.0,7402.5,0.0,7402.5,139.35,2926.35,4.9,False
+B00259,Sunset Resort,Resort,UK,South,Walk-in,Standard,6,2,141.13,0.05,1693.56,84.68,1608.88,62.38,748.56,4.2,False
+B00260,Harbor View Hotel,City,UK,South,Corporate Agent,Executive,1,1,300.66,0.15,300.66,45.1,255.56,119.52,119.52,3.4,True
+B00261,Skyline Suites,City,DE,South,Travel App,Standard,3,1,148.93,0.15,446.79,67.02,379.77,63.51,190.53,4.1,False
+B00262,Royal Garden Hotel,City,UK,North,Hotel Website,Deluxe,5,1,200.0,0.15,1000.0,150.0,850.0,84.73,423.65,3.7,False
+B00263,Skyline Suites,City,CA,East,Hotel Website,Family,2,3,271.77,0.0,1630.62,0.0,1630.62,112.2,673.2,3.6,True
+B00264,Ocean Breeze Resort,Resort,UK,West,Corporate Agent,Deluxe,5,1,204.8,0.15,1024.0,153.6,870.4,88.95,444.75,3.3,True
+B00265,Mountain Lodge,Resort,CA,South,Walk-in,Family,1,3,263.36,0.0,790.08,0.0,790.08,111.78,335.34,3.9,True
+B00266,Skyline Suites,City,UK,South,Corporate Agent,Executive,7,3,299.25,0.0,6284.25,0.0,6284.25,119.66,2512.86,4.9,False
+B00267,Harbor View Hotel,City,CA,North,Corporate Agent,Suite,2,2,360.71,0.05,1442.84,72.14,1370.7,138.24,552.96,3.3,False
+B00268,Mountain Lodge,Resort,DE,West,Hotel Website,Deluxe,2,3,207.88,0.15,1247.28,187.09,1060.19,89.9,539.4,4.1,True
+B00269,Ocean Breeze Resort,Resort,CA,South,Corporate Agent,Standard,5,2,153.24,0.0,1532.4,0.0,1532.4,60.65,606.5,4.3,False
+B00270,Sunset Resort,Resort,DE,North,Walk-in,Standard,5,2,144.12,0.15,1441.2,216.18,1225.02,61.42,614.2,4.2,True
+B00271,Metro Stay,City,US,East,Travel App,Deluxe,6,1,223.35,0.2,1340.1,268.02,1072.08,84.68,508.08,4.6,True
+B00272,Grand Central Hotel,City,DE,East,Hotel Website,Family,6,4,271.33,0.0,6511.92,0.0,6511.92,115.46,2771.04,4.1,False
+B00273,Ocean Breeze Resort,Resort,UK,West,Travel App,Standard,5,1,139.21,0.05,696.05,34.8,661.25,64.25,321.25,3.7,True
+B00274,Harbor View Hotel,City,CA,North,Hotel Website,Suite,2,2,329.45,0.1,1317.8,131.78,1186.02,142.22,568.88,3.9,False
+B00275,Sunset Resort,Resort,CA,East,Corporate Agent,Suite,4,2,360.45,0.2,2883.6,576.72,2306.88,142.6,1140.8,3.5,False
+B00276,Ocean Breeze Resort,Resort,DE,West,Corporate Agent,Standard,2,2,143.61,0.0,574.44,0.0,574.44,60.57,242.28,4.6,False
+B00277,Metro Stay,City,DE,North,Corporate Agent,Deluxe,4,2,219.53,0.1,1756.24,175.62,1580.62,88.43,707.44,3.8,False
+B00278,Mountain Lodge,Resort,DE,East,Hotel Website,Suite,5,1,352.13,0.05,1760.65,88.03,1672.62,141.66,708.3,4.0,True
+B00279,Lakeside Inn,Resort,DE,East,Travel App,Standard,5,2,140.73,0.15,1407.3,211.1,1196.2,62.86,628.6,3.9,False
+B00280,Grand Central Hotel,City,DE,North,Travel App,Suite,5,4,348.98,0.15,6979.6,1046.94,5932.66,135.34,2706.8,3.5,False
+B00281,Harbor View Hotel,City,US,South,Travel App,Standard,2,4,142.64,0.15,1141.12,171.17,969.95,60.3,482.4,4.7,False
+B00282,Grand Central Hotel,City,UK,South,Walk-in,Executive,4,4,300.83,0.0,4813.28,0.0,4813.28,121.76,1948.16,3.9,False
+B00283,Ocean Breeze Resort,Resort,DE,East,Travel App,Family,5,3,270.18,0.1,4052.7,405.27,3647.43,112.7,1690.5,4.2,True
+B00284,Mountain Lodge,Resort,US,East,Corporate Agent,Executive,2,1,313.88,0.0,627.76,0.0,627.76,116.24,232.48,3.6,True
+B00285,Lakeside Inn,Resort,DE,South,Walk-in,Standard,2,2,148.85,0.05,595.4,29.77,565.63,60.76,243.04,4.0,True
+B00286,Sunset Resort,Resort,DE,South,Corporate Agent,Suite,3,4,349.34,0.0,4192.08,0.0,4192.08,132.85,1594.2,4.2,True
+B00287,Metro Stay,City,CA,North,Corporate Agent,Suite,4,4,349.49,0.2,5591.84,1118.37,4473.47,142.46,2279.36,4.9,False
+B00288,Mountain Lodge,Resort,DE,East,Travel App,Standard,6,1,139.42,0.2,836.52,167.3,669.22,60.01,360.06,4.0,False
+B00289,Skyline Suites,City,UK,North,Travel App,Deluxe,3,1,213.5,0.1,640.5,64.05,576.45,90.93,272.79,4.8,False
+B00290,Mountain Lodge,Resort,CA,West,Corporate Agent,Family,1,4,269.52,0.15,1078.08,161.71,916.37,115.22,460.88,4.0,True
+B00291,Ocean Breeze Resort,Resort,US,East,Walk-in,Suite,1,1,327.63,0.15,327.63,49.14,278.49,133.47,133.47,4.6,False
+B00292,Metro Stay,City,CA,South,Walk-in,Suite,2,2,358.68,0.15,1434.72,215.21,1219.51,132.59,530.36,5.0,False
+B00293,Grand Central Hotel,City,UK,South,Travel App,Executive,5,2,318.59,0.0,3185.9,0.0,3185.9,116.23,1162.3,3.8,False
+B00294,Grand Central Hotel,City,CA,East,Hotel Website,Executive,4,2,315.65,0.0,2525.2,0.0,2525.2,122.51,980.08,4.1,True
+B00295,Ocean Breeze Resort,Resort,US,West,Travel App,Standard,2,4,155.6,0.2,1244.8,248.96,995.84,64.18,513.44,3.8,True
+B00296,Metro Stay,City,US,South,Walk-in,Standard,5,3,149.2,0.0,2238.0,0.0,2238.0,60.81,912.15,4.5,True
+B00297,Mountain Lodge,Resort,DE,East,Hotel Website,Deluxe,2,2,221.85,0.15,887.4,133.11,754.29,86.76,347.04,4.7,True
+B00298,Skyline Suites,City,CA,West,Corporate Agent,Suite,2,2,327.13,0.0,1308.52,0.0,1308.52,134.14,536.56,3.4,False
+B00299,Ocean Breeze Resort,Resort,UK,North,Travel App,Deluxe,7,4,216.87,0.1,6072.36,607.24,5465.12,90.12,2523.36,4.2,True
+B00300,Sunset Resort,Resort,CA,West,Hotel Website,Family,6,4,272.55,0.0,6541.2,0.0,6541.2,112.75,2706.0,4.9,False
+B00301,Lakeside Inn,Resort,US,East,Walk-in,Family,2,3,278.61,0.15,1671.66,250.75,1420.91,114.79,688.74,4.6,False
+B00302,Royal Garden Hotel,City,DE,West,Travel App,Deluxe,3,1,208.95,0.15,626.85,94.03,532.82,87.17,261.51,3.8,False
+B00303,Sunset Resort,Resort,CA,North,Hotel Website,Deluxe,4,2,222.51,0.05,1780.08,89.0,1691.08,89.83,718.64,3.9,True
+B00304,Skyline Suites,City,DE,West,Walk-in,Suite,4,3,322.82,0.0,3873.84,0.0,3873.84,133.83,1605.96,4.6,False
+B00305,Metro Stay,City,CA,West,Corporate Agent,Family,2,1,266.78,0.0,533.56,0.0,533.56,114.16,228.32,3.8,False
+B00306,Grand Central Hotel,City,CA,South,Walk-in,Suite,6,1,342.41,0.2,2054.46,410.89,1643.57,142.33,853.98,3.5,False
+B00307,Sunset Resort,Resort,CA,East,Travel App,Executive,5,2,313.63,0.2,3136.3,627.26,2509.04,124.14,1241.4,3.8,False
+B00308,Sunset Resort,Resort,UK,East,Hotel Website,Standard,7,4,143.65,0.0,4022.2,0.0,4022.2,62.55,1751.4,4.2,False
+B00309,Metro Stay,City,CA,North,Corporate Agent,Standard,5,3,140.98,0.2,2114.7,422.94,1691.76,64.01,960.15,4.9,False
+B00310,Harbor View Hotel,City,DE,East,Travel App,Executive,5,1,314.19,0.2,1570.95,314.19,1256.76,124.97,624.85,3.4,True
+B00311,Harbor View Hotel,City,UK,East,Walk-in,Standard,2,1,153.19,0.0,306.38,0.0,306.38,60.08,120.16,4.7,False
+B00312,Royal Garden Hotel,City,US,North,Travel App,Family,7,4,250.32,0.1,7008.96,700.9,6308.06,112.64,3153.92,3.8,False
+B00313,Skyline Suites,City,UK,North,Hotel Website,Standard,5,3,138.76,0.15,2081.4,312.21,1769.19,63.47,952.05,4.3,False
+B00314,Ocean Breeze Resort,Resort,US,East,Walk-in,Family,3,4,274.28,0.15,3291.36,493.7,2797.66,112.37,1348.44,4.2,True
+B00315,Royal Garden Hotel,City,US,East,Corporate Agent,Executive,4,2,297.13,0.15,2377.04,356.56,2020.48,116.58,932.64,4.5,False
+B00316,Mountain Lodge,Resort,UK,West,Walk-in,Family,3,1,272.6,0.1,817.8,81.78,736.02,111.92,335.76,3.5,False
+B00317,Grand Central Hotel,City,UK,East,Hotel Website,Executive,3,1,312.74,0.2,938.22,187.64,750.58,123.89,371.67,4.2,True
+B00318,Mountain Lodge,Resort,DE,North,Corporate Agent,Deluxe,4,1,208.68,0.15,834.72,125.21,709.51,91.2,364.8,3.6,False
+B00319,Airport Plaza,Airport,CA,South,Walk-in,Executive,1,4,285.89,0.2,1143.56,228.71,914.85,121.13,484.52,4.1,True
+B00320,Grand Central Hotel,City,DE,South,Travel App,Suite,7,1,352.53,0.15,2467.71,370.16,2097.55,132.65,928.55,4.5,False
+B00321,Sunset Resort,Resort,CA,West,Walk-in,Family,7,3,276.31,0.05,5802.51,290.13,5512.38,110.9,2328.9,3.9,True
+B00322,Grand Central Hotel,City,UK,West,Corporate Agent,Deluxe,3,2,226.79,0.1,1360.74,136.07,1224.67,88.49,530.94,4.2,True
+B00323,Skyline Suites,City,US,West,Walk-in,Deluxe,6,2,225.35,0.05,2704.2,135.21,2568.99,85.19,1022.28,3.3,False
+B00324,Grand Central Hotel,City,US,South,Corporate Agent,Standard,5,4,149.42,0.2,2988.4,597.68,2390.72,60.19,1203.8,4.3,True
+B00325,Metro Stay,City,UK,East,Hotel Website,Deluxe,2,1,213.87,0.2,427.74,85.55,342.19,86.35,172.7,4.6,False
+B00326,Grand Central Hotel,City,US,North,Walk-in,Suite,3,1,362.28,0.1,1086.84,108.68,978.16,135.18,405.54,3.6,False
+B00327,Skyline Suites,City,US,South,Hotel Website,Suite,1,3,325.95,0.0,977.85,0.0,977.85,135.11,405.33,5.0,True
+B00328,Royal Garden Hotel,City,UK,West,Walk-in,Suite,6,3,356.92,0.0,6424.56,0.0,6424.56,136.62,2459.16,4.8,True
+B00329,Ocean Breeze Resort,Resort,UK,East,Corporate Agent,Standard,4,2,148.67,0.2,1189.36,237.87,951.49,62.72,501.76,4.5,True
+B00330,Mountain Lodge,Resort,US,South,Travel App,Executive,2,1,308.82,0.2,617.64,123.53,494.11,120.65,241.3,4.2,False
+B00331,Sunset Resort,Resort,UK,North,Walk-in,Suite,7,4,348.49,0.0,9757.72,0.0,9757.72,137.0,3836.0,4.8,True
+B00332,Skyline Suites,City,CA,East,Walk-in,Executive,3,2,284.67,0.2,1708.02,341.6,1366.42,125.6,753.6,4.2,True
+B00333,Lakeside Inn,Resort,CA,North,Travel App,Deluxe,6,4,213.48,0.05,5123.52,256.18,4867.34,86.92,2086.08,3.4,True
+B00334,Royal Garden Hotel,City,CA,West,Corporate Agent,Suite,4,2,345.4,0.15,2763.2,414.48,2348.72,138.29,1106.32,4.8,True
+B00335,Sunset Resort,Resort,US,North,Hotel Website,Standard,7,2,148.23,0.1,2075.22,207.52,1867.7,61.17,856.38,4.9,False
+B00336,Skyline Suites,City,UK,North,Corporate Agent,Suite,7,4,349.42,0.0,9783.76,0.0,9783.76,133.43,3736.04,4.5,True
+B00337,Airport Plaza,Airport,US,West,Hotel Website,Deluxe,6,3,208.35,0.0,3750.3,0.0,3750.3,84.64,1523.52,3.5,False
+B00338,Harbor View Hotel,City,CA,North,Travel App,Standard,5,1,143.78,0.2,718.9,143.78,575.12,63.14,315.7,3.5,True
+B00339,Ocean Breeze Resort,Resort,DE,West,Hotel Website,Family,2,3,271.07,0.1,1626.42,162.64,1463.78,108.84,653.04,4.0,True
+B00340,Grand Central Hotel,City,US,South,Walk-in,Standard,2,3,148.2,0.2,889.2,177.84,711.36,64.25,385.5,3.8,False
+B00341,Skyline Suites,City,DE,South,Travel App,Deluxe,6,2,207.86,0.05,2494.32,124.72,2369.6,86.93,1043.16,4.5,False
+B00342,Airport Plaza,Airport,US,West,Walk-in,Family,1,1,267.96,0.05,267.96,13.4,254.56,112.54,112.54,3.5,False
+B00343,Sunset Resort,Resort,UK,West,Walk-in,Suite,5,2,337.58,0.15,3375.8,506.37,2869.43,139.16,1391.6,3.3,True
+B00344,Metro Stay,City,US,North,Hotel Website,Family,7,4,253.36,0.05,7094.08,354.7,6739.38,108.44,3036.32,4.2,False
+B00345,Metro Stay,City,UK,East,Travel App,Deluxe,2,1,226.07,0.2,452.14,90.43,361.71,85.88,171.76,4.6,False
+B00346,Airport Plaza,Airport,UK,North,Corporate Agent,Deluxe,4,3,206.03,0.15,2472.36,370.85,2101.51,90.7,1088.4,3.4,True
+B00347,Skyline Suites,City,CA,East,Walk-in,Executive,7,2,313.56,0.0,4389.84,0.0,4389.84,118.63,1660.82,3.5,True
+B00348,Harbor View Hotel,City,CA,South,Hotel Website,Deluxe,3,3,221.06,0.05,1989.54,99.48,1890.06,88.22,793.98,3.3,True
+B00349,Ocean Breeze Resort,Resort,CA,West,Hotel Website,Suite,6,2,360.22,0.2,4322.64,864.53,3458.11,141.78,1701.36,4.9,False
+B00350,Ocean Breeze Resort,Resort,DE,West,Corporate Agent,Standard,7,4,137.55,0.05,3851.4,192.57,3658.83,60.14,1683.92,3.5,True
+B00351,Skyline Suites,City,DE,North,Hotel Website,Suite,7,1,326.27,0.0,2283.89,0.0,2283.89,139.46,976.22,4.5,True
+B00352,Mountain Lodge,Resort,UK,South,Corporate Agent,Suite,7,2,353.99,0.1,4955.86,495.59,4460.27,142.33,1992.62,4.3,False
+B00353,Grand Central Hotel,City,DE,South,Hotel Website,Suite,2,2,352.78,0.2,1411.12,282.22,1128.9,133.88,535.52,4.9,False
+B00354,Royal Garden Hotel,City,DE,East,Hotel Website,Family,2,2,252.56,0.0,1010.24,0.0,1010.24,111.66,446.64,4.1,True
+B00355,Grand Central Hotel,City,UK,South,Walk-in,Deluxe,5,2,205.15,0.2,2051.5,410.3,1641.2,87.6,876.0,3.7,True
+B00356,Harbor View Hotel,City,US,North,Walk-in,Deluxe,1,1,207.57,0.05,207.57,10.38,197.19,89.29,89.29,4.0,True
+B00357,Harbor View Hotel,City,UK,East,Hotel Website,Family,6,4,257.75,0.1,6186.0,618.6,5567.4,113.48,2723.52,4.8,False
+B00358,Ocean Breeze Resort,Resort,CA,East,Travel App,Executive,6,3,299.9,0.1,5398.2,539.82,4858.38,116.26,2092.68,3.7,False
+B00359,Mountain Lodge,Resort,US,South,Hotel Website,Family,7,3,261.63,0.0,5494.23,0.0,5494.23,114.29,2400.09,4.2,True
+B00360,Grand Central Hotel,City,CA,South,Travel App,Family,1,4,267.69,0.0,1070.76,0.0,1070.76,111.44,445.76,4.4,True
+B00361,Skyline Suites,City,DE,South,Hotel Website,Suite,2,3,326.59,0.0,1959.54,0.0,1959.54,132.78,796.68,4.5,False
+B00362,Royal Garden Hotel,City,CA,North,Hotel Website,Suite,1,3,338.71,0.0,1016.13,0.0,1016.13,132.63,397.89,4.2,False
+B00363,Airport Plaza,Airport,DE,South,Walk-in,Family,5,1,263.11,0.15,1315.55,197.33,1118.22,109.18,545.9,4.9,False
+B00364,Lakeside Inn,Resort,CA,South,Hotel Website,Suite,2,1,333.9,0.0,667.8,0.0,667.8,142.46,284.92,4.8,False
+B00365,Airport Plaza,Airport,UK,East,Travel App,Family,1,2,249.78,0.05,499.56,24.98,474.58,115.77,231.54,4.7,True
+B00366,Airport Plaza,Airport,DE,North,Walk-in,Suite,7,4,338.04,0.15,9465.12,1419.77,8045.35,132.77,3717.56,3.3,False
+B00367,Sunset Resort,Resort,DE,West,Travel App,Family,2,3,258.86,0.15,1553.16,232.97,1320.19,108.25,649.5,4.9,True
+B00368,Grand Central Hotel,City,DE,East,Travel App,Suite,1,1,323.42,0.0,323.42,0.0,323.42,135.13,135.13,3.8,True
+B00369,Royal Garden Hotel,City,CA,East,Corporate Agent,Suite,5,2,332.02,0.0,3320.2,0.0,3320.2,136.74,1367.4,3.9,True
+B00370,Grand Central Hotel,City,UK,South,Corporate Agent,Suite,2,4,363.87,0.05,2910.96,145.55,2765.41,133.64,1069.12,4.3,False
+B00371,Skyline Suites,City,CA,East,Corporate Agent,Family,3,4,274.16,0.1,3289.92,328.99,2960.93,113.96,1367.52,4.0,False
+B00372,Lakeside Inn,Resort,CA,South,Walk-in,Standard,5,1,143.15,0.1,715.75,71.58,644.17,60.5,302.5,4.3,True
+B00373,Lakeside Inn,Resort,UK,East,Walk-in,Executive,6,1,279.73,0.2,1678.38,335.68,1342.7,125.62,753.72,4.5,True
+B00374,Harbor View Hotel,City,US,West,Walk-in,Family,4,2,252.19,0.2,2017.52,403.5,1614.02,116.43,931.44,3.8,True
+B00375,Metro Stay,City,US,South,Hotel Website,Suite,7,2,321.3,0.15,4498.2,674.73,3823.47,137.8,1929.2,3.8,False
+B00376,Airport Plaza,Airport,CA,North,Travel App,Suite,5,2,351.4,0.0,3514.0,0.0,3514.0,135.94,1359.4,4.7,False
+B00377,Sunset Resort,Resort,UK,East,Corporate Agent,Executive,2,1,289.84,0.05,579.68,28.98,550.7,125.4,250.8,4.6,True
+B00378,Royal Garden Hotel,City,CA,West,Corporate Agent,Suite,2,3,341.91,0.05,2051.46,102.57,1948.89,135.98,815.88,3.8,True
+B00379,Lakeside Inn,Resort,CA,North,Hotel Website,Suite,3,3,340.61,0.15,3065.49,459.82,2605.67,133.06,1197.54,4.7,True
+B00380,Mountain Lodge,Resort,CA,North,Travel App,Suite,4,1,353.1,0.1,1412.4,141.24,1271.16,133.46,533.84,4.0,False
+B00381,Lakeside Inn,Resort,US,West,Corporate Agent,Deluxe,3,3,213.08,0.0,1917.72,0.0,1917.72,87.78,790.02,4.6,True
+B00382,Airport Plaza,Airport,UK,South,Hotel Website,Suite,4,3,329.76,0.0,3957.12,0.0,3957.12,140.83,1689.96,3.2,False
+B00383,Grand Central Hotel,City,DE,North,Walk-in,Executive,1,4,302.25,0.05,1209.0,60.45,1148.55,121.93,487.72,3.3,True
+B00384,Royal Garden Hotel,City,UK,West,Corporate Agent,Executive,6,4,279.38,0.2,6705.12,1341.02,5364.1,117.98,2831.52,3.5,False
+B00385,Harbor View Hotel,City,DE,North,Hotel Website,Executive,2,1,313.14,0.2,626.28,125.26,501.02,123.42,246.84,3.6,False
+B00386,Mountain Lodge,Resort,CA,South,Hotel Website,Executive,7,1,313.89,0.1,2197.23,219.72,1977.51,118.56,829.92,4.2,False
+B00387,Mountain Lodge,Resort,CA,South,Travel App,Suite,7,1,357.08,0.1,2499.56,249.96,2249.6,143.01,1001.07,3.6,True
+B00388,Harbor View Hotel,City,UK,North,Walk-in,Deluxe,1,3,204.0,0.0,612.0,0.0,612.0,88.81,266.43,4.9,False
+B00389,Royal Garden Hotel,City,UK,South,Corporate Agent,Executive,7,2,316.47,0.15,4430.58,664.59,3765.99,119.01,1666.14,4.6,False
+B00390,Harbor View Hotel,City,CA,North,Walk-in,Family,5,3,265.25,0.0,3978.75,0.0,3978.75,109.0,1635.0,3.7,False
+B00391,Mountain Lodge,Resort,CA,North,Travel App,Suite,4,2,355.02,0.05,2840.16,142.01,2698.15,141.61,1132.88,3.9,True
+B00392,Grand Central Hotel,City,DE,North,Walk-in,Family,6,2,271.05,0.1,3252.6,325.26,2927.34,115.68,1388.16,5.0,True
+B00393,Metro Stay,City,US,South,Corporate Agent,Suite,3,4,361.21,0.05,4334.52,216.73,4117.79,133.07,1596.84,4.0,True
+B00394,Harbor View Hotel,City,DE,East,Travel App,Deluxe,3,3,201.15,0.15,1810.35,271.55,1538.8,88.07,792.63,3.7,True
+B00395,Skyline Suites,City,DE,West,Hotel Website,Executive,5,3,304.31,0.05,4564.65,228.23,4336.42,125.47,1882.05,4.4,False
+B00396,Lakeside Inn,Resort,US,North,Walk-in,Family,3,2,260.34,0.1,1562.04,156.2,1405.84,110.49,662.94,3.9,False
+B00397,Airport Plaza,Airport,CA,North,Hotel Website,Deluxe,6,2,201.49,0.1,2417.88,241.79,2176.09,88.85,1066.2,3.2,False
+B00398,Mountain Lodge,Resort,CA,West,Travel App,Executive,3,1,297.28,0.0,891.84,0.0,891.84,117.06,351.18,4.2,True
+B00399,Lakeside Inn,Resort,UK,South,Corporate Agent,Family,1,4,251.34,0.1,1005.36,100.54,904.82,110.6,442.4,4.4,False
+B00400,Royal Garden Hotel,City,US,East,Hotel Website,Suite,2,4,330.72,0.0,2645.76,0.0,2645.76,132.96,1063.68,4.3,False
+B00401,Metro Stay,City,US,South,Corporate Agent,Family,1,1,270.3,0.15,270.3,40.55,229.75,111.24,111.24,4.3,True
+B00402,Metro Stay,City,US,South,Corporate Agent,Family,6,3,257.18,0.15,4629.24,694.39,3934.85,114.06,2053.08,4.6,False
+B00403,Mountain Lodge,Resort,DE,West,Walk-in,Family,7,3,279.13,0.0,5861.73,0.0,5861.73,110.9,2328.9,3.4,False
+B00404,Ocean Breeze Resort,Resort,US,North,Travel App,Executive,1,4,315.3,0.2,1261.2,252.24,1008.96,119.13,476.52,4.6,False
+B00405,Royal Garden Hotel,City,CA,East,Hotel Website,Executive,3,1,288.39,0.2,865.17,173.03,692.14,124.65,373.95,3.3,False
+B00406,Sunset Resort,Resort,US,North,Corporate Agent,Deluxe,7,2,202.48,0.15,2834.72,425.21,2409.51,87.46,1224.44,3.9,True
+B00407,Mountain Lodge,Resort,DE,East,Walk-in,Suite,1,3,366.51,0.2,1099.53,219.91,879.62,133.38,400.14,3.3,False
+B00408,Mountain Lodge,Resort,DE,West,Travel App,Family,2,2,267.54,0.0,1070.16,0.0,1070.16,113.47,453.88,3.5,False
+B00409,Sunset Resort,Resort,DE,West,Hotel Website,Family,6,2,269.02,0.05,3228.24,161.41,3066.83,113.33,1359.96,3.8,False
+B00410,Grand Central Hotel,City,US,West,Travel App,Deluxe,7,1,205.02,0.2,1435.14,287.03,1148.11,88.38,618.66,4.0,True
+B00411,Royal Garden Hotel,City,US,West,Corporate Agent,Deluxe,2,1,222.4,0.05,444.8,22.24,422.56,86.37,172.74,4.2,True
+B00412,Grand Central Hotel,City,DE,East,Travel App,Family,4,4,272.68,0.0,4362.88,0.0,4362.88,108.66,1738.56,4.5,False
+B00413,Royal Garden Hotel,City,CA,South,Corporate Agent,Executive,6,1,311.48,0.2,1868.88,373.78,1495.1,123.54,741.24,3.3,True
+B00414,Grand Central Hotel,City,CA,West,Corporate Agent,Standard,2,2,144.28,0.1,577.12,57.71,519.41,59.82,239.28,4.2,False
+B00415,Ocean Breeze Resort,Resort,US,West,Travel App,Standard,3,4,152.13,0.05,1825.56,91.28,1734.28,63.19,758.28,4.6,False
+B00416,Skyline Suites,City,UK,West,Travel App,Executive,4,3,297.14,0.0,3565.68,0.0,3565.68,119.69,1436.28,3.9,False
+B00417,Airport Plaza,Airport,CA,North,Hotel Website,Family,3,4,274.16,0.15,3289.92,493.49,2796.43,114.97,1379.64,4.7,False
+B00418,Ocean Breeze Resort,Resort,DE,East,Travel App,Standard,5,1,145.08,0.1,725.4,72.54,652.86,62.69,313.45,4.8,False
+B00419,Airport Plaza,Airport,UK,West,Travel App,Suite,2,3,329.19,0.2,1975.14,395.03,1580.11,137.66,825.96,4.7,True
+B00420,Harbor View Hotel,City,DE,South,Hotel Website,Executive,2,2,301.55,0.2,1206.2,241.24,964.96,124.8,499.2,4.4,False
+B00421,Mountain Lodge,Resort,DE,East,Travel App,Standard,4,2,149.2,0.2,1193.6,238.72,954.88,60.7,485.6,4.3,False
+B00422,Grand Central Hotel,City,UK,East,Walk-in,Suite,7,4,325.07,0.15,9101.96,1365.29,7736.67,142.65,3994.2,3.4,False
+B00423,Ocean Breeze Resort,Resort,DE,West,Hotel Website,Suite,7,1,344.93,0.05,2414.51,120.73,2293.78,141.17,988.19,4.8,False
+B00424,Ocean Breeze Resort,Resort,UK,East,Walk-in,Standard,6,3,153.76,0.0,2767.68,0.0,2767.68,60.78,1094.04,4.7,False
+B00425,Lakeside Inn,Resort,CA,East,Hotel Website,Standard,2,3,140.78,0.15,844.68,126.7,717.98,61.06,366.36,4.1,True
+B00426,Lakeside Inn,Resort,US,South,Hotel Website,Suite,2,1,367.01,0.0,734.02,0.0,734.02,139.8,279.6,3.3,True
+B00427,Sunset Resort,Resort,CA,West,Walk-in,Family,2,2,253.38,0.0,1013.52,0.0,1013.52,112.69,450.76,4.7,False
+B00428,Metro Stay,City,DE,East,Hotel Website,Standard,1,2,146.25,0.1,292.5,29.25,263.25,60.61,121.22,4.3,False
+B00429,Lakeside Inn,Resort,CA,South,Corporate Agent,Standard,6,1,153.34,0.1,920.04,92.0,828.04,62.15,372.9,4.5,True
+B00430,Mountain Lodge,Resort,DE,North,Corporate Agent,Deluxe,7,3,208.74,0.05,4383.54,219.18,4164.36,91.08,1912.68,3.5,True
+B00431,Airport Plaza,Airport,UK,South,Travel App,Deluxe,5,2,202.09,0.2,2020.9,404.18,1616.72,87.68,876.8,4.1,True
+B00432,Ocean Breeze Resort,Resort,UK,South,Hotel Website,Suite,4,3,362.03,0.05,4344.36,217.22,4127.14,143.07,1716.84,4.2,True
+B00433,Metro Stay,City,US,East,Corporate Agent,Suite,1,2,354.52,0.15,709.04,106.36,602.68,140.18,280.36,4.0,True
+B00434,Harbor View Hotel,City,UK,South,Hotel Website,Standard,5,4,142.12,0.2,2842.4,568.48,2273.92,61.08,1221.6,4.8,False
+B00435,Royal Garden Hotel,City,UK,South,Walk-in,Suite,1,2,351.66,0.2,703.32,140.66,562.66,143.06,286.12,3.9,True
+B00436,Ocean Breeze Resort,Resort,UK,South,Travel App,Family,6,2,272.8,0.2,3273.6,654.72,2618.88,109.68,1316.16,3.9,True
+B00437,Grand Central Hotel,City,DE,East,Travel App,Deluxe,1,2,224.31,0.1,448.62,44.86,403.76,85.43,170.86,4.8,False
+B00438,Skyline Suites,City,UK,North,Hotel Website,Deluxe,1,2,207.15,0.0,414.3,0.0,414.3,84.89,169.78,3.4,True
+B00439,Ocean Breeze Resort,Resort,UK,South,Walk-in,Executive,1,4,294.09,0.05,1176.36,58.82,1117.54,123.3,493.2,4.4,True
+B00440,Skyline Suites,City,DE,West,Travel App,Family,5,1,264.19,0.2,1320.95,264.19,1056.76,113.04,565.2,4.1,False
+B00441,Grand Central Hotel,City,US,South,Walk-in,Standard,3,2,138.41,0.15,830.46,124.57,705.89,63.82,382.92,3.3,True
+B00442,Metro Stay,City,DE,South,Walk-in,Suite,1,3,353.86,0.1,1061.58,106.16,955.42,135.82,407.46,4.4,False
+B00443,Skyline Suites,City,CA,South,Hotel Website,Standard,1,1,152.22,0.15,152.22,22.83,129.39,63.2,63.2,3.5,False
+B00444,Sunset Resort,Resort,US,West,Hotel Website,Standard,1,1,154.67,0.05,154.67,7.73,146.94,62.52,62.52,4.0,False
+B00445,Skyline Suites,City,US,South,Corporate Agent,Executive,6,3,304.81,0.05,5486.58,274.33,5212.25,124.0,2232.0,3.2,True
+B00446,Lakeside Inn,Resort,UK,North,Walk-in,Family,5,1,254.89,0.1,1274.45,127.45,1147.0,109.74,548.7,4.3,True
+B00447,Metro Stay,City,DE,North,Walk-in,Suite,6,2,359.91,0.05,4318.92,215.95,4102.97,136.91,1642.92,3.8,True
+B00448,Grand Central Hotel,City,CA,East,Walk-in,Suite,3,1,358.5,0.0,1075.5,0.0,1075.5,142.23,426.69,3.7,True
+B00449,Harbor View Hotel,City,DE,North,Corporate Agent,Suite,6,1,345.77,0.0,2074.62,0.0,2074.62,143.08,858.48,3.8,True
+B00450,Lakeside Inn,Resort,UK,West,Walk-in,Suite,7,4,357.09,0.1,9998.52,999.85,8998.67,136.3,3816.4,4.7,True
+B00451,Royal Garden Hotel,City,CA,North,Walk-in,Standard,7,3,140.06,0.0,2941.26,0.0,2941.26,63.61,1335.81,4.9,False
+B00452,Ocean Breeze Resort,Resort,DE,East,Walk-in,Deluxe,1,4,219.11,0.05,876.44,43.82,832.62,87.82,351.28,3.3,True
+B00453,Lakeside Inn,Resort,DE,East,Corporate Agent,Suite,2,1,330.26,0.05,660.52,33.03,627.49,138.88,277.76,4.1,True
+B00454,Grand Central Hotel,City,UK,North,Travel App,Standard,4,1,139.17,0.15,556.68,83.5,473.18,61.94,247.76,3.9,False
+B00455,Royal Garden Hotel,City,US,South,Travel App,Executive,1,2,313.7,0.05,627.4,31.37,596.03,125.59,251.18,4.0,False
+B00456,Metro Stay,City,CA,East,Hotel Website,Standard,2,2,138.57,0.05,554.28,27.71,526.57,64.14,256.56,3.5,False
+B00457,Metro Stay,City,UK,North,Corporate Agent,Deluxe,1,3,215.52,0.1,646.56,64.66,581.9,87.2,261.6,4.1,True
+B00458,Harbor View Hotel,City,DE,West,Travel App,Deluxe,7,1,199.22,0.1,1394.54,139.45,1255.09,85.78,600.46,3.3,True
+B00459,Mountain Lodge,Resort,UK,South,Corporate Agent,Standard,1,3,145.27,0.1,435.81,43.58,392.23,63.82,191.46,3.9,True
+B00460,Metro Stay,City,US,East,Hotel Website,Executive,7,4,284.22,0.2,7958.16,1591.63,6366.53,121.27,3395.56,5.0,True
+B00461,Harbor View Hotel,City,UK,North,Corporate Agent,Executive,5,3,279.31,0.05,4189.65,209.48,3980.17,123.29,1849.35,3.5,False
+B00462,Metro Stay,City,UK,East,Hotel Website,Family,1,3,273.14,0.05,819.42,40.97,778.45,114.42,343.26,4.2,True
+B00463,Mountain Lodge,Resort,UK,West,Corporate Agent,Executive,7,3,307.84,0.15,6464.64,969.7,5494.94,123.42,2591.82,4.8,False
+B00464,Royal Garden Hotel,City,UK,North,Walk-in,Deluxe,6,3,222.63,0.05,4007.34,200.37,3806.97,87.62,1577.16,3.4,True
+B00465,Metro Stay,City,CA,North,Travel App,Suite,7,1,328.04,0.1,2296.28,229.63,2066.65,141.51,990.57,4.1,False
+B00466,Harbor View Hotel,City,CA,South,Walk-in,Executive,2,4,285.22,0.2,2281.76,456.35,1825.41,121.69,973.52,3.5,True
+B00467,Harbor View Hotel,City,CA,West,Walk-in,Family,4,2,284.25,0.2,2274.0,454.8,1819.2,110.17,881.36,3.3,True
+B00468,Royal Garden Hotel,City,US,West,Travel App,Standard,5,2,152.51,0.2,1525.1,305.02,1220.08,64.29,642.9,4.9,True
+B00469,Mountain Lodge,Resort,US,North,Walk-in,Suite,6,2,363.78,0.1,4365.36,436.54,3928.82,141.69,1700.28,3.8,True
+B00470,Grand Central Hotel,City,DE,South,Hotel Website,Deluxe,7,4,200.76,0.1,5621.28,562.13,5059.15,85.25,2387.0,3.5,False
+B00471,Harbor View Hotel,City,DE,North,Travel App,Family,5,2,266.86,0.05,2668.6,133.43,2535.17,114.58,1145.8,4.0,True
+B00472,Ocean Breeze Resort,Resort,CA,North,Corporate Agent,Executive,1,2,285.62,0.0,571.24,0.0,571.24,122.27,244.54,4.8,False
+B00473,Airport Plaza,Airport,DE,West,Corporate Agent,Family,7,2,265.25,0.2,3713.5,742.7,2970.8,109.26,1529.64,4.2,False
+B00474,Ocean Breeze Resort,Resort,CA,West,Walk-in,Family,5,1,282.66,0.2,1413.3,282.66,1130.64,109.99,549.95,3.6,True
+B00475,Grand Central Hotel,City,CA,West,Corporate Agent,Executive,2,2,315.43,0.0,1261.72,0.0,1261.72,119.12,476.48,4.2,True
+B00476,Ocean Breeze Resort,Resort,CA,South,Walk-in,Deluxe,4,4,221.39,0.15,3542.24,531.34,3010.9,87.89,1406.24,3.4,False
+B00477,Grand Central Hotel,City,CA,West,Corporate Agent,Executive,7,4,317.71,0.1,8895.88,889.59,8006.29,122.9,3441.2,4.5,True
+B00478,Ocean Breeze Resort,Resort,US,South,Hotel Website,Executive,7,2,279.63,0.2,3914.82,782.96,3131.86,121.29,1698.06,4.6,False
+B00479,Lakeside Inn,Resort,DE,South,Hotel Website,Family,2,1,285.63,0.15,571.26,85.69,485.57,115.72,231.44,3.3,False
+B00480,Metro Stay,City,DE,South,Corporate Agent,Deluxe,3,4,222.84,0.05,2674.08,133.7,2540.38,85.92,1031.04,4.7,False
+B00481,Ocean Breeze Resort,Resort,DE,West,Walk-in,Family,5,3,283.24,0.15,4248.6,637.29,3611.31,113.97,1709.55,3.8,True
+B00482,Sunset Resort,Resort,UK,East,Travel App,Deluxe,1,3,197.58,0.15,592.74,88.91,503.83,85.04,255.12,4.2,False
+B00483,Grand Central Hotel,City,US,North,Hotel Website,Deluxe,4,3,209.72,0.2,2516.64,503.33,2013.31,90.5,1086.0,4.0,True
+B00484,Mountain Lodge,Resort,US,South,Travel App,Executive,2,3,317.89,0.2,1907.34,381.47,1525.87,119.28,715.68,4.3,True
+B00485,Metro Stay,City,US,East,Corporate Agent,Family,5,2,272.99,0.2,2729.9,545.98,2183.92,111.18,1111.8,4.1,True
+B00486,Royal Garden Hotel,City,DE,South,Travel App,Standard,1,4,137.71,0.0,550.84,0.0,550.84,59.89,239.56,4.9,True
+B00487,Mountain Lodge,Resort,CA,South,Walk-in,Standard,7,4,156.02,0.15,4368.56,655.28,3713.28,63.1,1766.8,3.8,False
+B00488,Royal Garden Hotel,City,DE,East,Corporate Agent,Family,1,1,254.7,0.15,254.7,38.21,216.49,111.1,111.1,3.3,False
+B00489,Lakeside Inn,Resort,CA,East,Corporate Agent,Suite,1,4,342.95,0.2,1371.8,274.36,1097.44,142.01,568.04,3.4,True
+B00490,Grand Central Hotel,City,DE,East,Hotel Website,Executive,1,1,292.98,0.1,292.98,29.3,263.68,123.78,123.78,4.2,False
+B00491,Airport Plaza,Airport,DE,East,Hotel Website,Executive,5,1,290.23,0.2,1451.15,290.23,1160.92,122.6,613.0,3.4,False
+B00492,Royal Garden Hotel,City,DE,West,Hotel Website,Executive,6,3,303.69,0.15,5466.42,819.96,4646.46,118.27,2128.86,3.3,False
+B00493,Airport Plaza,Airport,DE,West,Walk-in,Standard,2,3,150.44,0.15,902.64,135.4,767.24,61.13,366.78,3.9,True
+B00494,Sunset Resort,Resort,US,South,Walk-in,Suite,1,2,358.89,0.15,717.78,107.67,610.11,141.34,282.68,4.0,False
+B00495,Ocean Breeze Resort,Resort,DE,North,Walk-in,Suite,6,2,366.26,0.05,4395.12,219.76,4175.36,138.73,1664.76,3.3,False
+B00496,Grand Central Hotel,City,US,West,Walk-in,Standard,2,3,155.36,0.15,932.16,139.82,792.34,64.31,385.86,3.9,False
+B00497,Mountain Lodge,Resort,UK,South,Travel App,Deluxe,7,1,207.17,0.2,1450.19,290.04,1160.15,87.03,609.21,4.0,True
+B00498,Royal Garden Hotel,City,DE,East,Hotel Website,Executive,6,1,318.07,0.0,1908.42,0.0,1908.42,118.2,709.2,4.8,True
+B00499,Ocean Breeze Resort,Resort,US,North,Corporate Agent,Suite,3,2,334.39,0.0,2006.34,0.0,2006.34,135.0,810.0,3.3,False
+B00500,Sunset Resort,Resort,DE,South,Hotel Website,Suite,1,2,353.1,0.15,706.2,105.93,600.27,137.21,274.42,4.8,False
+B00501,Ocean Breeze Resort,Resort,DE,North,Hotel Website,Standard,2,2,141.12,0.1,564.48,56.45,508.03,59.83,239.32,4.0,True
+B00502,Metro Stay,City,DE,South,Travel App,Deluxe,2,4,199.63,0.2,1597.04,319.41,1277.63,90.02,720.16,3.9,False
+B00503,Royal Garden Hotel,City,US,South,Travel App,Suite,1,4,337.76,0.1,1351.04,135.1,1215.94,138.75,555.0,4.7,False
+B00504,Airport Plaza,Airport,US,North,Hotel Website,Family,4,3,274.56,0.0,3294.72,0.0,3294.72,109.04,1308.48,3.7,False
+B00505,Sunset Resort,Resort,US,East,Hotel Website,Standard,5,4,155.79,0.2,3115.8,623.16,2492.64,60.6,1212.0,3.9,True
+B00506,Skyline Suites,City,US,West,Corporate Agent,Deluxe,3,3,222.94,0.15,2006.46,300.97,1705.49,85.77,771.93,4.0,True
+B00507,Mountain Lodge,Resort,CA,West,Travel App,Suite,3,4,364.65,0.0,4375.8,0.0,4375.8,141.3,1695.6,4.3,True
+B00508,Sunset Resort,Resort,DE,West,Hotel Website,Family,5,1,274.11,0.15,1370.55,205.58,1164.97,114.02,570.1,3.6,False
+B00509,Royal Garden Hotel,City,DE,South,Travel App,Deluxe,1,1,217.82,0.15,217.82,32.67,185.15,88.06,88.06,3.7,False
+B00510,Sunset Resort,Resort,UK,South,Hotel Website,Suite,5,2,350.5,0.1,3505.0,350.5,3154.5,133.76,1337.6,4.8,True
+B00511,Airport Plaza,Airport,UK,North,Hotel Website,Suite,6,2,337.38,0.2,4048.56,809.71,3238.85,139.3,1671.6,3.7,False
+B00512,Metro Stay,City,CA,East,Travel App,Deluxe,4,3,210.02,0.2,2520.24,504.05,2016.19,90.04,1080.48,5.0,True
+B00513,Mountain Lodge,Resort,CA,East,Walk-in,Executive,3,1,286.26,0.05,858.78,42.94,815.84,122.9,368.7,4.2,False
+B00514,Lakeside Inn,Resort,CA,East,Hotel Website,Suite,4,4,326.37,0.15,5221.92,783.29,4438.63,138.57,2217.12,3.8,True
+B00515,Mountain Lodge,Resort,CA,West,Walk-in,Family,4,1,270.7,0.05,1082.8,54.14,1028.66,111.08,444.32,3.5,False
+B00516,Lakeside Inn,Resort,DE,East,Travel App,Standard,3,2,148.99,0.2,893.94,178.79,715.15,61.5,369.0,4.7,False
+B00517,Royal Garden Hotel,City,UK,North,Travel App,Deluxe,4,3,221.65,0.15,2659.8,398.97,2260.83,90.18,1082.16,4.7,False
+B00518,Ocean Breeze Resort,Resort,DE,West,Corporate Agent,Deluxe,4,1,210.72,0.05,842.88,42.14,800.74,90.79,363.16,4.1,True
+B00519,Grand Central Hotel,City,UK,West,Hotel Website,Suite,4,4,366.34,0.2,5861.44,1172.29,4689.15,136.55,2184.8,3.2,False
+B00520,Royal Garden Hotel,City,US,North,Travel App,Suite,6,3,356.85,0.1,6423.3,642.33,5780.97,133.83,2408.94,4.0,True
+B00521,Sunset Resort,Resort,UK,West,Walk-in,Deluxe,4,4,205.43,0.2,3286.88,657.38,2629.5,86.8,1388.8,4.8,False
+B00522,Metro Stay,City,CA,North,Corporate Agent,Family,6,2,249.25,0.2,2991.0,598.2,2392.8,109.12,1309.44,4.6,True
+B00523,Metro Stay,City,DE,East,Corporate Agent,Family,1,1,264.25,0.2,264.25,52.85,211.4,114.78,114.78,4.9,False
+B00524,Harbor View Hotel,City,CA,North,Walk-in,Standard,7,4,140.55,0.0,3935.4,0.0,3935.4,60.77,1701.56,3.7,True
+B00525,Airport Plaza,Airport,DE,East,Travel App,Deluxe,7,1,218.36,0.1,1528.52,152.85,1375.67,87.17,610.19,4.2,True
+B00526,Mountain Lodge,Resort,UK,East,Walk-in,Suite,3,4,342.08,0.1,4104.96,410.5,3694.46,135.19,1622.28,4.5,True
+B00527,Harbor View Hotel,City,CA,West,Corporate Agent,Family,1,1,251.39,0.15,251.39,37.71,213.68,109.66,109.66,4.0,False
+B00528,Lakeside Inn,Resort,UK,North,Walk-in,Suite,7,1,364.23,0.0,2549.61,0.0,2549.61,143.31,1003.17,3.6,False
+B00529,Skyline Suites,City,UK,East,Hotel Website,Suite,2,4,349.49,0.1,2795.92,279.59,2516.33,142.62,1140.96,4.7,False
+B00530,Royal Garden Hotel,City,UK,East,Travel App,Family,5,4,276.11,0.15,5522.2,828.33,4693.87,115.97,2319.4,3.7,True
+B00531,Metro Stay,City,CA,South,Travel App,Deluxe,3,4,210.44,0.05,2525.28,126.26,2399.02,88.64,1063.68,3.6,True
+B00532,Grand Central Hotel,City,US,East,Hotel Website,Deluxe,5,2,216.78,0.05,2167.8,108.39,2059.41,88.73,887.3,4.6,False
+B00533,Airport Plaza,Airport,UK,South,Hotel Website,Deluxe,6,2,220.1,0.1,2641.2,264.12,2377.08,90.87,1090.44,4.0,True
+B00534,Metro Stay,City,UK,South,Walk-in,Suite,6,1,356.28,0.2,2137.68,427.54,1710.14,135.83,814.98,4.0,False
+B00535,Metro Stay,City,DE,West,Walk-in,Suite,1,3,333.64,0.05,1000.92,50.05,950.87,137.05,411.15,3.5,False
+B00536,Grand Central Hotel,City,UK,West,Hotel Website,Executive,2,4,304.78,0.1,2438.24,243.82,2194.42,122.86,982.88,4.4,False
+B00537,Grand Central Hotel,City,US,West,Walk-in,Family,7,2,253.11,0.2,3543.54,708.71,2834.83,112.21,1570.94,3.7,False
+B00538,Mountain Lodge,Resort,CA,East,Corporate Agent,Suite,2,4,351.34,0.15,2810.72,421.61,2389.11,140.62,1124.96,4.2,False
+B00539,Royal Garden Hotel,City,CA,West,Travel App,Suite,6,3,345.02,0.15,6210.36,931.55,5278.81,133.09,2395.62,3.5,True
+B00540,Grand Central Hotel,City,UK,South,Travel App,Family,1,2,278.17,0.0,556.34,0.0,556.34,110.12,220.24,3.6,False
+B00541,Ocean Breeze Resort,Resort,US,North,Travel App,Executive,7,2,308.01,0.0,4312.14,0.0,4312.14,119.37,1671.18,4.7,False
+B00542,Sunset Resort,Resort,CA,North,Corporate Agent,Standard,6,3,146.23,0.15,2632.14,394.82,2237.32,60.6,1090.8,4.5,True
+B00543,Sunset Resort,Resort,UK,South,Hotel Website,Suite,4,3,328.76,0.1,3945.12,394.51,3550.61,141.81,1701.72,4.0,False
+B00544,Ocean Breeze Resort,Resort,DE,South,Travel App,Suite,1,2,334.56,0.15,669.12,100.37,568.75,133.57,267.14,4.6,False
+B00545,Metro Stay,City,DE,West,Hotel Website,Family,6,2,281.34,0.05,3376.08,168.8,3207.28,111.79,1341.48,4.2,False
+B00546,Mountain Lodge,Resort,US,West,Travel App,Family,2,3,258.42,0.0,1550.52,0.0,1550.52,111.75,670.5,3.9,False
+B00547,Lakeside Inn,Resort,UK,West,Travel App,Deluxe,2,1,207.82,0.05,415.64,20.78,394.86,86.5,173.0,4.9,False
+B00548,Airport Plaza,Airport,DE,West,Corporate Agent,Deluxe,7,3,225.91,0.0,4744.11,0.0,4744.11,89.15,1872.15,3.6,True
+B00549,Grand Central Hotel,City,US,North,Corporate Agent,Executive,5,2,306.05,0.0,3060.5,0.0,3060.5,124.56,1245.6,4.1,True
+B00550,Ocean Breeze Resort,Resort,DE,South,Hotel Website,Deluxe,5,2,222.32,0.1,2223.2,222.32,2000.88,85.61,856.1,4.5,False
+B00551,Metro Stay,City,US,South,Corporate Agent,Standard,6,4,138.19,0.05,3316.56,165.83,3150.73,60.75,1458.0,4.6,False
+B00552,Lakeside Inn,Resort,UK,West,Corporate Agent,Suite,1,1,358.19,0.15,358.19,53.73,304.46,138.66,138.66,3.8,False
+B00553,Metro Stay,City,US,West,Corporate Agent,Standard,4,3,144.3,0.2,1731.6,346.32,1385.28,61.36,736.32,4.1,True
+B00554,Harbor View Hotel,City,CA,West,Walk-in,Deluxe,4,2,226.49,0.05,1811.92,90.6,1721.32,84.99,679.92,5.0,False
+B00555,Metro Stay,City,US,East,Walk-in,Deluxe,2,1,209.39,0.05,418.78,20.94,397.84,85.45,170.9,4.5,True
+B00556,Ocean Breeze Resort,Resort,DE,West,Walk-in,Standard,1,2,140.03,0.2,280.06,56.01,224.05,62.44,124.88,3.5,True
+B00557,Mountain Lodge,Resort,DE,West,Corporate Agent,Standard,5,1,136.85,0.05,684.25,34.21,650.04,64.45,322.25,4.6,False
+B00558,Mountain Lodge,Resort,DE,North,Hotel Website,Deluxe,1,2,201.62,0.2,403.24,80.65,322.59,86.67,173.34,5.0,True
+B00559,Harbor View Hotel,City,UK,East,Walk-in,Family,7,4,255.16,0.15,7144.48,1071.67,6072.81,108.45,3036.6,4.0,True
+B00560,Harbor View Hotel,City,DE,North,Walk-in,Suite,7,4,351.0,0.2,9828.0,1965.6,7862.4,142.97,4003.16,4.5,False
+B00561,Mountain Lodge,Resort,CA,West,Corporate Agent,Deluxe,7,2,211.93,0.2,2967.02,593.4,2373.62,84.97,1189.58,3.8,False
+B00562,Mountain Lodge,Resort,CA,West,Walk-in,Suite,2,3,341.91,0.0,2051.46,0.0,2051.46,137.76,826.56,4.3,False
+B00563,Royal Garden Hotel,City,US,East,Walk-in,Deluxe,7,2,198.14,0.05,2773.96,138.7,2635.26,86.02,1204.28,3.9,False
+B00564,Royal Garden Hotel,City,US,South,Hotel Website,Executive,1,3,317.35,0.2,952.05,190.41,761.64,120.49,361.47,3.3,False
+B00565,Airport Plaza,Airport,US,North,Corporate Agent,Deluxe,5,4,211.0,0.1,4220.0,422.0,3798.0,87.66,1753.2,3.9,False
+B00566,Sunset Resort,Resort,DE,South,Corporate Agent,Executive,3,4,308.41,0.1,3700.92,370.09,3330.83,124.57,1494.84,3.4,False
+B00567,Metro Stay,City,DE,South,Hotel Website,Standard,6,1,144.39,0.0,866.34,0.0,866.34,62.8,376.8,4.6,False
+B00568,Airport Plaza,Airport,DE,West,Travel App,Deluxe,2,1,225.15,0.2,450.3,90.06,360.24,89.12,178.24,3.3,True
+B00569,Sunset Resort,Resort,US,West,Hotel Website,Deluxe,7,1,206.49,0.2,1445.43,289.09,1156.34,89.39,625.73,4.6,True
+B00570,Mountain Lodge,Resort,UK,North,Hotel Website,Deluxe,6,3,207.8,0.2,3740.4,748.08,2992.32,89.04,1602.72,4.5,False
+B00571,Skyline Suites,City,CA,East,Hotel Website,Executive,7,4,292.38,0.2,8186.64,1637.33,6549.31,124.98,3499.44,3.4,True
+B00572,Metro Stay,City,DE,North,Travel App,Family,2,1,265.76,0.0,531.52,0.0,531.52,108.76,217.52,4.3,True
+B00573,Harbor View Hotel,City,UK,East,Corporate Agent,Executive,1,4,279.59,0.15,1118.36,167.75,950.61,118.61,474.44,4.0,True
+B00574,Metro Stay,City,US,West,Walk-in,Deluxe,2,2,201.24,0.2,804.96,160.99,643.97,84.82,339.28,4.8,True
+B00575,Lakeside Inn,Resort,UK,South,Walk-in,Standard,1,2,148.92,0.15,297.84,44.68,253.16,64.14,128.28,4.8,False
+B00576,Royal Garden Hotel,City,US,West,Hotel Website,Executive,7,4,290.71,0.05,8139.88,406.99,7732.89,121.9,3413.2,3.6,True
+B00577,Mountain Lodge,Resort,UK,West,Walk-in,Family,4,1,260.48,0.1,1041.92,104.19,937.73,113.31,453.24,4.9,True
+B00578,Ocean Breeze Resort,Resort,DE,North,Walk-in,Family,7,2,263.47,0.0,3688.58,0.0,3688.58,112.46,1574.44,3.2,False
+B00579,Sunset Resort,Resort,UK,East,Travel App,Family,2,1,264.51,0.1,529.02,52.9,476.12,110.76,221.52,4.6,False
+B00580,Sunset Resort,Resort,DE,North,Travel App,Deluxe,4,1,206.87,0.2,827.48,165.5,661.98,85.02,340.08,3.7,False
+B00581,Grand Central Hotel,City,CA,East,Travel App,Family,6,2,256.07,0.05,3072.84,153.64,2919.2,113.53,1362.36,4.4,True
+B00582,Metro Stay,City,CA,East,Walk-in,Family,3,2,279.05,0.0,1674.3,0.0,1674.3,108.23,649.38,4.1,False
+B00583,Mountain Lodge,Resort,UK,East,Walk-in,Deluxe,5,2,211.63,0.05,2116.3,105.82,2010.48,89.38,893.8,3.3,False
+B00584,Royal Garden Hotel,City,DE,East,Corporate Agent,Executive,1,4,278.98,0.1,1115.92,111.59,1004.33,117.84,471.36,4.5,True
+B00585,Skyline Suites,City,DE,East,Walk-in,Suite,3,3,333.04,0.1,2997.36,299.74,2697.62,138.81,1249.29,4.1,False
+B00586,Skyline Suites,City,CA,South,Corporate Agent,Suite,4,2,338.22,0.15,2705.76,405.86,2299.9,134.44,1075.52,4.0,False
+B00587,Ocean Breeze Resort,Resort,US,East,Travel App,Executive,3,3,318.23,0.05,2864.07,143.2,2720.87,120.82,1087.38,3.7,False
+B00588,Mountain Lodge,Resort,UK,North,Hotel Website,Suite,6,1,360.86,0.05,2165.16,108.26,2056.9,134.56,807.36,3.6,False
+B00589,Grand Central Hotel,City,US,West,Travel App,Standard,2,2,147.86,0.05,591.44,29.57,561.87,60.74,242.96,3.4,True
+B00590,Airport Plaza,Airport,US,West,Hotel Website,Suite,6,2,338.36,0.1,4060.32,406.03,3654.29,134.77,1617.24,3.3,False
+B00591,Skyline Suites,City,DE,West,Travel App,Family,3,3,266.35,0.1,2397.15,239.72,2157.43,111.98,1007.82,4.0,True
+B00592,Mountain Lodge,Resort,UK,North,Corporate Agent,Deluxe,4,2,224.14,0.1,1793.12,179.31,1613.81,86.84,694.72,4.7,True
+B00593,Sunset Resort,Resort,CA,South,Hotel Website,Family,4,1,262.47,0.2,1049.88,209.98,839.9,111.14,444.56,4.1,False
+B00594,Metro Stay,City,DE,West,Hotel Website,Standard,7,3,141.66,0.05,2974.86,148.74,2826.12,62.15,1305.15,3.3,False
+B00595,Mountain Lodge,Resort,US,North,Corporate Agent,Executive,4,4,307.67,0.05,4922.72,246.14,4676.58,125.33,2005.28,4.1,False
+B00596,Airport Plaza,Airport,DE,South,Corporate Agent,Family,6,4,283.96,0.05,6815.04,340.75,6474.29,115.77,2778.48,3.6,True
+B00597,Airport Plaza,Airport,US,West,Hotel Website,Standard,2,1,141.13,0.15,282.26,42.34,239.92,63.41,126.82,3.8,True
+B00598,Ocean Breeze Resort,Resort,DE,South,Corporate Agent,Deluxe,1,3,214.42,0.05,643.26,32.16,611.1,89.37,268.11,3.4,True
+B00599,Grand Central Hotel,City,UK,North,Corporate Agent,Deluxe,7,1,223.03,0.0,1561.21,0.0,1561.21,89.03,623.21,3.3,False
+B00600,Airport Plaza,Airport,CA,North,Corporate Agent,Executive,3,2,290.78,0.15,1744.68,261.7,1482.98,121.32,727.92,4.0,True
+B00601,Mountain Lodge,Resort,US,East,Travel App,Deluxe,6,2,226.58,0.1,2718.96,271.9,2447.06,86.76,1041.12,4.1,False
+B00602,Lakeside Inn,Resort,DE,East,Corporate Agent,Deluxe,3,1,226.32,0.15,678.96,101.84,577.12,88.89,266.67,3.6,False
+B00603,Harbor View Hotel,City,UK,West,Corporate Agent,Deluxe,3,2,200.93,0.05,1205.58,60.28,1145.3,85.91,515.46,3.8,True
+B00604,Sunset Resort,Resort,US,South,Corporate Agent,Standard,6,2,156.1,0.15,1873.2,280.98,1592.22,60.67,728.04,4.8,True
+B00605,Skyline Suites,City,UK,South,Walk-in,Deluxe,3,1,213.87,0.15,641.61,96.24,545.37,86.99,260.97,3.8,False
+B00606,Ocean Breeze Resort,Resort,US,South,Travel App,Executive,4,2,282.61,0.05,2260.88,113.04,2147.84,124.05,992.4,3.7,False
+B00607,Metro Stay,City,CA,West,Corporate Agent,Deluxe,5,2,222.11,0.2,2221.1,444.22,1776.88,86.0,860.0,5.0,False
+B00608,Harbor View Hotel,City,UK,East,Travel App,Deluxe,3,3,205.19,0.0,1846.71,0.0,1846.71,89.65,806.85,3.6,True
+B00609,Royal Garden Hotel,City,US,North,Travel App,Suite,3,1,365.26,0.15,1095.78,164.37,931.41,141.21,423.63,3.8,True
+B00610,Harbor View Hotel,City,UK,West,Corporate Agent,Family,6,4,271.57,0.0,6517.68,0.0,6517.68,112.02,2688.48,3.9,True
+B00611,Metro Stay,City,DE,West,Travel App,Executive,7,3,295.67,0.0,6209.07,0.0,6209.07,120.57,2531.97,3.9,False
+B00612,Mountain Lodge,Resort,DE,West,Walk-in,Standard,5,1,156.32,0.0,781.6,0.0,781.6,62.5,312.5,4.1,False
+B00613,Sunset Resort,Resort,CA,East,Walk-in,Executive,4,2,286.78,0.0,2294.24,0.0,2294.24,119.09,952.72,4.1,False
+B00614,Skyline Suites,City,US,West,Corporate Agent,Standard,3,4,154.31,0.05,1851.72,92.59,1759.13,63.81,765.72,4.0,True
+B00615,Sunset Resort,Resort,UK,West,Corporate Agent,Suite,7,1,335.53,0.05,2348.71,117.44,2231.27,133.04,931.28,3.6,True
+B00616,Sunset Resort,Resort,DE,North,Travel App,Suite,1,4,332.78,0.1,1331.12,133.11,1198.01,137.15,548.6,4.3,False
+B00617,Grand Central Hotel,City,CA,West,Hotel Website,Deluxe,1,3,208.23,0.15,624.69,93.7,530.99,88.16,264.48,4.2,True
+B00618,Harbor View Hotel,City,DE,North,Corporate Agent,Standard,1,4,141.65,0.2,566.6,113.32,453.28,60.55,242.2,3.8,True
+B00619,Airport Plaza,Airport,UK,East,Corporate Agent,Executive,7,2,311.89,0.15,4366.46,654.97,3711.49,122.74,1718.36,4.2,True
+B00620,Grand Central Hotel,City,DE,East,Hotel Website,Suite,6,1,346.38,0.05,2078.28,103.91,1974.37,132.65,795.9,4.8,True
+B00621,Mountain Lodge,Resort,US,South,Corporate Agent,Suite,2,3,332.4,0.2,1994.4,398.88,1595.52,134.94,809.64,4.6,True
+B00622,Lakeside Inn,Resort,US,North,Hotel Website,Standard,4,3,152.1,0.1,1825.2,182.52,1642.68,60.25,723.0,4.4,False
+B00623,Metro Stay,City,US,West,Travel App,Deluxe,1,3,201.69,0.1,605.07,60.51,544.56,89.8,269.4,4.5,False
+B00624,Skyline Suites,City,UK,North,Walk-in,Suite,4,2,343.01,0.15,2744.08,411.61,2332.47,139.08,1112.64,4.1,True
+B00625,Sunset Resort,Resort,DE,South,Hotel Website,Standard,7,1,149.63,0.2,1047.41,209.48,837.93,62.03,434.21,3.3,False
+B00626,Airport Plaza,Airport,CA,West,Walk-in,Executive,6,1,284.27,0.0,1705.62,0.0,1705.62,123.97,743.82,4.9,False
+B00627,Royal Garden Hotel,City,DE,West,Hotel Website,Deluxe,4,3,204.87,0.15,2458.44,368.77,2089.67,88.81,1065.72,3.9,False
+B00628,Airport Plaza,Airport,UK,South,Travel App,Standard,3,3,154.04,0.15,1386.36,207.95,1178.41,64.41,579.69,4.7,False
+B00629,Harbor View Hotel,City,CA,East,Corporate Agent,Family,2,1,250.16,0.05,500.32,25.02,475.3,116.37,232.74,4.1,True
+B00630,Metro Stay,City,US,North,Travel App,Executive,4,1,310.42,0.0,1241.68,0.0,1241.68,125.75,503.0,3.5,False
+B00631,Mountain Lodge,Resort,UK,North,Corporate Agent,Executive,6,3,314.25,0.15,5656.5,848.48,4808.02,122.97,2213.46,3.9,True
+B00632,Ocean Breeze Resort,Resort,DE,North,Corporate Agent,Family,1,1,272.01,0.1,272.01,27.2,244.81,114.46,114.46,4.6,True
+B00633,Sunset Resort,Resort,US,East,Travel App,Deluxe,6,4,214.7,0.05,5152.8,257.64,4895.16,91.46,2195.04,3.3,True
+B00634,Skyline Suites,City,UK,South,Travel App,Standard,2,3,148.72,0.0,892.32,0.0,892.32,61.42,368.52,3.8,False
+B00635,Lakeside Inn,Resort,DE,West,Walk-in,Family,3,4,266.84,0.0,3202.08,0.0,3202.08,114.39,1372.68,4.3,False
+B00636,Skyline Suites,City,US,West,Hotel Website,Family,2,2,273.85,0.15,1095.4,164.31,931.09,112.29,449.16,4.3,True
+B00637,Mountain Lodge,Resort,US,South,Hotel Website,Standard,4,1,140.09,0.0,560.36,0.0,560.36,63.14,252.56,4.1,True
+B00638,Royal Garden Hotel,City,US,East,Travel App,Suite,6,2,321.39,0.0,3856.68,0.0,3856.68,140.56,1686.72,4.1,False
+B00639,Sunset Resort,Resort,US,East,Travel App,Family,1,4,250.17,0.15,1000.68,150.1,850.58,107.81,431.24,3.3,False
+B00640,Metro Stay,City,CA,South,Travel App,Executive,3,3,316.14,0.1,2845.26,284.53,2560.73,125.68,1131.12,4.8,False
+B00641,Mountain Lodge,Resort,UK,East,Walk-in,Deluxe,7,2,204.94,0.0,2869.16,0.0,2869.16,87.98,1231.72,3.9,True
+B00642,Metro Stay,City,US,East,Travel App,Standard,2,1,155.8,0.2,311.6,62.32,249.28,59.69,119.38,4.6,True
+B00643,Grand Central Hotel,City,US,South,Walk-in,Suite,6,3,325.43,0.15,5857.74,878.66,4979.08,136.95,2465.1,4.6,False
+B00644,Metro Stay,City,DE,West,Hotel Website,Deluxe,2,3,205.24,0.15,1231.44,184.72,1046.72,85.86,515.16,3.8,True
+B00645,Lakeside Inn,Resort,DE,South,Travel App,Suite,4,2,355.35,0.0,2842.8,0.0,2842.8,141.87,1134.96,3.3,True
+B00646,Mountain Lodge,Resort,CA,North,Travel App,Suite,5,4,350.16,0.1,7003.2,700.32,6302.88,140.49,2809.8,3.8,False
+B00647,Sunset Resort,Resort,DE,East,Walk-in,Executive,7,2,311.35,0.2,4358.9,871.78,3487.12,122.42,1713.88,4.2,False
+B00648,Airport Plaza,Airport,CA,West,Walk-in,Standard,7,1,142.88,0.05,1000.16,50.01,950.15,63.34,443.38,4.9,False
+B00649,Airport Plaza,Airport,US,South,Corporate Agent,Family,1,2,252.13,0.15,504.26,75.64,428.62,114.72,229.44,3.8,False
+B00650,Skyline Suites,City,UK,East,Hotel Website,Suite,6,1,351.06,0.05,2106.36,105.32,2001.04,142.08,852.48,4.9,True
+B00651,Royal Garden Hotel,City,US,West,Walk-in,Standard,3,1,149.03,0.05,447.09,22.35,424.74,62.33,186.99,3.9,True
+B00652,Metro Stay,City,UK,West,Travel App,Family,4,2,270.49,0.2,2163.92,432.78,1731.14,107.77,862.16,4.5,False
+B00653,Skyline Suites,City,DE,South,Walk-in,Suite,2,1,322.24,0.05,644.48,32.22,612.26,132.63,265.26,4.7,True
+B00654,Grand Central Hotel,City,DE,East,Hotel Website,Suite,1,3,360.1,0.0,1080.3,0.0,1080.3,136.26,408.78,4.1,False
+B00655,Sunset Resort,Resort,DE,South,Walk-in,Suite,2,2,337.99,0.05,1351.96,67.6,1284.36,134.84,539.36,4.4,False
+B00656,Ocean Breeze Resort,Resort,CA,East,Travel App,Standard,2,1,140.59,0.2,281.18,56.24,224.94,60.5,121.0,4.7,True
+B00657,Skyline Suites,City,UK,South,Corporate Agent,Standard,4,4,152.79,0.2,2444.64,488.93,1955.71,64.29,1028.64,4.1,False
+B00658,Lakeside Inn,Resort,UK,West,Walk-in,Standard,4,4,141.12,0.0,2257.92,0.0,2257.92,59.62,953.92,4.0,False
+B00659,Metro Stay,City,CA,West,Corporate Agent,Executive,4,3,288.06,0.2,3456.72,691.34,2765.38,116.7,1400.4,4.9,True
+B00660,Grand Central Hotel,City,DE,West,Hotel Website,Family,5,3,251.97,0.0,3779.55,0.0,3779.55,112.91,1693.65,3.7,False
+B00661,Airport Plaza,Airport,DE,North,Walk-in,Deluxe,4,1,219.84,0.1,879.36,87.94,791.42,85.54,342.16,5.0,False
+B00662,Lakeside Inn,Resort,US,North,Hotel Website,Executive,5,4,317.65,0.1,6353.0,635.3,5717.7,125.55,2511.0,3.4,False
+B00663,Airport Plaza,Airport,UK,West,Travel App,Family,1,3,273.09,0.15,819.27,122.89,696.38,109.05,327.15,3.4,False
+B00664,Grand Central Hotel,City,US,West,Corporate Agent,Suite,3,2,349.21,0.2,2095.26,419.05,1676.21,141.79,850.74,3.5,True
+B00665,Airport Plaza,Airport,DE,West,Hotel Website,Executive,2,4,299.04,0.2,2392.32,478.46,1913.86,118.91,951.28,3.3,False
+B00666,Ocean Breeze Resort,Resort,US,South,Hotel Website,Suite,5,3,333.53,0.2,5002.95,1000.59,4002.36,139.44,2091.6,3.6,False
+B00667,Mountain Lodge,Resort,CA,East,Corporate Agent,Executive,5,4,282.22,0.05,5644.4,282.22,5362.18,120.39,2407.8,4.9,True
+B00668,Royal Garden Hotel,City,UK,West,Hotel Website,Deluxe,2,4,221.77,0.1,1774.16,177.42,1596.74,91.51,732.08,3.5,True
+B00669,Grand Central Hotel,City,US,North,Corporate Agent,Suite,1,4,360.81,0.05,1443.24,72.16,1371.08,137.54,550.16,3.5,False
+B00670,Skyline Suites,City,DE,East,Travel App,Family,6,2,264.4,0.15,3172.8,475.92,2696.88,107.59,1291.08,3.9,True
+B00671,Royal Garden Hotel,City,UK,West,Hotel Website,Deluxe,4,2,208.17,0.05,1665.36,83.27,1582.09,89.53,716.24,4.1,False
+B00672,Skyline Suites,City,UK,West,Travel App,Deluxe,7,4,201.96,0.05,5654.88,282.74,5372.14,90.11,2523.08,3.4,False
+B00673,Harbor View Hotel,City,CA,South,Walk-in,Standard,2,1,149.05,0.2,298.1,59.62,238.48,61.25,122.5,4.4,True
+B00674,Ocean Breeze Resort,Resort,CA,East,Travel App,Executive,3,2,298.23,0.1,1789.38,178.94,1610.44,124.46,746.76,4.0,True
+B00675,Skyline Suites,City,UK,East,Travel App,Suite,3,2,325.69,0.05,1954.14,97.71,1856.43,132.99,797.94,4.5,True
+B00676,Skyline Suites,City,CA,North,Travel App,Deluxe,4,2,211.19,0.2,1689.52,337.9,1351.62,90.27,722.16,3.7,False
+B00677,Sunset Resort,Resort,UK,South,Corporate Agent,Deluxe,5,2,217.44,0.0,2174.4,0.0,2174.4,87.29,872.9,4.0,False
+B00678,Airport Plaza,Airport,UK,South,Walk-in,Suite,1,4,349.41,0.2,1397.64,279.53,1118.11,142.13,568.52,4.9,True
+B00679,Royal Garden Hotel,City,US,North,Walk-in,Standard,2,3,139.01,0.05,834.06,41.7,792.36,63.58,381.48,4.1,True
+B00680,Metro Stay,City,DE,South,Corporate Agent,Executive,7,4,318.07,0.05,8905.96,445.3,8460.66,122.7,3435.6,4.6,True
+B00681,Skyline Suites,City,US,North,Corporate Agent,Suite,4,4,360.14,0.1,5762.24,576.22,5186.02,132.53,2120.48,3.8,False
+B00682,Ocean Breeze Resort,Resort,CA,North,Walk-in,Family,5,3,272.79,0.0,4091.85,0.0,4091.85,115.39,1730.85,4.1,True
+B00683,Royal Garden Hotel,City,US,East,Hotel Website,Suite,3,2,321.48,0.2,1928.88,385.78,1543.1,143.31,859.86,4.3,False
+B00684,Lakeside Inn,Resort,US,West,Corporate Agent,Suite,4,2,329.73,0.2,2637.84,527.57,2110.27,134.56,1076.48,3.5,False
+B00685,Mountain Lodge,Resort,US,South,Hotel Website,Standard,2,3,153.74,0.05,922.44,46.12,876.32,63.0,378.0,3.8,False
+B00686,Mountain Lodge,Resort,US,South,Travel App,Deluxe,2,3,202.29,0.05,1213.74,60.69,1153.05,84.5,507.0,3.9,False
+B00687,Metro Stay,City,UK,East,Corporate Agent,Family,6,3,262.67,0.2,4728.06,945.61,3782.45,109.39,1969.02,4.5,False
+B00688,Sunset Resort,Resort,DE,West,Hotel Website,Standard,4,4,154.01,0.1,2464.16,246.42,2217.74,62.48,999.68,4.5,True
+B00689,Harbor View Hotel,City,CA,West,Hotel Website,Executive,4,2,287.94,0.05,2303.52,115.18,2188.34,119.63,957.04,4.1,True
+B00690,Airport Plaza,Airport,UK,West,Walk-in,Family,1,4,268.57,0.0,1074.28,0.0,1074.28,115.43,461.72,4.7,True
+B00691,Mountain Lodge,Resort,CA,East,Hotel Website,Executive,6,4,295.25,0.15,7086.0,1062.9,6023.1,117.18,2812.32,5.0,True
+B00692,Skyline Suites,City,CA,North,Travel App,Family,7,2,280.8,0.1,3931.2,393.12,3538.08,114.06,1596.84,3.4,True
+B00693,Harbor View Hotel,City,US,South,Travel App,Family,5,3,262.92,0.05,3943.8,197.19,3746.61,110.73,1660.95,4.7,False
+B00694,Harbor View Hotel,City,CA,East,Walk-in,Family,1,1,273.54,0.2,273.54,54.71,218.83,115.06,115.06,4.2,False
+B00695,Grand Central Hotel,City,CA,West,Corporate Agent,Deluxe,6,2,206.44,0.0,2477.28,0.0,2477.28,87.18,1046.16,4.3,True
+B00696,Sunset Resort,Resort,UK,East,Walk-in,Deluxe,1,1,201.65,0.0,201.65,0.0,201.65,85.9,85.9,4.0,False
+B00697,Grand Central Hotel,City,CA,South,Hotel Website,Suite,1,3,330.83,0.2,992.49,198.5,793.99,141.18,423.54,3.6,False
+B00698,Grand Central Hotel,City,CA,East,Hotel Website,Standard,1,3,137.94,0.2,413.82,82.76,331.06,59.9,179.7,3.6,True
+B00699,Grand Central Hotel,City,UK,South,Corporate Agent,Family,4,1,275.91,0.05,1103.64,55.18,1048.46,107.98,431.92,3.3,False
+B00700,Grand Central Hotel,City,CA,South,Corporate Agent,Executive,4,2,308.93,0.15,2471.44,370.72,2100.72,121.9,975.2,3.4,False
+B00701,Airport Plaza,Airport,CA,North,Travel App,Suite,6,2,344.64,0.1,4135.68,413.57,3722.11,139.41,1672.92,3.9,True
+B00702,Skyline Suites,City,DE,East,Corporate Agent,Suite,3,1,358.04,0.0,1074.12,0.0,1074.12,141.91,425.73,4.4,False
+B00703,Royal Garden Hotel,City,CA,East,Corporate Agent,Family,5,2,250.3,0.0,2503.0,0.0,2503.0,112.95,1129.5,4.5,True
+B00704,Skyline Suites,City,UK,North,Travel App,Suite,2,3,353.59,0.15,2121.54,318.23,1803.31,139.61,837.66,4.9,True
+B00705,Sunset Resort,Resort,DE,North,Hotel Website,Standard,3,2,146.53,0.05,879.18,43.96,835.22,64.16,384.96,4.7,True
+B00706,Metro Stay,City,CA,West,Hotel Website,Deluxe,6,2,206.19,0.1,2474.28,247.43,2226.85,89.3,1071.6,4.4,True
+B00707,Sunset Resort,Resort,CA,North,Travel App,Suite,1,4,326.3,0.0,1305.2,0.0,1305.2,134.85,539.4,3.3,False
+B00708,Ocean Breeze Resort,Resort,CA,North,Walk-in,Family,2,2,282.38,0.1,1129.52,112.95,1016.57,111.49,445.96,4.7,True
+B00709,Ocean Breeze Resort,Resort,UK,North,Hotel Website,Family,4,1,284.41,0.05,1137.64,56.88,1080.76,107.85,431.4,4.7,False
+B00710,Grand Central Hotel,City,US,South,Hotel Website,Suite,2,1,338.38,0.1,676.76,67.68,609.08,138.24,276.48,5.0,False
+B00711,Sunset Resort,Resort,CA,East,Travel App,Executive,1,3,295.53,0.15,886.59,132.99,753.6,124.92,374.76,4.0,False
+B00712,Mountain Lodge,Resort,US,South,Corporate Agent,Suite,1,2,322.95,0.2,645.9,129.18,516.72,139.12,278.24,3.3,True
+B00713,Skyline Suites,City,DE,North,Hotel Website,Standard,5,2,138.49,0.1,1384.9,138.49,1246.41,63.04,630.4,3.6,True
+B00714,Sunset Resort,Resort,CA,East,Walk-in,Executive,3,3,287.66,0.2,2588.94,517.79,2071.15,125.28,1127.52,3.6,False
+B00715,Ocean Breeze Resort,Resort,UK,West,Corporate Agent,Executive,1,4,308.45,0.15,1233.8,185.07,1048.73,123.47,493.88,3.5,False
+B00716,Metro Stay,City,UK,North,Corporate Agent,Standard,4,4,152.06,0.15,2432.96,364.94,2068.02,61.79,988.64,4.5,True
+B00717,Airport Plaza,Airport,DE,East,Hotel Website,Standard,6,4,148.66,0.0,3567.84,0.0,3567.84,61.37,1472.88,4.2,True
+B00718,Airport Plaza,Airport,CA,South,Corporate Agent,Suite,6,2,332.92,0.2,3995.04,799.01,3196.03,136.22,1634.64,5.0,True
+B00719,Royal Garden Hotel,City,DE,North,Hotel Website,Deluxe,5,2,205.15,0.0,2051.5,0.0,2051.5,85.01,850.1,3.5,True
+B00720,Harbor View Hotel,City,DE,West,Walk-in,Suite,5,3,332.95,0.05,4994.25,249.71,4744.54,135.29,2029.35,3.6,False
+B00721,Mountain Lodge,Resort,DE,East,Walk-in,Suite,7,1,339.67,0.15,2377.69,356.65,2021.04,135.58,949.06,4.4,True
+B00722,Harbor View Hotel,City,UK,East,Hotel Website,Deluxe,2,3,199.92,0.2,1199.52,239.9,959.62,85.21,511.26,3.8,False
+B00723,Royal Garden Hotel,City,CA,West,Walk-in,Executive,7,1,296.14,0.15,2072.98,310.95,1762.03,121.98,853.86,3.9,False
+B00724,Ocean Breeze Resort,Resort,DE,East,Corporate Agent,Executive,7,3,298.35,0.15,6265.35,939.8,5325.55,119.37,2506.77,4.6,True
+B00725,Skyline Suites,City,UK,North,Travel App,Standard,4,4,152.25,0.0,2436.0,0.0,2436.0,62.97,1007.52,3.7,True
+B00726,Skyline Suites,City,US,South,Hotel Website,Executive,7,4,293.91,0.0,8229.48,0.0,8229.48,124.07,3473.96,3.9,True
+B00727,Grand Central Hotel,City,US,West,Corporate Agent,Executive,7,2,279.66,0.05,3915.24,195.76,3719.48,122.71,1717.94,3.7,True
+B00728,Lakeside Inn,Resort,CA,West,Travel App,Executive,4,3,318.18,0.0,3818.16,0.0,3818.16,119.15,1429.8,4.5,True
+B00729,Lakeside Inn,Resort,US,West,Hotel Website,Family,5,1,254.55,0.0,1272.75,0.0,1272.75,108.32,541.6,3.3,True
+B00730,Grand Central Hotel,City,US,West,Travel App,Suite,7,3,321.07,0.15,6742.47,1011.37,5731.1,137.3,2883.3,4.1,False
+B00731,Royal Garden Hotel,City,US,North,Walk-in,Family,4,3,285.04,0.1,3420.48,342.05,3078.43,111.51,1338.12,4.9,True
+B00732,Lakeside Inn,Resort,DE,South,Hotel Website,Family,3,3,278.12,0.15,2503.08,375.46,2127.62,110.0,990.0,4.8,False
+B00733,Ocean Breeze Resort,Resort,CA,East,Travel App,Executive,4,1,281.34,0.1,1125.36,112.54,1012.82,119.3,477.2,3.7,False
+B00734,Royal Garden Hotel,City,CA,South,Walk-in,Deluxe,3,3,220.27,0.2,1982.43,396.49,1585.94,87.88,790.92,3.3,False
+B00735,Skyline Suites,City,US,South,Travel App,Standard,5,3,140.51,0.1,2107.65,210.77,1896.88,59.69,895.35,3.2,True
+B00736,Lakeside Inn,Resort,UK,South,Corporate Agent,Suite,4,4,339.69,0.1,5435.04,543.5,4891.54,143.32,2293.12,3.9,True
+B00737,Metro Stay,City,CA,East,Travel App,Standard,6,4,142.67,0.0,3424.08,0.0,3424.08,63.69,1528.56,4.0,False
+B00738,Metro Stay,City,CA,South,Corporate Agent,Suite,6,2,338.26,0.15,4059.12,608.87,3450.25,134.98,1619.76,4.2,False
+B00739,Metro Stay,City,UK,South,Travel App,Suite,2,4,359.63,0.1,2877.04,287.7,2589.34,140.72,1125.76,4.5,False
+B00740,Airport Plaza,Airport,CA,West,Travel App,Suite,7,4,360.34,0.1,10089.52,1008.95,9080.57,132.67,3714.76,4.2,False
+B00741,Ocean Breeze Resort,Resort,CA,West,Corporate Agent,Family,7,2,267.29,0.2,3742.06,748.41,2993.65,115.11,1611.54,3.8,True
+B00742,Sunset Resort,Resort,UK,South,Hotel Website,Suite,2,2,343.47,0.0,1373.88,0.0,1373.88,142.18,568.72,3.6,False
+B00743,Ocean Breeze Resort,Resort,UK,North,Travel App,Standard,3,2,155.13,0.2,930.78,186.16,744.62,60.71,364.26,4.4,True
+B00744,Sunset Resort,Resort,DE,North,Walk-in,Standard,3,3,143.99,0.0,1295.91,0.0,1295.91,59.55,535.95,4.6,True
+B00745,Lakeside Inn,Resort,DE,West,Walk-in,Standard,4,1,142.0,0.15,568.0,85.2,482.8,62.02,248.08,4.3,False
+B00746,Grand Central Hotel,City,UK,North,Corporate Agent,Suite,7,2,345.9,0.1,4842.6,484.26,4358.34,141.02,1974.28,3.9,True
+B00747,Mountain Lodge,Resort,CA,West,Walk-in,Standard,1,3,145.46,0.1,436.38,43.64,392.74,63.13,189.39,4.7,False
+B00748,Lakeside Inn,Resort,UK,West,Walk-in,Deluxe,7,2,214.21,0.0,2998.94,0.0,2998.94,90.08,1261.12,4.8,True
+B00749,Airport Plaza,Airport,UK,East,Corporate Agent,Executive,5,2,287.0,0.0,2870.0,0.0,2870.0,117.28,1172.8,4.0,True
+B00750,Royal Garden Hotel,City,US,East,Hotel Website,Family,6,3,276.77,0.2,4981.86,996.37,3985.49,112.56,2026.08,3.4,True
+B00751,Grand Central Hotel,City,CA,South,Hotel Website,Suite,6,3,331.98,0.05,5975.64,298.78,5676.86,134.14,2414.52,3.9,False
+B00752,Harbor View Hotel,City,UK,North,Hotel Website,Standard,5,3,141.16,0.1,2117.4,211.74,1905.66,62.66,939.9,3.8,False
+B00753,Ocean Breeze Resort,Resort,DE,West,Hotel Website,Deluxe,3,1,218.99,0.2,656.97,131.39,525.58,86.7,260.1,4.4,False
+B00754,Metro Stay,City,US,East,Travel App,Family,7,2,285.26,0.1,3993.64,399.36,3594.28,111.05,1554.7,3.6,False
+B00755,Mountain Lodge,Resort,CA,North,Travel App,Family,3,2,249.28,0.0,1495.68,0.0,1495.68,110.91,665.46,3.3,True
+B00756,Grand Central Hotel,City,US,West,Hotel Website,Deluxe,2,4,207.64,0.0,1661.12,0.0,1661.12,87.07,696.56,4.7,False
+B00757,Mountain Lodge,Resort,UK,South,Travel App,Suite,5,3,363.97,0.15,5459.55,818.93,4640.62,135.24,2028.6,3.8,False
+B00758,Ocean Breeze Resort,Resort,US,West,Walk-in,Suite,7,1,355.86,0.2,2491.02,498.2,1992.82,133.66,935.62,3.6,False
+B00759,Mountain Lodge,Resort,UK,South,Travel App,Family,4,2,251.88,0.2,2015.04,403.01,1612.03,111.0,888.0,3.9,False
+B00760,Harbor View Hotel,City,US,East,Travel App,Suite,6,4,365.41,0.2,8769.84,1753.97,7015.87,139.41,3345.84,4.9,True
+B00761,Ocean Breeze Resort,Resort,US,North,Travel App,Deluxe,2,1,217.65,0.0,435.3,0.0,435.3,89.93,179.86,3.5,False
+B00762,Skyline Suites,City,CA,East,Walk-in,Family,3,2,256.44,0.05,1538.64,76.93,1461.71,111.26,667.56,3.9,True
+B00763,Metro Stay,City,US,North,Travel App,Executive,1,2,299.46,0.1,598.92,59.89,539.03,120.56,241.12,3.9,False
+B00764,Metro Stay,City,US,North,Hotel Website,Executive,4,1,284.85,0.05,1139.4,56.97,1082.43,116.25,465.0,3.3,False
+B00765,Harbor View Hotel,City,UK,North,Travel App,Standard,7,3,146.67,0.2,3080.07,616.01,2464.06,62.66,1315.86,3.2,False
+B00766,Harbor View Hotel,City,US,West,Hotel Website,Family,4,2,281.68,0.05,2253.44,112.67,2140.77,108.45,867.6,3.8,True
+B00767,Lakeside Inn,Resort,CA,West,Hotel Website,Family,3,1,251.7,0.2,755.1,151.02,604.08,110.57,331.71,4.6,False
+B00768,Skyline Suites,City,UK,West,Hotel Website,Standard,4,4,137.99,0.05,2207.84,110.39,2097.45,60.85,973.6,3.8,True
+B00769,Ocean Breeze Resort,Resort,US,West,Corporate Agent,Family,4,2,267.17,0.0,2137.36,0.0,2137.36,113.35,906.8,3.5,False
+B00770,Sunset Resort,Resort,DE,West,Walk-in,Executive,5,2,312.01,0.2,3120.1,624.02,2496.08,118.03,1180.3,4.0,True
+B00771,Skyline Suites,City,US,East,Hotel Website,Deluxe,4,3,224.1,0.15,2689.2,403.38,2285.82,87.84,1054.08,4.3,False
+B00772,Royal Garden Hotel,City,CA,West,Corporate Agent,Family,2,1,273.22,0.0,546.44,0.0,546.44,112.05,224.1,4.7,True
+B00773,Mountain Lodge,Resort,CA,West,Hotel Website,Standard,4,3,140.91,0.05,1690.92,84.55,1606.37,64.07,768.84,5.0,False
+B00774,Mountain Lodge,Resort,UK,South,Corporate Agent,Executive,6,3,298.04,0.1,5364.72,536.47,4828.25,117.66,2117.88,3.9,False
+B00775,Metro Stay,City,CA,South,Travel App,Family,1,4,277.73,0.0,1110.92,0.0,1110.92,108.96,435.84,4.2,True
+B00776,Ocean Breeze Resort,Resort,UK,South,Walk-in,Deluxe,1,3,218.47,0.2,655.41,131.08,524.33,86.97,260.91,5.0,True
+B00777,Airport Plaza,Airport,US,East,Walk-in,Deluxe,4,3,220.91,0.05,2650.92,132.55,2518.37,91.35,1096.2,3.5,True
+B00778,Skyline Suites,City,UK,South,Travel App,Deluxe,6,3,214.99,0.1,3869.82,386.98,3482.84,85.06,1531.08,3.6,True
+B00779,Metro Stay,City,DE,South,Travel App,Executive,7,3,310.75,0.0,6525.75,0.0,6525.75,123.25,2588.25,4.1,True
+B00780,Ocean Breeze Resort,Resort,DE,North,Hotel Website,Standard,4,3,154.64,0.0,1855.68,0.0,1855.68,60.33,723.96,3.5,False
+B00781,Metro Stay,City,UK,West,Travel App,Deluxe,3,1,217.0,0.1,651.0,65.1,585.9,84.58,253.74,3.6,False
+B00782,Mountain Lodge,Resort,UK,South,Hotel Website,Deluxe,7,2,200.9,0.1,2812.6,281.26,2531.34,90.7,1269.8,4.0,False
+B00783,Lakeside Inn,Resort,UK,West,Corporate Agent,Family,1,3,268.93,0.1,806.79,80.68,726.11,114.42,343.26,4.7,True
+B00784,Sunset Resort,Resort,CA,East,Corporate Agent,Executive,5,3,300.2,0.2,4503.0,900.6,3602.4,118.04,1770.6,4.9,False
+B00785,Royal Garden Hotel,City,UK,North,Hotel Website,Executive,5,4,303.13,0.1,6062.6,606.26,5456.34,116.61,2332.2,3.3,True
+B00786,Airport Plaza,Airport,UK,South,Corporate Agent,Standard,5,4,141.3,0.05,2826.0,141.3,2684.7,61.82,1236.4,4.5,False
+B00787,Metro Stay,City,US,North,Hotel Website,Standard,4,4,151.73,0.15,2427.68,364.15,2063.53,60.87,973.92,4.7,True
+B00788,Sunset Resort,Resort,UK,West,Walk-in,Suite,3,4,351.7,0.1,4220.4,422.04,3798.36,141.31,1695.72,4.6,False
+B00789,Lakeside Inn,Resort,US,West,Hotel Website,Executive,6,3,307.95,0.1,5543.1,554.31,4988.79,117.19,2109.42,3.5,True
+B00790,Mountain Lodge,Resort,DE,South,Hotel Website,Executive,7,3,289.37,0.0,6076.77,0.0,6076.77,125.1,2627.1,4.7,True
+B00791,Lakeside Inn,Resort,US,North,Corporate Agent,Deluxe,4,2,213.3,0.05,1706.4,85.32,1621.08,90.48,723.84,4.0,True
+B00792,Ocean Breeze Resort,Resort,CA,South,Walk-in,Executive,6,4,313.11,0.1,7514.64,751.46,6763.18,122.14,2931.36,3.4,False
+B00793,Ocean Breeze Resort,Resort,US,South,Hotel Website,Suite,7,1,333.48,0.15,2334.36,350.15,1984.21,137.22,960.54,3.7,True
+B00794,Harbor View Hotel,City,CA,South,Corporate Agent,Executive,6,1,303.58,0.0,1821.48,0.0,1821.48,123.25,739.5,3.3,True
+B00795,Grand Central Hotel,City,DE,North,Travel App,Standard,4,2,138.45,0.1,1107.6,110.76,996.84,64.06,512.48,3.7,False
+B00796,Skyline Suites,City,CA,West,Travel App,Deluxe,5,4,205.4,0.15,4108.0,616.2,3491.8,89.78,1795.6,3.3,False
+B00797,Grand Central Hotel,City,CA,West,Walk-in,Standard,5,2,150.39,0.05,1503.9,75.2,1428.7,62.7,627.0,4.4,True
+B00798,Grand Central Hotel,City,UK,North,Travel App,Family,6,4,273.69,0.1,6568.56,656.86,5911.7,115.83,2779.92,3.6,False
+B00799,Sunset Resort,Resort,UK,South,Walk-in,Executive,6,4,310.38,0.2,7449.12,1489.82,5959.3,124.46,2987.04,3.9,False
+B00800,Mountain Lodge,Resort,US,West,Travel App,Suite,5,3,343.55,0.0,5153.25,0.0,5153.25,143.16,2147.4,4.8,False
+B00801,Royal Garden Hotel,City,UK,East,Travel App,Standard,7,3,145.5,0.2,3055.5,611.1,2444.4,64.24,1349.04,4.3,False
+B00802,Skyline Suites,City,US,West,Walk-in,Deluxe,5,2,217.95,0.15,2179.5,326.93,1852.57,86.57,865.7,4.3,False
+B00803,Grand Central Hotel,City,CA,East,Walk-in,Family,3,4,249.9,0.15,2998.8,449.82,2548.98,109.71,1316.52,4.1,True
+B00804,Ocean Breeze Resort,Resort,CA,West,Hotel Website,Deluxe,5,4,214.58,0.1,4291.6,429.16,3862.44,90.61,1812.2,3.6,True
+B00805,Ocean Breeze Resort,Resort,DE,East,Corporate Agent,Deluxe,7,1,200.12,0.0,1400.84,0.0,1400.84,86.81,607.67,5.0,False
+B00806,Skyline Suites,City,CA,North,Travel App,Family,5,3,284.38,0.05,4265.7,213.29,4052.41,112.57,1688.55,3.5,False
+B00807,Sunset Resort,Resort,US,South,Walk-in,Standard,7,1,139.42,0.15,975.94,146.39,829.55,59.53,416.71,4.2,False
+B00808,Grand Central Hotel,City,UK,West,Travel App,Suite,1,3,361.93,0.05,1085.79,54.29,1031.5,133.61,400.83,4.3,True
+B00809,Ocean Breeze Resort,Resort,CA,West,Corporate Agent,Executive,6,3,281.17,0.0,5061.06,0.0,5061.06,123.03,2214.54,4.0,False
+B00810,Ocean Breeze Resort,Resort,DE,West,Walk-in,Executive,3,2,295.6,0.0,1773.6,0.0,1773.6,121.78,730.68,3.2,True
+B00811,Grand Central Hotel,City,US,East,Walk-in,Executive,7,3,298.36,0.05,6265.56,313.28,5952.28,122.04,2562.84,3.4,False
+B00812,Airport Plaza,Airport,DE,North,Hotel Website,Deluxe,6,4,199.66,0.2,4791.84,958.37,3833.47,88.16,2115.84,3.2,False
+B00813,Skyline Suites,City,CA,South,Hotel Website,Suite,7,3,359.31,0.0,7545.51,0.0,7545.51,134.18,2817.78,5.0,True
+B00814,Airport Plaza,Airport,CA,North,Hotel Website,Deluxe,7,3,225.45,0.2,4734.45,946.89,3787.56,88.09,1849.89,4.5,True
+B00815,Metro Stay,City,CA,East,Corporate Agent,Standard,5,4,141.71,0.05,2834.2,141.71,2692.49,60.85,1217.0,4.5,False
+B00816,Royal Garden Hotel,City,UK,West,Hotel Website,Executive,5,1,278.54,0.2,1392.7,278.54,1114.16,120.0,600.0,3.5,False
+B00817,Lakeside Inn,Resort,UK,East,Hotel Website,Family,1,1,268.55,0.0,268.55,0.0,268.55,108.08,108.08,4.0,True
+B00818,Airport Plaza,Airport,CA,North,Travel App,Family,6,1,284.54,0.05,1707.24,85.36,1621.88,107.76,646.56,3.3,False
+B00819,Metro Stay,City,US,North,Walk-in,Executive,7,2,293.91,0.1,4114.74,411.47,3703.27,117.33,1642.62,4.3,False
+B00820,Sunset Resort,Resort,CA,South,Corporate Agent,Standard,7,4,152.4,0.0,4267.2,0.0,4267.2,62.44,1748.32,3.2,False
+B00821,Sunset Resort,Resort,DE,East,Corporate Agent,Family,5,1,254.48,0.15,1272.4,190.86,1081.54,110.67,553.35,4.8,False
+B00822,Royal Garden Hotel,City,UK,West,Corporate Agent,Executive,6,2,299.93,0.05,3599.16,179.96,3419.2,120.77,1449.24,3.3,True
+B00823,Grand Central Hotel,City,DE,East,Corporate Agent,Executive,6,1,303.49,0.15,1820.94,273.14,1547.8,120.08,720.48,4.5,False
+B00824,Grand Central Hotel,City,DE,West,Travel App,Executive,7,4,298.3,0.0,8352.4,0.0,8352.4,123.33,3453.24,3.5,False
+B00825,Skyline Suites,City,US,North,Travel App,Standard,1,4,144.11,0.0,576.44,0.0,576.44,62.69,250.76,4.8,False
+B00826,Mountain Lodge,Resort,DE,South,Hotel Website,Deluxe,4,1,209.18,0.05,836.72,41.84,794.88,85.12,340.48,4.5,False
+B00827,Mountain Lodge,Resort,CA,West,Corporate Agent,Standard,4,2,143.54,0.2,1148.32,229.66,918.66,62.81,502.48,4.1,False
+B00828,Harbor View Hotel,City,US,West,Corporate Agent,Deluxe,2,4,207.85,0.15,1662.8,249.42,1413.38,87.77,702.16,4.0,True
+B00829,Ocean Breeze Resort,Resort,DE,North,Corporate Agent,Executive,3,2,301.18,0.05,1807.08,90.35,1716.73,120.37,722.22,3.8,True
+B00830,Airport Plaza,Airport,DE,North,Hotel Website,Executive,6,2,305.67,0.15,3668.04,550.21,3117.83,117.77,1413.24,3.9,False
+B00831,Mountain Lodge,Resort,CA,East,Walk-in,Standard,7,4,148.06,0.15,4145.68,621.85,3523.83,64.1,1794.8,3.6,False
+B00832,Royal Garden Hotel,City,US,South,Hotel Website,Deluxe,6,2,211.68,0.0,2540.16,0.0,2540.16,88.28,1059.36,3.2,False
+B00833,Airport Plaza,Airport,DE,West,Corporate Agent,Standard,1,1,149.34,0.2,149.34,29.87,119.47,61.15,61.15,3.9,True
+B00834,Lakeside Inn,Resort,US,East,Hotel Website,Standard,2,1,136.75,0.05,273.5,13.68,259.82,60.74,121.48,3.6,True
+B00835,Grand Central Hotel,City,US,West,Hotel Website,Deluxe,1,3,222.73,0.0,668.19,0.0,668.19,90.69,272.07,3.8,True
+B00836,Metro Stay,City,US,East,Corporate Agent,Executive,6,3,317.09,0.05,5707.62,285.38,5422.24,116.86,2103.48,3.6,False
+B00837,Royal Garden Hotel,City,DE,East,Hotel Website,Standard,1,1,136.61,0.2,136.61,27.32,109.29,60.4,60.4,4.0,False
+B00838,Lakeside Inn,Resort,CA,West,Corporate Agent,Deluxe,6,1,209.24,0.1,1255.44,125.54,1129.9,86.69,520.14,3.9,False
+B00839,Grand Central Hotel,City,DE,South,Hotel Website,Suite,2,1,331.67,0.0,663.34,0.0,663.34,133.59,267.18,4.9,True
+B00840,Grand Central Hotel,City,US,North,Walk-in,Deluxe,5,3,218.0,0.05,3270.0,163.5,3106.5,89.51,1342.65,4.4,True
+B00841,Sunset Resort,Resort,CA,West,Hotel Website,Suite,5,4,347.84,0.2,6956.8,1391.36,5565.44,135.7,2714.0,3.4,True
+B00842,Skyline Suites,City,US,West,Travel App,Standard,6,1,139.17,0.1,835.02,83.5,751.52,64.37,386.22,4.9,False
+B00843,Royal Garden Hotel,City,US,North,Corporate Agent,Standard,5,1,141.0,0.05,705.0,35.25,669.75,60.45,302.25,4.0,False
+B00844,Skyline Suites,City,UK,East,Hotel Website,Deluxe,3,1,209.04,0.1,627.12,62.71,564.41,90.35,271.05,5.0,False
+B00845,Royal Garden Hotel,City,US,West,Corporate Agent,Family,7,4,273.84,0.05,7667.52,383.38,7284.14,113.09,3166.52,4.7,True
+B00846,Skyline Suites,City,US,South,Corporate Agent,Standard,6,4,152.66,0.15,3663.84,549.58,3114.26,62.81,1507.44,4.6,False
+B00847,Skyline Suites,City,DE,West,Travel App,Executive,3,4,303.57,0.05,3642.84,182.14,3460.7,125.69,1508.28,4.2,True
+B00848,Airport Plaza,Airport,DE,West,Corporate Agent,Family,6,1,266.57,0.2,1599.42,319.88,1279.54,113.82,682.92,4.9,False
+B00849,Mountain Lodge,Resort,DE,West,Travel App,Suite,1,4,360.59,0.1,1442.36,144.24,1298.12,142.95,571.8,4.1,True
+B00850,Harbor View Hotel,City,US,West,Hotel Website,Executive,4,2,283.77,0.05,2270.16,113.51,2156.65,123.83,990.64,4.1,True
+B00851,Skyline Suites,City,CA,North,Hotel Website,Standard,1,4,148.68,0.0,594.72,0.0,594.72,63.28,253.12,3.6,True
+B00852,Sunset Resort,Resort,UK,West,Travel App,Deluxe,5,1,197.66,0.15,988.3,148.24,840.06,89.37,446.85,3.4,False
+B00853,Sunset Resort,Resort,US,South,Travel App,Suite,1,4,322.95,0.05,1291.8,64.59,1227.21,133.26,533.04,4.3,True
+B00854,Skyline Suites,City,UK,North,Corporate Agent,Standard,2,1,138.01,0.15,276.02,41.4,234.62,64.37,128.74,4.1,True
+B00855,Metro Stay,City,DE,South,Travel App,Family,2,2,268.94,0.15,1075.76,161.36,914.4,110.95,443.8,4.3,True
+B00856,Mountain Lodge,Resort,US,West,Corporate Agent,Family,7,1,274.75,0.05,1923.25,96.16,1827.09,111.62,781.34,3.6,True
+B00857,Sunset Resort,Resort,US,South,Walk-in,Suite,6,3,338.54,0.1,6093.72,609.37,5484.35,143.41,2581.38,4.5,True
+B00858,Harbor View Hotel,City,DE,South,Walk-in,Executive,7,3,299.85,0.1,6296.85,629.69,5667.16,118.15,2481.15,4.4,False
+B00859,Skyline Suites,City,UK,North,Travel App,Suite,3,4,365.71,0.0,4388.52,0.0,4388.52,138.38,1660.56,4.9,True
+B00860,Metro Stay,City,US,South,Corporate Agent,Standard,6,1,151.26,0.05,907.56,45.38,862.18,60.09,360.54,4.3,True
+B00861,Skyline Suites,City,UK,East,Walk-in,Suite,7,3,323.98,0.2,6803.58,1360.72,5442.86,133.57,2804.97,3.5,True
+B00862,Harbor View Hotel,City,DE,West,Corporate Agent,Family,5,1,267.83,0.05,1339.15,66.96,1272.19,107.8,539.0,4.5,True
+B00863,Ocean Breeze Resort,Resort,UK,South,Walk-in,Deluxe,5,1,214.59,0.15,1072.95,160.94,912.01,90.62,453.1,4.4,False
+B00864,Harbor View Hotel,City,DE,North,Corporate Agent,Executive,2,4,311.83,0.05,2494.64,124.73,2369.91,120.47,963.76,4.4,False
+B00865,Mountain Lodge,Resort,DE,East,Walk-in,Deluxe,2,4,211.63,0.2,1693.04,338.61,1354.43,87.08,696.64,3.5,False
+B00866,Sunset Resort,Resort,UK,North,Hotel Website,Deluxe,5,2,222.83,0.0,2228.3,0.0,2228.3,89.79,897.9,4.2,False
+B00867,Royal Garden Hotel,City,UK,North,Corporate Agent,Executive,1,1,281.74,0.0,281.74,0.0,281.74,118.35,118.35,4.9,False
+B00868,Skyline Suites,City,CA,North,Corporate Agent,Executive,3,2,281.1,0.15,1686.6,252.99,1433.61,116.86,701.16,3.7,True
+B00869,Mountain Lodge,Resort,US,North,Hotel Website,Suite,4,4,363.68,0.2,5818.88,1163.78,4655.1,138.46,2215.36,4.0,True
+B00870,Royal Garden Hotel,City,US,South,Hotel Website,Suite,7,1,339.21,0.1,2374.47,237.45,2137.02,139.29,975.03,4.6,True
+B00871,Harbor View Hotel,City,UK,North,Hotel Website,Deluxe,6,1,204.76,0.15,1228.56,184.28,1044.28,90.06,540.36,3.5,False
+B00872,Lakeside Inn,Resort,DE,South,Hotel Website,Family,5,4,284.58,0.2,5691.6,1138.32,4553.28,113.35,2267.0,3.5,False
+B00873,Mountain Lodge,Resort,US,North,Corporate Agent,Executive,1,1,307.35,0.05,307.35,15.37,291.98,119.14,119.14,4.5,False
+B00874,Sunset Resort,Resort,CA,North,Hotel Website,Deluxe,6,1,219.37,0.0,1316.22,0.0,1316.22,91.43,548.58,3.7,True
+B00875,Airport Plaza,Airport,US,East,Travel App,Deluxe,5,4,216.62,0.2,4332.4,866.48,3465.92,86.65,1733.0,3.9,False
+B00876,Ocean Breeze Resort,Resort,CA,North,Hotel Website,Deluxe,5,4,202.27,0.15,4045.4,606.81,3438.59,84.89,1697.8,4.1,True
+B00877,Royal Garden Hotel,City,US,South,Corporate Agent,Suite,7,2,324.1,0.0,4537.4,0.0,4537.4,138.03,1932.42,4.9,False
+B00878,Lakeside Inn,Resort,DE,West,Hotel Website,Family,3,2,257.58,0.0,1545.48,0.0,1545.48,112.4,674.4,3.7,True
+B00879,Metro Stay,City,DE,South,Corporate Agent,Family,1,4,279.63,0.15,1118.52,167.78,950.74,109.77,439.08,4.4,True
+B00880,Airport Plaza,Airport,US,North,Walk-in,Family,1,3,274.39,0.15,823.17,123.48,699.69,112.66,337.98,3.6,False
+B00881,Airport Plaza,Airport,DE,West,Travel App,Suite,4,3,322.7,0.05,3872.4,193.62,3678.78,135.68,1628.16,4.7,False
+B00882,Airport Plaza,Airport,US,South,Travel App,Family,3,2,282.66,0.2,1695.96,339.19,1356.77,111.74,670.44,3.7,False
+B00883,Lakeside Inn,Resort,UK,South,Hotel Website,Standard,3,3,137.59,0.15,1238.31,185.75,1052.56,59.62,536.58,4.1,True
+B00884,Grand Central Hotel,City,UK,East,Corporate Agent,Family,7,4,272.34,0.1,7625.52,762.55,6862.97,108.22,3030.16,4.1,False
+B00885,Ocean Breeze Resort,Resort,DE,North,Travel App,Family,6,3,265.73,0.05,4783.14,239.16,4543.98,110.66,1991.88,4.0,True
+B00886,Skyline Suites,City,DE,North,Walk-in,Deluxe,2,4,210.78,0.15,1686.24,252.94,1433.3,88.96,711.68,5.0,True
+B00887,Mountain Lodge,Resort,US,South,Walk-in,Executive,7,1,294.75,0.1,2063.25,206.33,1856.92,117.33,821.31,4.0,False
+B00888,Grand Central Hotel,City,CA,South,Walk-in,Executive,1,3,286.41,0.2,859.23,171.85,687.38,118.37,355.11,3.5,False
+B00889,Lakeside Inn,Resort,CA,West,Travel App,Deluxe,2,2,219.78,0.0,879.12,0.0,879.12,84.96,339.84,3.8,False
+B00890,Royal Garden Hotel,City,CA,East,Hotel Website,Deluxe,3,2,201.13,0.05,1206.78,60.34,1146.44,90.02,540.12,3.5,False
+B00891,Harbor View Hotel,City,DE,West,Travel App,Deluxe,5,2,215.67,0.15,2156.7,323.5,1833.2,87.04,870.4,3.9,False
+B00892,Grand Central Hotel,City,DE,East,Corporate Agent,Deluxe,1,2,218.6,0.2,437.2,87.44,349.76,89.1,178.2,3.4,False
+B00893,Sunset Resort,Resort,DE,North,Walk-in,Standard,7,4,139.67,0.05,3910.76,195.54,3715.22,63.09,1766.52,3.6,False
+B00894,Royal Garden Hotel,City,UK,South,Travel App,Standard,2,4,149.93,0.15,1199.44,179.92,1019.52,63.15,505.2,4.7,True
+B00895,Ocean Breeze Resort,Resort,UK,South,Walk-in,Standard,1,3,156.55,0.05,469.65,23.48,446.17,59.72,179.16,5.0,True
+B00896,Royal Garden Hotel,City,UK,North,Hotel Website,Family,6,4,262.4,0.05,6297.6,314.88,5982.72,108.83,2611.92,4.8,False
+B00897,Royal Garden Hotel,City,CA,East,Travel App,Deluxe,5,3,209.4,0.15,3141.0,471.15,2669.85,89.12,1336.8,4.0,False
+B00898,Mountain Lodge,Resort,UK,North,Walk-in,Suite,2,3,333.03,0.2,1998.18,399.64,1598.54,138.34,830.04,4.7,True
+B00899,Harbor View Hotel,City,DE,West,Corporate Agent,Family,2,1,265.38,0.05,530.76,26.54,504.22,108.55,217.1,3.5,True
+B00900,Harbor View Hotel,City,UK,East,Walk-in,Family,6,1,259.3,0.15,1555.8,233.37,1322.43,114.96,689.76,4.8,True
+B00901,Royal Garden Hotel,City,DE,South,Hotel Website,Executive,7,2,308.43,0.15,4318.02,647.7,3670.32,121.08,1695.12,3.4,True
+B00902,Mountain Lodge,Resort,US,West,Corporate Agent,Standard,1,2,147.13,0.15,294.26,44.14,250.12,62.92,125.84,3.3,True
+B00903,Ocean Breeze Resort,Resort,US,North,Walk-in,Executive,4,2,290.67,0.2,2325.36,465.07,1860.29,120.15,961.2,4.2,True
+B00904,Airport Plaza,Airport,DE,West,Corporate Agent,Suite,3,2,341.5,0.05,2049.0,102.45,1946.55,136.59,819.54,3.3,True
+B00905,Mountain Lodge,Resort,CA,East,Corporate Agent,Deluxe,3,1,224.65,0.2,673.95,134.79,539.16,86.9,260.7,4.9,False
+B00906,Grand Central Hotel,City,CA,West,Walk-in,Family,2,1,260.84,0.0,521.68,0.0,521.68,110.36,220.72,3.6,False
+B00907,Harbor View Hotel,City,DE,North,Travel App,Deluxe,1,3,210.83,0.15,632.49,94.87,537.62,90.16,270.48,4.7,True
+B00908,Ocean Breeze Resort,Resort,UK,South,Corporate Agent,Executive,4,3,305.83,0.15,3669.96,550.49,3119.47,117.67,1412.04,3.4,False
+B00909,Grand Central Hotel,City,UK,East,Hotel Website,Deluxe,7,2,198.78,0.15,2782.92,417.44,2365.48,90.7,1269.8,3.8,False
+B00910,Skyline Suites,City,CA,South,Travel App,Suite,4,3,356.6,0.0,4279.2,0.0,4279.2,136.54,1638.48,5.0,True
+B00911,Mountain Lodge,Resort,US,East,Corporate Agent,Family,1,4,249.33,0.2,997.32,199.46,797.86,111.16,444.64,3.8,False
+B00912,Royal Garden Hotel,City,DE,East,Travel App,Suite,5,4,341.84,0.15,6836.8,1025.52,5811.28,137.67,2753.4,3.4,False
+B00913,Royal Garden Hotel,City,DE,South,Walk-in,Suite,7,1,346.56,0.2,2425.92,485.18,1940.74,139.91,979.37,3.3,True
+B00914,Grand Central Hotel,City,DE,West,Hotel Website,Deluxe,5,2,204.88,0.2,2048.8,409.76,1639.04,89.93,899.3,4.3,False
+B00915,Skyline Suites,City,CA,North,Travel App,Standard,2,3,145.29,0.0,871.74,0.0,871.74,63.2,379.2,3.9,False
+B00916,Royal Garden Hotel,City,UK,West,Walk-in,Suite,3,3,364.84,0.05,3283.56,164.18,3119.38,140.22,1261.98,4.6,True
+B00917,Mountain Lodge,Resort,US,South,Hotel Website,Standard,2,2,140.53,0.05,562.12,28.11,534.01,60.89,243.56,4.1,True
+B00918,Lakeside Inn,Resort,CA,North,Walk-in,Executive,3,2,286.22,0.0,1717.32,0.0,1717.32,122.6,735.6,3.6,False
+B00919,Harbor View Hotel,City,DE,West,Hotel Website,Standard,7,1,145.98,0.15,1021.86,153.28,868.58,64.27,449.89,4.4,False
+B00920,Airport Plaza,Airport,DE,East,Travel App,Family,3,3,282.51,0.2,2542.59,508.52,2034.07,112.14,1009.26,3.2,True
+B00921,Metro Stay,City,US,East,Corporate Agent,Standard,6,3,154.64,0.15,2783.52,417.53,2365.99,61.8,1112.4,3.8,True
+B00922,Sunset Resort,Resort,US,North,Travel App,Deluxe,1,3,203.22,0.2,609.66,121.93,487.73,88.31,264.93,4.0,True
+B00923,Airport Plaza,Airport,US,South,Hotel Website,Suite,6,2,366.94,0.15,4403.28,660.49,3742.79,143.4,1720.8,4.6,True
+B00924,Sunset Resort,Resort,UK,East,Corporate Agent,Standard,5,4,148.75,0.0,2975.0,0.0,2975.0,59.77,1195.4,4.0,False
+B00925,Mountain Lodge,Resort,DE,East,Corporate Agent,Suite,2,4,354.3,0.1,2834.4,283.44,2550.96,136.7,1093.6,4.5,False
+B00926,Mountain Lodge,Resort,DE,East,Walk-in,Suite,7,2,354.87,0.15,4968.18,745.23,4222.95,137.77,1928.78,4.2,True
+B00927,Airport Plaza,Airport,DE,West,Hotel Website,Family,7,2,286.07,0.2,4004.98,801.0,3203.98,114.38,1601.32,4.4,False
+B00928,Grand Central Hotel,City,DE,East,Walk-in,Executive,5,1,312.74,0.2,1563.7,312.74,1250.96,117.15,585.75,4.3,True
+B00929,Mountain Lodge,Resort,US,South,Travel App,Suite,4,1,359.77,0.15,1439.08,215.86,1223.22,141.12,564.48,4.9,False
+B00930,Lakeside Inn,Resort,US,West,Travel App,Deluxe,3,3,207.04,0.15,1863.36,279.5,1583.86,86.51,778.59,3.7,False
+B00931,Ocean Breeze Resort,Resort,US,West,Hotel Website,Standard,4,3,147.18,0.15,1766.16,264.92,1501.24,61.41,736.92,4.9,False
+B00932,Airport Plaza,Airport,DE,South,Hotel Website,Family,6,1,279.39,0.1,1676.34,167.63,1508.71,110.28,661.68,4.3,True
+B00933,Royal Garden Hotel,City,CA,West,Walk-in,Executive,1,2,294.99,0.0,589.98,0.0,589.98,117.75,235.5,4.3,True
+B00934,Grand Central Hotel,City,UK,North,Hotel Website,Suite,7,1,334.92,0.05,2344.44,117.22,2227.22,140.51,983.57,4.9,False
+B00935,Lakeside Inn,Resort,CA,North,Travel App,Suite,3,4,350.73,0.0,4208.76,0.0,4208.76,135.76,1629.12,4.0,False
+B00936,Lakeside Inn,Resort,UK,East,Travel App,Executive,7,2,278.01,0.05,3892.14,194.61,3697.53,119.45,1672.3,3.9,False
+B00937,Ocean Breeze Resort,Resort,US,South,Travel App,Suite,7,3,349.13,0.05,7331.73,366.59,6965.14,143.38,3010.98,3.9,False
+B00938,Ocean Breeze Resort,Resort,CA,North,Corporate Agent,Deluxe,6,1,223.95,0.1,1343.7,134.37,1209.33,89.27,535.62,3.3,False
+B00939,Ocean Breeze Resort,Resort,UK,North,Travel App,Executive,5,3,290.51,0.0,4357.65,0.0,4357.65,121.17,1817.55,4.3,True
+B00940,Airport Plaza,Airport,CA,South,Travel App,Suite,3,2,332.74,0.1,1996.44,199.64,1796.8,133.46,800.76,3.7,True
+B00941,Grand Central Hotel,City,CA,East,Corporate Agent,Deluxe,3,4,210.73,0.05,2528.76,126.44,2402.32,90.47,1085.64,3.5,False
+B00942,Mountain Lodge,Resort,DE,South,Walk-in,Deluxe,6,3,197.59,0.05,3556.62,177.83,3378.79,86.89,1564.02,4.4,True
+B00943,Airport Plaza,Airport,US,South,Hotel Website,Standard,7,1,143.73,0.1,1006.11,100.61,905.5,63.41,443.87,3.3,False
+B00944,Skyline Suites,City,US,West,Corporate Agent,Standard,5,1,149.13,0.05,745.65,37.28,708.37,63.75,318.75,4.1,False
+B00945,Harbor View Hotel,City,UK,East,Walk-in,Standard,3,1,152.42,0.05,457.26,22.86,434.4,62.91,188.73,4.5,True
+B00946,Harbor View Hotel,City,US,South,Hotel Website,Executive,4,3,288.04,0.05,3456.48,172.82,3283.66,120.15,1441.8,4.6,False
+B00947,Grand Central Hotel,City,UK,South,Walk-in,Family,1,2,264.96,0.0,529.92,0.0,529.92,114.35,228.7,4.5,True
+B00948,Sunset Resort,Resort,DE,South,Corporate Agent,Deluxe,6,1,205.8,0.05,1234.8,61.74,1173.06,88.17,529.02,3.7,False
+B00949,Royal Garden Hotel,City,UK,East,Corporate Agent,Executive,3,3,288.86,0.2,2599.74,519.95,2079.79,125.2,1126.8,4.8,False
+B00950,Sunset Resort,Resort,DE,North,Hotel Website,Executive,6,2,315.33,0.15,3783.96,567.59,3216.37,118.81,1425.72,5.0,True
+B00951,Mountain Lodge,Resort,DE,West,Hotel Website,Suite,1,1,361.38,0.15,361.38,54.21,307.17,134.97,134.97,4.3,True
+B00952,Lakeside Inn,Resort,UK,West,Hotel Website,Executive,1,4,299.43,0.05,1197.72,59.89,1137.83,123.7,494.8,4.6,False
+B00953,Royal Garden Hotel,City,CA,East,Corporate Agent,Suite,4,2,331.76,0.0,2654.08,0.0,2654.08,140.76,1126.08,3.8,False
+B00954,Metro Stay,City,US,East,Hotel Website,Standard,4,2,152.82,0.1,1222.56,122.26,1100.3,60.46,483.68,4.4,True
+B00955,Grand Central Hotel,City,CA,East,Walk-in,Suite,2,2,356.14,0.2,1424.56,284.91,1139.65,135.19,540.76,5.0,True
+B00956,Sunset Resort,Resort,CA,North,Hotel Website,Deluxe,1,2,218.5,0.05,437.0,21.85,415.15,86.32,172.64,3.4,True
+B00957,Grand Central Hotel,City,DE,North,Corporate Agent,Executive,3,2,306.68,0.15,1840.08,276.01,1564.07,117.84,707.04,4.5,False
+B00958,Royal Garden Hotel,City,US,East,Corporate Agent,Executive,1,4,288.39,0.0,1153.56,0.0,1153.56,120.85,483.4,4.3,False
+B00959,Mountain Lodge,Resort,CA,East,Corporate Agent,Suite,3,2,355.87,0.0,2135.22,0.0,2135.22,136.69,820.14,3.2,False
+B00960,Lakeside Inn,Resort,US,East,Walk-in,Deluxe,1,3,201.5,0.1,604.5,60.45,544.05,89.94,269.82,4.8,False
+B00961,Mountain Lodge,Resort,DE,South,Hotel Website,Deluxe,1,1,203.91,0.2,203.91,40.78,163.13,86.78,86.78,3.6,True
+B00962,Royal Garden Hotel,City,US,South,Corporate Agent,Deluxe,3,2,199.09,0.2,1194.54,238.91,955.63,89.66,537.96,3.6,False
+B00963,Ocean Breeze Resort,Resort,CA,South,Hotel Website,Standard,5,4,137.88,0.05,2757.6,137.88,2619.72,63.8,1276.0,3.3,True
+B00964,Royal Garden Hotel,City,CA,West,Hotel Website,Suite,6,2,320.62,0.2,3847.44,769.49,3077.95,137.63,1651.56,4.8,False
+B00965,Metro Stay,City,US,West,Travel App,Executive,6,2,313.62,0.15,3763.44,564.52,3198.92,121.92,1463.04,3.2,True
+B00966,Skyline Suites,City,CA,South,Corporate Agent,Suite,3,3,335.41,0.1,3018.69,301.87,2716.82,143.03,1287.27,3.7,True
+B00967,Sunset Resort,Resort,CA,East,Corporate Agent,Suite,3,3,339.61,0.2,3056.49,611.3,2445.19,141.12,1270.08,3.6,False
+B00968,Lakeside Inn,Resort,UK,West,Corporate Agent,Family,2,4,265.13,0.0,2121.04,0.0,2121.04,107.65,861.2,3.4,True
+B00969,Harbor View Hotel,City,DE,North,Walk-in,Standard,5,2,141.13,0.05,1411.3,70.57,1340.73,63.59,635.9,4.4,False
+B00970,Skyline Suites,City,CA,East,Walk-in,Suite,5,2,346.35,0.05,3463.5,173.18,3290.32,141.16,1411.6,3.3,True
+B00971,Metro Stay,City,UK,East,Walk-in,Executive,6,4,315.41,0.15,7569.84,1135.48,6434.36,118.85,2852.4,4.4,False
+B00972,Metro Stay,City,DE,East,Hotel Website,Suite,7,1,330.35,0.0,2312.45,0.0,2312.45,141.5,990.5,4.2,True
+B00973,Skyline Suites,City,CA,North,Walk-in,Standard,1,1,141.25,0.2,141.25,28.25,113.0,61.94,61.94,4.3,False
+B00974,Metro Stay,City,CA,South,Walk-in,Executive,3,3,296.76,0.15,2670.84,400.63,2270.21,122.76,1104.84,5.0,False
+B00975,Grand Central Hotel,City,CA,South,Corporate Agent,Deluxe,7,4,199.81,0.1,5594.68,559.47,5035.21,89.57,2507.96,3.4,False
+B00976,Airport Plaza,Airport,CA,West,Walk-in,Suite,2,1,366.29,0.0,732.58,0.0,732.58,134.48,268.96,3.9,False
+B00977,Skyline Suites,City,DE,North,Walk-in,Family,7,2,255.73,0.2,3580.22,716.04,2864.18,115.66,1619.24,4.1,True
+B00978,Harbor View Hotel,City,UK,South,Corporate Agent,Suite,4,3,366.09,0.1,4393.08,439.31,3953.77,133.55,1602.6,3.2,True
+B00979,Royal Garden Hotel,City,CA,North,Corporate Agent,Executive,5,2,306.07,0.15,3060.7,459.1,2601.6,125.02,1250.2,3.9,False
+B00980,Skyline Suites,City,UK,North,Hotel Website,Family,4,1,283.86,0.15,1135.44,170.32,965.12,112.07,448.28,4.4,True
+B00981,Ocean Breeze Resort,Resort,DE,West,Travel App,Deluxe,5,1,214.83,0.15,1074.15,161.12,913.03,87.36,436.8,4.6,True
+B00982,Grand Central Hotel,City,DE,West,Hotel Website,Executive,2,1,282.45,0.1,564.9,56.49,508.41,122.69,245.38,5.0,True
+B00983,Lakeside Inn,Resort,UK,East,Hotel Website,Deluxe,2,1,221.05,0.15,442.1,66.32,375.78,86.33,172.66,4.3,False
+B00984,Metro Stay,City,US,East,Travel App,Suite,1,4,363.94,0.05,1455.76,72.79,1382.97,137.77,551.08,4.0,True
+B00985,Harbor View Hotel,City,UK,South,Corporate Agent,Executive,5,4,287.46,0.15,5749.2,862.38,4886.82,121.24,2424.8,3.3,True
+B00986,Harbor View Hotel,City,UK,South,Travel App,Standard,7,2,136.89,0.1,1916.46,191.65,1724.81,61.68,863.52,3.5,True
+B00987,Metro Stay,City,DE,North,Travel App,Deluxe,3,2,215.64,0.1,1293.84,129.38,1164.46,91.3,547.8,4.7,False
+B00988,Royal Garden Hotel,City,UK,West,Corporate Agent,Executive,6,3,291.3,0.0,5243.4,0.0,5243.4,118.57,2134.26,4.2,True
+B00989,Mountain Lodge,Resort,UK,South,Hotel Website,Suite,1,1,321.62,0.0,321.62,0.0,321.62,134.47,134.47,3.8,True
+B00990,Lakeside Inn,Resort,UK,South,Travel App,Family,2,4,279.11,0.2,2232.88,446.58,1786.3,116.12,928.96,4.4,True
+B00991,Metro Stay,City,CA,South,Travel App,Family,3,2,266.67,0.2,1600.02,320.0,1280.02,109.54,657.24,3.9,False
+B00992,Lakeside Inn,Resort,CA,West,Hotel Website,Standard,7,3,136.44,0.1,2865.24,286.52,2578.72,62.63,1315.23,4.4,True
+B00993,Grand Central Hotel,City,CA,West,Walk-in,Suite,4,1,365.77,0.1,1463.08,146.31,1316.77,142.16,568.64,4.9,False
+B00994,Sunset Resort,Resort,UK,North,Walk-in,Family,5,4,268.58,0.15,5371.6,805.74,4565.86,112.76,2255.2,4.7,False
+B00995,Sunset Resort,Resort,UK,East,Travel App,Suite,1,3,355.03,0.2,1065.09,213.02,852.07,136.86,410.58,4.0,False
+B00996,Royal Garden Hotel,City,CA,West,Hotel Website,Deluxe,4,1,203.13,0.2,812.52,162.5,650.02,86.36,345.44,3.5,False
+B00997,Harbor View Hotel,City,US,East,Hotel Website,Executive,5,2,278.82,0.0,2788.2,0.0,2788.2,124.75,1247.5,4.0,True
+B00998,Mountain Lodge,Resort,UK,South,Walk-in,Executive,2,1,282.19,0.1,564.38,56.44,507.94,121.79,243.58,4.4,False
+B00999,Metro Stay,City,US,South,Walk-in,Standard,4,3,152.59,0.05,1831.08,91.55,1739.53,60.54,726.48,3.7,False
+B01000,Sunset Resort,Resort,US,North,Travel App,Family,3,1,268.01,0.1,804.03,80.4,723.63,115.19,345.57,3.6,False
